@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<views:BasePage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+                xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                xmlns:views="clr-namespace:PrismMauiTest.Views"
+                x:Class="PrismMauiTest.Views.LoginPage"
+                HideHeader="True">
+
+    <views:BasePage.Content>
+        <Grid Padding="16,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="130" />
+                <RowDefinition Height="16" />
+            </Grid.RowDefinitions>
+            <StackLayout Grid.Row="1">
+                <Button AutomationId="Login_PW_Button_1" Command="{Binding LoginByPasswordCommand}" Text="Login" Margin="0,0,0,12" />
+            </StackLayout>
+        </Grid>
+    </views:BasePage.Content>
+</views:BasePage>

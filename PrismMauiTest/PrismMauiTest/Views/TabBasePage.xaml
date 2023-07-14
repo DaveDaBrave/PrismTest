@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PrismMauiTest.Views.TabBasePage" NavigationPage.HasNavigationBar="False"
+             x:Name="this"
+             ControlTemplate="{DynamicResource BaseContentTemplate}">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <ControlTemplate x:Key="BaseContentTemplate">
+                <Grid BackgroundColor="White" RowSpacing="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+        
+                    <Grid Grid.Row="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <ContentView Grid.Column="1" Padding="16" Margin="{Binding HeaderMargin, Source={x:Reference this}}"
+                                 IsEnabled="{Binding HeadlineTemplate, Source={x:Reference this}}"
+                                 IsVisible="{Binding HeadlineTemplate, Source={x:Reference this}}"
+                                 Content="{Binding HeadlineTemplate, Source={x:Reference this}}" />
+                    </Grid>
+                    <BoxView Grid.Row="1"
+                             HeightRequest="1"
+                             Color="Black"/>
+        
+                    <ContentPresenter Grid.Row="2" BackgroundColor="#F5F5F5" />                    
+                </Grid>
+            </ControlTemplate>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content />
+</ContentPage>

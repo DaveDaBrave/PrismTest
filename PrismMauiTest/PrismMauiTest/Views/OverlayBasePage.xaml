@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:PrismMauiTest.UI.Controls"
+             x:Class="PrismMauiTest.Views.OverlayBasePage"
+             x:Name="This"
+             ControlTemplate="{DynamicResource BaseContentTemplate}"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="#444444">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <ControlTemplate x:Key="BaseContentTemplate">
+                <Grid RowSpacing="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="48" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    
+                    <controls:CustomFrame Margin="0" Padding="0" IsClippedToBounds="True" Grid.Row="1" CornerRadius="30,30,0,0">
+                        <Grid Row="1" RowSpacing="0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="1" />
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            
+                            <Grid Grid.Row="0" RowSpacing="0" Padding="0,16,0,16" BackgroundColor="#F5F5F5">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="16" />
+                                    <RowDefinition Height="Auto" />
+                                    <RowDefinition Height="16" />
+                                </Grid.RowDefinitions>
+                            
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="8" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="Auto" />
+                                    <ColumnDefinition Width="8" />
+                                </Grid.ColumnDefinitions>
+                                
+                                <ContentView Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="3" Margin="{Binding HeaderMargin, Source={x:Reference This}}"
+                                                         IsEnabled="{Binding HeadlineTemplate, Source={x:Reference This}}"
+                                                         IsVisible="{Binding HeadlineTemplate, Source={x:Reference This}}"
+                                                         Content="{Binding HeadlineTemplate, Source={x:Reference This}}"
+                                                         BindingContext="{Binding Source={x:Reference This}, Path=BindingContext}"/>
+                                
+                                <ImageButton Grid.Row="0" Grid.Column="2" Grid.RowSpan="2" BackgroundColor="Transparent" WidthRequest="24" HeightRequest="24" MinimumWidthRequest="28" MinimumHeightRequest="28"
+                                             Padding="2" Margin="0,4,8,0" Source="ic_cross" Clicked="CancelButtonClicked" HorizontalOptions="Start" VerticalOptions="Start" />
+                            </Grid>
+                            
+                            <BoxView Grid.Row="1" Margin="0" 
+                                     Color="Black" 
+                                     HeightRequest="1" />
+                            
+                            <ContentPresenter Grid.Row="2" />
+                        </Grid>
+                    </controls:CustomFrame>
+                </Grid>
+            </ControlTemplate>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content />
+</ContentPage>

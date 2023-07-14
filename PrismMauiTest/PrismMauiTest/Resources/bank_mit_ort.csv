@@ -1,0 +1,3093 @@
+NAME;LOCATION;BLZ;bic;RPDHBCIPT
+Testinstitut 421 das zu Testzwecken auch noch einen echt langen Namen hat;Berlin;94059421;TESTDETT421;0
+Bundesbank;Berlin;10000000;MARKDEF1100;0
+Postbank Ndl der Deutsche Bank;Berlin;10010010;PBNKDEFFXXX;1
+OLINDA Zweigniederlassung Deutschland;Berlin;10010123;QNTODEB2XXX;0
+Treezor, Berlin;Berlin;10010200;TRZODEB2XXX;0
+Klarna Bank German Branch;Berlin;10010300;KLRNDEBEXXX;0
+Aareal Bank;Berlin;10010424;AARBDE5W100;0
+Noelse Pay;Berlin;10010500;AFOPDEB2XXX;0
+Financiere des Paiements Electroniques NL Deutschland;Berlin;10010700;FPEGDEB2XXX;0
+N26 Bank;Berlin;10011001;NTSBDEB1XXX;0
+Swan Zweigniederlassung Deutschland;Berlin;10014000;SWNBDEBBXXX;0
+Swan Zweigniederlassung Deutschland (Geschäftsfeld);Berlin;10014001;SWNBDEBBXXX;0
+Holvi Payment Services Zweigniederlassung Deutschland;Berlin;10017997;HOLVDEB1XXX;0
+BHF-BANK;Berlin;10020200;BHFBDEFF100;47
+Bank für Sozialwirtschaft;Berlin;10020500;BFSWDE33BER;0
+Bank für Sozialwirtschaft AG (nur intern);Berlin;10020510;BFSWDE33BER;0
+Bank für Sozialwirtschaft AG (nur intern);Berlin;10020520;BFSWDE33BER;0
+UniCredit Bank - HypoVereinsbank;Berlin;10020890;HYVEDEMM488;0
+Berlin Hyp;Berlin;10030200;BHYPDEB2XXX;0
+ABK Allgemeine Beamten Bank;Berlin;10030400;ABKBDEB1XXX;0
+M.M. Warburg & Co (vormals Bankhaus Löbbecke);Hamburg;10030500;LOEBDEBBXXX;163
+North Channel Bank;Mainz;10030600;GENODEF1OGK;31
+Eurocity Bank;Frankfurt am Main;10030700;DLGHDEB1XXX;31
+Eurocity Bank Gf GAA;Frankfurt am Main;10030730;DLGHDEB1XXX;0
+EIS Einlagensicherungsbank;Berlin;10031000;EIEGDEB1XXX;0
+Santander Consumer Bank;Berlin;10033300;SCFBDE33XXX;0
+Commerzbank, Filiale Berlin 1;Berlin;10040000;COBADEFFXXX;23
+Commerzbank, Filiale Berlin 3;Berlin;10040005;COBADEFFXXX;23
+Commerzbank, CC SP;Berlin;10040010;COBADEFFXXX;23
+Commerzbank GF-B48;Berlin;10040048;COBADEFFXXX;23
+Commerzbank Gf 160;Berlin;10040060;COBADEFFXXX;23
+Commerzbank Gf 161;Berlin;10040061;COBADEFFXXX;23
+Commerzbank CC;Berlin;10040062;COBADEFFXXX;23
+Commerzbank CC;Berlin;10040063;COBADEFFXXX;23
+Commerzbank, Gf Web-K;Berlin;10040085;COBADEFFXXX;23
+Commerzbank Service-BZ;Berlin;10045050;COBADEFFXXX;23
+Landesbank Berlin - Berliner Sparkasse;Berlin;10050000;BELADEBEXXX;8
+Landesbank Berlin - E 1 -;Berlin;10050005;;0
+Landesbank Berlin - E 2 -;Berlin;10050006;;0
+Landesbank Berlin - E 3 -;Berlin;10050007;;0
+Landesbank Berlin - E 4 -;Berlin;10050008;;0
+S-Kreditpartner, Berlin;Berlin;10050020;SKPADEB1XXX;0
+LBS Ost Berlin;Berlin;10050500;LBSODEB1BLN;0
+DekaBank;Frankfurt am Main;10050999;DGZFDEFFBER;0
+Pax-Bank;Berlin;10060198;GENODED1PA6;56
+Bank für Kirche und Diakonie - KD-Bank Gf Sonder-BLZ;Berlin;10061006;GENODED1KDB;0
+Deutsche Bank;Berlin;10070000;DEUTDEBBXXX;19
+Deutsche Bank;Berlin;10070024;DEUTDEDBBER;19
+Deutsche Bank;Berlin;10070100;DEUTDEBB101;19
+Deutsche Bank;Berlin;10070124;DEUTDEDB101;19
+Postbank/DSL Ndl der Deutsche Bank;Berlin;10070324;DEUTDEDBP30;1
+Postbank/DSL Ndl der Deutsche Bank;Berlin;10070397;DEUTDEBBP30;1
+Postbank/DSL Ndl der Deutsche Bank;Berlin;10070398;DEUTDEBBP31;1
+Postbank/DSL Ndl der Deutsche Bank;Berlin;10070399;DEUTDEBBP32;1
+Deutsche Bank;Berlin;10070848;DEUTDEDB110;19
+Postbank/DSL Ndl der Deutsche Bank;Berlin;10071324;DEUTDEDBP31;1
+Postbank/DSL Ndl der Deutsche Bank;Berlin;10072324;DEUTDEDBP32;1
+norisbank;Berlin;10077777;NORSDE51XXX;167
+Commerzbank vormals Dresdner Bank Filiale Berlin I;Berlin;10080000;DRESDEFF100;23
+Commerzbank vormals Dresdner Bank Zw A;Berlin;10080005;DRESDEFFI26;23
+Commerzbank vormals Dresdner Bank Zw B;Berlin;10080006;DRESDEFFXXX;23
+Commerzbank vormals Dresdner Bank Zw 55;Berlin;10080055;DRESDEFF112;23
+Commerzbank vormals Dresdner Bank Gf ZW 57;Berlin;10080057;DRESDEFF114;23
+Commerzbank vormals Dresdner Bank Gf PCC DCC-ITGK 3;Berlin;10080085;DRESDEFFI53;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4;Berlin;10080086;DRESDEFFI71;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 5;Berlin;10080087;DRESDEFFI72;23
+Commerzbank vormals Dresdner Bank IBLZ;Berlin;10080088;DRESDEFFXXX;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 6;Berlin;10080089;DRESDEFFI73;23
+Commerzbank vormals Dresdner Bank Filiale Berlin III;Berlin;10080900;DRESDEFF199;23
+Commerzbank vormals Dresdner Bank ITGK;Berlin;10089260;DRESDEFFI14;23
+Commerzbank vormals Dresdner Bank ITGK 2;Berlin;10089999;DRESDEFFI99;23
+Berliner Volksbank;Berlin;10090000;BEVODEBBXXX;31
+Bank für Schiffahrt (BFS) Fil d Ostfr VB Leer;Berlin;10090300;GENODEF1BSB;0
+PSD Bank Berlin-Brandenburg;Berlin;10090900;GENODEF1P01;31
+Westend Bank;Frankfurt am Main;10110300;MACODEB1XXX;0
+Investitionsbank Berlin;Berlin;10110400;IBBBDEBBXXX;0
+Quirin Privatbank;Berlin;10110600;QUBKDEBBXXX;0
+Weberbank;Berlin;10120100;WELADED1WBB;8
+Isbank Fil Berlin;Berlin;10130600;ISBKDEFXXXX;47
+flatexDEGIRO Bank;Frankfurt am Main;10130800;BIWBDE33XXX;175
+Lloyds Bank;Berlin;10220500;BOFSDEB1XXX;0
+Sydbank Filiale Berlin;Flensburg;10220600;SYBKDE22BER;47
+Tradegate Wertpapierhandelsbank Berlin;Berlin;10310600;TRDADEB1PBK;0
+Tradegate Wertpapierhandelsbank, GF DIR;Berlin;10310666;TRDADEBBDIR;0
+solarisBank;Berlin;11010100;SOBKDEBBXXX;0
+solarisBank Gf (S);Berlin;11010101;SOBKDEB2XXX;0
+solarisBank Gf (PNTA);Berlin;11010111;PNTADEBBXXX;0
+KfW Kreditanstalt für Wiederaufbau;Berlin;12016836;KFWIDEFF100;0
+Deutsche Kreditbank Berlin;Berlin;12030000;BYLADEM1001;8
+Merck Finck A Quintet Private Bank;Berlin;12030900;MEFIDEMM100;47
+Commerzbank Filiale Berlin 2;Berlin;12040000;COBADEFFXXX;23
+ZVA Norddeutsche Landesbank Gf SA;Hannover;12050555;NOLADE21DVS;0
+DZ BANK;Berlin;12060000;GENODEFF120;0
+Deutsche Bank;Potsdam;12070000;DEUTDEBB160;19
+Deutsche Bank;Potsdam;12070024;DEUTDEDB160;19
+Deutsche Bank;Potsdam;12070070;DEUTDEFFVAC;0
+Deutsche Bank;Potsdam;12070088;DEUTDEDBPAL;0
+Postbank/DSL Ndl der Deutsche Bank;Cottbus;12070400;DEUTDEBBP33;1
+Postbank/DSL Ndl der Deutsche Bank;Cottbus;12070424;DEUTDEDBP33;1
+Commerzbank vormals Dresdner Bank Filiale Berlin II;Berlin;12080000;DRESDEFF120;23
+Sparda-Bank Berlin;Berlin;12096597;GENODEF1S10;31
+Sparkasse Musterstadt;Musterstadt;12345678;;0
+Bundesbank;Rostock;13000000;MARKDEF1130;0
+Commerzbank;Rostock;13040000;COBADEFFXXX;23
+Ostseesparkasse Rostock;Rostock;13050000;NOLADE21ROS;8
+Sparkasse Vorpommern auf Rügen;Bergen auf Rügen;13051042;NOLADE21RUE;0
+Volks- und Raiffeisenbank;Wismar;13061078;GENODEF1HWI;56
+Raiffeisenbank;Bad Doberan;13061128;GENODEF1DBR;0
+Deutsche Bank;Rostock;13070000;DEUTDEBRXXX;19
+Deutsche Bank;Rostock;13070024;DEUTDEDBROS;19
+Postbank/DSL Ndl der Deutsche Bank;Schwerin;13070405;DEUTDEBBP35;1
+Postbank/DSL Ndl der Deutsche Bank;Schwerin;13070424;DEUTDEDBP35;1
+Commerzbank vormals Dresdner Bank;Rostock;13080000;DRESDEFF130;23
+Pommersche Volksbank;Stralsund;13091054;GENODEF1HST;56
+Commerzbank;Schwerin;14040000;COBADEFFXXX;23
+Sparkasse Mecklenburg-Nordwest;Wismar;14051000;NOLADE21WIS;8
+Sparkasse Mecklenburg-Schwerin;Parchim;14051362;NOLADE21PCH;0
+Sparkasse Mecklenburg-Schwerin;Schwerin;14052000;NOLADE21LWL;8
+VR Bank Mecklenburg eG;Rostock;14061308;GENODEF1GUE;56
+Commerzbank vormals Dresdner Bank;Schwerin;14080000;DRESDEFF140;23
+Commerzbank vormals Dresdner Bank Zw W;Schwerin;14080011;DRESDEFFI27;23
+Bundesbank;Neubrandenburg;15000000;MARKDEF1150;0
+Commerzbank;Neubrandenburg;15040068;COBADEFFXXX;23
+Müritz-Sparkasse;Waren (Müritz);15050100;NOLADE21WRN;8
+Sparkasse Neubrandenburg-Demmin;Neubrandenburg;15050200;NOLADE21NBS;8
+Sparkasse Uecker-Randow;Pasewalk;15050400;NOLADE21PSW;8
+Sparkasse Vorpommern;Greifswald;15050500;NOLADE21GRW;8
+Sparkasse Mecklenburg-Strelitz;Neustrelitz;15051732;NOLADE21MST;8
+Raiffeisenbank Mecklenburger Seenplatte;Waren (Müritz);15061618;GENODEF1WRN;56
+Volksbank Vorpommern;Greifswald;15061638;GENODEF1ANK;56
+Commerzbank vormals Dresdner Bank;Neubrandenburg;15080000;DRESDEFF150;23
+Volksbank Demmin;Demmin, Hansestadt;15091674;GENODEF1DM1;56
+VR-Bank Uckermark-Randow;Prenzlau;15091704;GENODEF1PZ1;56
+SEB;Potsdam;16010111;ESSEDE5F160;0
+Investitionsbank des Landes Brandenburg;Potsdam;16010300;ILBXDE8XXXX;0
+UniCredit Bank - HypoVereinsbank;Potsdam;16020086;HYVEDEMM470;0
+Commerzbank;Potsdam;16040000;COBADEFFXXX;23
+Mittelbrandenburgische Sparkasse in Potsdam;Potsdam;16050000;WELADED1PMB;8
+Sparkasse Prignitz;Pritzwalk;16050101;WELADED1PRP;8
+Sparkasse Ostprignitz-Ruppin;Neuruppin;16050202;WELADED1OPR;8
+LBS Ostdeutsche Landesbausparkasse;Potsdam;16050500;LBSODEB1XXX;0
+Volks- und Raiffeisenbank Prignitz;Perleberg;16060122;GENODEF1PER;56
+Raiffeisenbank Ostprignitz-Ruppin;Neuruppin;16061938;GENODEF1NPP;56
+VR-Bank Fläming-Elsterland;Luckenwalde;16062008;GENODEF1LUK;56
+Brandenburger Bank;Brandenburg an der Havel;16062073;GENODEF1BRB;56
+Commerzbank vormals Dresdner Bank;Potsdam;16080000;DRESDEFF160;23
+Volksbank Rathenow;Rathenow;16091994;GENODEF1RN1;56
+UniCredit Bank - HypoVereinsbank;Frankfurt (Oder);17020086;HYVEDEMM471;0
+Commerzbank;Frankfurt (Oder);17040000;COBADEFFXXX;23
+Sparkasse Barnim;Eberswalde;17052000;WELADED1GZE;8
+Stadtsparkasse Schwedt;Schwedt/Oder;17052302;WELADED1UMX;8
+Sparkasse Märkisch-Oderland;Strausberg;17054040;WELADED1MOL;8
+Sparkasse Oder-Spree;Frankfurt (Oder);17055050;WELADED1LOS;8
+Sparkasse Uckermark;Prenzlau;17056060;WELADED1UMP;8
+Raiffeisenbank-Volksbank Oder-Spree;Beeskow;17062428;GENODEF1BKW;56
+Commerzbank vormals Dresdner Bank;Frankfurt (Oder);17080000;DRESDEFF170;23
+VRB Fürstenwalde Seelow Wriezen eG;Fürstenwalde/Spree;17092404;GENODEF1FW1;56
+UniCredit Bank - HypoVereinsbank;Cottbus;18020086;HYVEDEMM472;0
+Commerzbank;Cottbus;18040000;COBADEFFXXX;23
+Sparkasse Spree-Neiße;Cottbus;18050000;WELADED1CBN;8
+Sparkasse Elbe-Elster;Finsterwalde;18051000;WELADED1EES;8
+Sparkasse Niederlausitz;Senftenberg;18055000;WELADED1OSL;8
+VR Bank Lausitz;Cottbus;18062678;GENODEF1FWA;56
+Commerzbank vormals Dresdner Bank;Cottbus;18080000;DRESDEFF180;23
+Spreewaldbank;Lübben (Spreewald);18092684;GENODEF1LN1;56
+Volksbank Spree-Neiße;Spremberg;18092744;GENODEF1SPM;56
+Virtuelle Bankleitzahl der 1822direkt;Frankfurt, Main;18220000;;0
+Bundesbank;Hamburg;20000000;MARKDEF1200;0
+Postbank Ndl der Deutsche Bank;Hamburg;20010020;PBNKDEFFXXX;1
+Aareal Bank ehem. Filiale Hamburg;Wiesbaden;20010424;AARBDE5W200;0
+Skandinaviska Enskilda Banken (publ) Hamburg Branch;Frankfurt am Main;20020200;ESSEDEFFHAM;0
+Jyske Bank Fil Hamburg;Hamburg;20020500;JYBADEHHXXX;0
+Signal Iduna Bauspar;Hamburg;20020900;SIBSDEHHXXX;0
+UniCredit Bank - HypoVereinsbank;Hamburg;20030000;HYVEDEMM300;21
+Varengold Bank;Hamburg;20030133;VGAGDEHHXXX;0
+DONNER & REUSCHEL;Hamburg;20030300;CHDBDEHHXXX;56
+Donner + Reuschel GF NL LUX;Hamburg;20030301;CHDBDEHHXXX;0
+Marcard, Stein & Co Bankiers;Hamburg;20030400;MCRDDEHHXXX;163
+Sydbank Fil Hamburg;Hamburg;20030600;SYBKDE22HAM;47
+Merck Finck A Quintet Private Bank;Hamburg;20030700;MEFIDEMM200;47
+Commerzbank;Hamburg;20040000;COBADEFFXXX;23
+Commerzbank, Filiale Hamburg 2;Hamburg;20040005;COBADEFFXXX;23
+Commerzbank, CC SP;Hamburg;20040020;COBADEFFXXX;23
+Commerzbank GF RME;Hamburg;20040040;COBADEFFXXX;23
+Commerzbank GF-H48;Hamburg;20040048;COBADEFFXXX;23
+Commerzbank GF COC;Hamburg;20040050;COBADEFFXXX;23
+Commerzbank Gf 260;Hamburg;20040060;COBADEFFXXX;23
+Commerzbank Gf 261;Hamburg;20040061;COBADEFFXXX;23
+Commerzbank CC;Hamburg;20040062;COBADEFFXXX;23
+Commerzbank CC;Hamburg;20040063;COBADEFFXXX;23
+Commerzbank - GF comdirect;Quickborn;20041111;COBADEHDXXX;68
+Commerzbank - GF comdirect;Quickborn;20041133;COBADEHD001;68
+Commerzbank - GF comdirect;Quickborn;20041144;COBADEHD044;68
+Commerzbank - GF comdirect;Quickborn;20041155;COBADEHD055;68
+Commerzbank - GF comdirect;Quickborn;20041166;COBADEHD066;68
+Commerzbank - GF comdirect;Quickborn;20041177;COBADEHD077;68
+Commerzbank - GF comdirect;Quickborn;20041188;COBADEHD088;68
+Commerzbank - GF comdirect;Quickborn;20041199;COBADEHD099;68
+Hamburg Commercial Bank, ehemals HSH Nordbank Hamburg;Hamburg;20050000;HSHNDEHHXXX;0
+Hamburger Sparkasse;Hamburg;20050550;HASPDEHHXXX;8
+DZ BANK;Hamburg;20060000;GENODEFF200;0
+Raiffeisenbank;Seestermühe;20069144;GENODEF1SST;56
+Raiffeisenbank Südstormarn Mölln;Mölln;20069177;GENODEF1GRS;56
+Raiffeisenbank Owschlag;Owschlag;20069641;GENODEF1OWS;56
+Volksbank Ahlerstedt;Ahlerstedt;20069780;GENODEF1AST;56
+Volksbank Geest;Apensen;20069782;GENODEF1APE;56
+Volksbank Kehdingen Zndl. der Ostfriesischen Volksbank;Drochtersen;20069786;GENODEF1DRO;56
+Spar- und Kreditbank;Hammah;20069800;GENODEF1HAA;56
+Volksbank Fredenbeck;Fredenbeck;20069812;GENODEF1FRB;56
+Volksbank;Oldendorf;20069815;GENODEF1815;56
+Volksbank Winsener Marsch;Marschacht;20069965;GENODEF1WIM;56
+Deutsche Bank;Hamburg;20070000;DEUTDEHHXXX;19
+Deutsche Bank;Hamburg;20070024;DEUTDEDBHAM;19
+Postbank/DSL Ndl der Deutsche Bank;Hamburg;20070404;DEUTDEHHP34;1
+Postbank/DSL Ndl der Deutsche Bank;Hamburg;20070424;DEUTDEDBP34;1
+Commerzbank vormals Dresdner Bank;Hamburg;20080000;DRESDEFF200;23
+Commerzbank vormals Dresdner Bank Zw 55;Hamburg;20080055;DRESDEFF207;23
+Commerzbank vormals Dresdner Bank Gf ZW 57;Hamburg;20080057;DRESDEFF208;23
+Commerzbank vormals Dresdner Bank Gf PCC DCC-ITGK 2;Hamburg;20080085;DRESDEFFI56;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 3;Hamburg;20080086;DRESDEFFI63;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4;Hamburg;20080087;DRESDEFFI64;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 5;Hamburg;20080088;DRESDEFFI74;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 6;Hamburg;20080089;DRESDEFFI75;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 7;Hamburg;20080091;DRESDEFFJ33;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 8;Hamburg;20080092;DRESDEFFJ34;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 9;Hamburg;20080093;DRESDEFFJ35;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 10;Hamburg;20080094;DRESDEFFJ36;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 11;Hamburg;20080095;DRESDEFFJ37;23
+Commerzbank vormals Dresdner Bank ITGK;Hamburg;20089200;DRESDEFFI06;23
+DZ HYP;Hamburg;20090400;DGHYDEH1XXX;0
+Edekabank;Hamburg;20090700;EDEKDEHHXXX;56
+EBANK Gf Cash;Hamburg;20090745;EDEKDEHHXXX;0
+PSD Bank Nord;Hamburg;20090900;GENODEF1P08;31
+Postbank Ndl der Deutsche Bank;Hamburg;20110022;PBNKDEFFXXX;1
+MUFG Bank (Europe) Germany Branch;Düsseldorf;20110700;BOTKDEH1XXX;0
+Bank of China Fil Hamburg;Hamburg;20110800;BKCHDEFFHMB;0
+Joh. Berenberg, Gossler & Co;Hamburg;20120000;BEGODEHHXXX;0
+M.M. Warburg & CO;Hamburg;20120100;WBWCDEHHXXX;163
+BHF-BANK;Hamburg;20120200;BHFBDEFF200;47
+start:bausparkasse;Hamburg;20120400;DRBKDEH1XXX;0
+Bank für Sozialwirtschaft AG (nur intern);Hamburg;20120520;BFSWDE33HAN;0
+Goyer & Göppel;Hamburg;20120600;GOGODEH1XXX;0
+Hanseatic Bank;Hamburg;20120700;HSTBDEHHXXX;0
+GRENKE BANK;Baden-Baden;20130400;GREBDEH1XXX;31
+Barclays Bank Ireland Hamburg Branch;Hamburg;20130600;BARCDEHAXXX;0
+Santander Consumer Bank;Hamburg;20133300;SCFBDE33XXX;0
+Hamburger Volksbank;Hamburg;20190003;GENODEF1HH2;56
+Hamburger Volksbank (Gf GAA);Hamburg;20190077;GENODEF1HH2;0
+Volksbank Raiffeisenbank eG;Bad Oldesloe;20190109;GENODEF1HH4;56
+MKB Mittelstandskreditbank;Hamburg;20190800;GENODEF1MKB;56
+Bank Melli Iran;Hamburg;20210200;MELIDEHHXXX;0
+Bank Saderat Iran;Hamburg;20210300;SIHRDEH1HAM;0
+DNB Bank ASA - Filiale Deutschland;Hamburg;20220100;DNBADEHXXXX;0
+Warburg, M.M. - Hypothekenbank;Hamburg;20220400;MMWHDEH1XXX;0
+Banking Circle - German Branch;München;20220800;SXPYDEHHXXX;0
+Otto M. Schröder Bank;Hamburg;20230300;OSCBDEH1XXX;31
+Isbank Hamburg;Hamburg;20230600;ISBKDEFXXXX;47
+Sutor Bank;Hamburg;20230800;MHSBDEHBXXX;0
+Europäisch-Iranische Handelsbank;Hamburg;20310300;EIHBDEHHXXX;0
+Sparda-Bank Hamburg;Hamburg;20690500;GENODEF1S11;31
+UniCredit Bank - HVB Settlement EAC01;Hamburg;20730001;HYVEDEMME01;0
+UniCredit Bank - HVB Settlement EAC02;Hamburg;20730002;HYVEDEMME02;0
+UniCredit Bank - HVB Settlement EAC03;Hamburg;20730003;HYVEDEMME03;0
+UniCredit Bank - HVB Settlement EAC04;Hamburg;20730004;HYVEDEMME04;0
+UniCredit Bank - HVB Settlement EAC05;Hamburg;20730005;HYVEDEMME05;0
+UniCredit Bank - HVB Settlement EAC06;Hamburg;20730006;HYVEDEMME06;0
+UniCredit Bank - HVB Settlement EAC07;Hamburg;20730007;HYVEDEMME07;0
+UniCredit Bank - HVB Settlement EAC08;Hamburg;20730008;HYVEDEMME08;0
+UniCredit Bank - HVB Settlement EAC09;Hamburg;20730009;HYVEDEMME09;0
+UniCredit Bank - HVB Settlement EAC10;Hamburg;20730010;HYVEDEMME10;0
+UniCredit Bank - HVB Settlement EAC11;Hamburg;20730011;HYVEDEMME11;0
+UniCredit Bank - HVB Settlement EAC12;Hamburg;20730012;HYVEDEMME12;0
+UniCredit Bank - HVB Settlement EAC13;Hamburg;20730013;HYVEDEMME13;0
+UniCredit Bank - HVB Settlement EAC14;Hamburg;20730014;HYVEDEMME14;0
+UniCredit Bank - HVB Settlement EAC15;Hamburg;20730015;HYVEDEMME15;0
+UniCredit Bank - HVB Settlement EAC16;Hamburg;20730016;HYVEDEMME16;0
+UniCredit Bank - HVB Settlement EAC17;Hamburg;20730017;HYVEDEMME17;0
+UniCredit Bank - HVB Settlement EAC18;Hamburg;20730018;HYVEDEMME18;0
+UniCredit Bank - HVB Settlement EAC19;Hamburg;20730019;HYVEDEMME19;0
+UniCredit Bank - HVB Settlement EAC20;Hamburg;20730020;HYVEDEMME20;0
+UniCredit Bank - HVB Settlement EAC21;Hamburg;20730021;HYVEDEMME21;0
+UniCredit Bank - HVB Settlement EAC22;Hamburg;20730022;HYVEDEMME22;0
+UniCredit Bank - HVB Settlement EAC23;Hamburg;20730023;HYVEDEMME23;0
+UniCredit Bank - HVB Settlement EAC24;Hamburg;20730024;HYVEDEMME24;0
+UniCredit Bank - HVB Settlement EAC25;Hamburg;20730025;HYVEDEMME25;0
+UniCredit Bank - HVB Settlement EAC26;Hamburg;20730026;HYVEDEMME26;0
+UniCredit Bank - HVB Settlement EAC27;Hamburg;20730027;HYVEDEMME27;0
+UniCredit Bank - HVB Settlement EAC28;Hamburg;20730028;HYVEDEMME28;0
+UniCredit Bank - HVB Settlement EAC29;Hamburg;20730029;HYVEDEMME29;0
+UniCredit Bank - HVB Settlement EAC30;Hamburg;20730030;HYVEDEMME30;0
+UniCredit Bank - HVB Settlement EAC31;Hamburg;20730031;HYVEDEMME31;0
+UniCredit Bank - HVB Settlement EAC32;Hamburg;20730032;HYVEDEMME32;0
+UniCredit Bank - HVB Settlement EAC33;Hamburg;20730033;HYVEDEMME33;0
+UniCredit Bank - HVB Settlement EAC34;Hamburg;20730034;HYVEDEMME34;0
+UniCredit Bank - HVB Settlement EAC35;Hamburg;20730035;HYVEDEMME35;0
+UniCredit Bank - HVB Settlement EAC36;Hamburg;20730036;HYVEDEMME36;0
+UniCredit Bank - HVB Settlement EAC37;Hamburg;20730037;HYVEDEMME37;0
+UniCredit Bank - HVB Settlement EAC38;Hamburg;20730038;HYVEDEMME38;0
+UniCredit Bank - HVB Settlement EAC39;Hamburg;20730039;HYVEDEMME39;0
+UniCredit Bank - HVB Settlement EAC40;Hamburg;20730040;HYVEDEMME40;0
+UniCredit Bank - HVB Settlement EAC41;Hamburg;20730041;HYVEDEMME41;0
+UniCredit Bank - HVB Settlement EAC42;Hamburg;20730042;HYVEDEMME42;0
+UniCredit Bank - HVB Settlement EAC43;Hamburg;20730043;HYVEDEMME43;0
+UniCredit Bank - HVB Settlement EAC44;Hamburg;20730044;HYVEDEMME44;0
+UniCredit Bank - HVB Settlement EAC45;Hamburg;20730045;HYVEDEMME45;0
+UniCredit Bank - HVB Settlement EAC46;Hamburg;20730046;HYVEDEMME46;0
+UniCredit Bank - HVB Settlement EAC47;Hamburg;20730047;HYVEDEMME47;0
+UniCredit Bank - HVB Settlement EAC48;Hamburg;20730048;HYVEDEMME48;0
+UniCredit Bank - HVB Settlement EAC49;Hamburg;20730049;HYVEDEMME49;0
+UniCredit Bank - HVB Settlement EAC50;Hamburg;20730050;HYVEDEMME50;0
+UniCredit Bank - HVB Settlement EAC52;Hamburg;20730052;HYVEDEMME52;0
+UniCredit Bank - HVB Settlement EAC55;Hamburg;20730055;HYVEDEMME55;0
+UniCredit Bank - HVB Settlement EAC56;Hamburg;20730056;HYVEDEMME56;0
+UniCredit Bank - HVB Settlement EAC57;Hamburg;20730057;HYVEDEMME57;0
+UniCredit Bank - HVB Settlement EAC58;Hamburg;20730058;HYVEDEMME58;0
+UniCredit Bank - HVB Settlement EAC59;Hamburg;20730059;HYVEDEMME59;0
+UniCredit Bank - HVB Settlement EAC60;Hamburg;20730060;HYVEDEMME60;0
+UniCredit Bank - HVB Settlement EAC61;Hamburg;20730061;HYVEDEMME61;0
+UniCredit Bank - HVB Settlement EAC62;Hamburg;20730062;HYVEDEMME62;0
+UniCredit Bank - HVB Settlement EAC63;Hamburg;20730063;HYVEDEMME63;0
+UniCredit Bank - HVB Settlement EAC64;Hamburg;20730064;HYVEDEMME64;0
+UniCredit Bank - HVB Settlement EAC65;Hamburg;20730065;HYVEDEMME65;0
+UniCredit Bank - HVB Settlement EAC66;Hamburg;20730066;HYVEDEMME66;0
+UniCredit Bank - HVB Settlement EAC67;Hamburg;20730067;HYVEDEMME67;0
+UniCredit Bank - HVB Settlement EAC68;Hamburg;20730068;HYVEDEMME68;0
+UniCredit Bank - HVB Settlement EAC69;Hamburg;20730069;HYVEDEMME69;0
+UniCredit Bank - HVB Settlement EAC70;Hamburg;20730070;HYVEDEMME70;0
+UniCredit Bank - HVB Settlement EAC71;Hamburg;20730071;HYVEDEMME71;0
+UniCredit Bank - HVB Settlement EAC72;Hamburg;20730072;HYVEDEMME72;0
+UniCredit Bank - HVB Settlement EAC73;Hamburg;20730073;HYVEDEMME73;0
+UniCredit Bank - HVB Settlement EAC74;Hamburg;20730074;HYVEDEMME74;0
+UniCredit Bank - HVB Settlement EAC75;Hamburg;20730075;HYVEDEMME75;0
+UniCredit Bank - HVB Settlement EAC76;Hamburg;20730076;HYVEDEMME76;0
+UniCredit Bank - HVB Settlement EAC77;Hamburg;20730077;HYVEDEMME77;0
+UniCredit Bank - HVB Settlement EAC78;Hamburg;20730078;HYVEDEMME78;0
+UniCredit Bank - HVB Settlement EAC79;Hamburg;20730079;HYVEDEMME79;0
+UniCredit Bank - HVB Settlement EAC80;Hamburg;20730080;HYVEDEMME80;0
+UniCredit Bank - HVB Settlement EAC81;Hamburg;20730081;HYVEDEMME81;0
+UniCredit Bank - HVB Settlement EAC82;Hamburg;20730082;HYVEDEMME82;0
+UniCredit Bank - HVB Settlement EAC83;Hamburg;20730083;HYVEDEMME83;0
+UniCredit Bank - HVB Settlement EAC84;Hamburg;20730084;HYVEDEMME84;0
+UniCredit Bank - HVB Settlement EAC85;Hamburg;20730085;HYVEDEMME85;0
+UniCredit Bank - HVB Settlement EAC86;Hamburg;20730086;HYVEDEMME86;0
+UniCredit Bank - HVB Settlement EAC87;Hamburg;20730087;HYVEDEMME87;0
+UniCredit Bank - HVB Settlement EAC88;Hamburg;20730088;HYVEDEMME88;0
+UniCredit Bank - HVB Settlement EAC89;Hamburg;20730089;HYVEDEMME89;0
+UniCredit Bank - HVB Settlement EAC90;Hamburg;20730090;HYVEDEMME90;0
+UniCredit Bank - HVB Settlement EAC91;Hamburg;20730091;HYVEDEMME91;0
+UniCredit Bank - HVB Settlement EAC92;Hamburg;20730092;HYVEDEMME92;0
+UniCredit Bank - HVB Settlement EAC93;Hamburg;20730093;HYVEDEMME93;0
+UniCredit Bank - HVB Settlement EAC94;Hamburg;20730094;HYVEDEMME94;0
+UniCredit Bank - HVB Settlement EAC95;Hamburg;20730095;HYVEDEMME95;0
+UniCredit Bank - HVB Settlement EAC96;Hamburg;20730096;HYVEDEMME96;0
+UniCredit Bank - HVB Settlement EAC97;Hamburg;20730097;HYVEDEMME97;0
+UniCredit Bank - HVB Settlement EAC98;Hamburg;20730098;HYVEDEMME98;0
+UniCredit Bank - HVB Settlement EAC99;Hamburg;20730099;HYVEDEMME99;0
+Sparkasse Harburg-Buxtehude;Hamburg;20750000;NOLADE21HAM;8
+Bundesbank eh Kiel;Hamburg;21000000;MARKDEF1210;0
+Sydbank Filiale Kiel;Kiel;21020600;SYBKDE22KIE;47
+Commerzbank;Kiel;21040010;COBADEFFXXX;23
+Commerzbank;Eckernförde;21042076;COBADEFFXXX;23
+Hamburg Commercial Bank, ehemals HSH Nordbank Hamburg;Hamburg;21050000;HSHNDEHHXXX;0
+Förde Sparkasse;Kiel;21050170;NOLADE21KIE;8
+Bordesholmer Sparkasse;Bordesholm;21051275;NOLADE21BOR;8
+Deutsche Bank;Kiel;21070020;DEUTDEHH210;19
+Deutsche Bank;Kiel;21070024;DEUTDEDB210;19
+Commerzbank vormals Dresdner Bank;Kiel;21080050;DRESDEFF210;23
+Commerzbank vormals Dresdner Bank ITGK;Kiel;21089201;DRESDEFFI07;23
+Kieler Volksbank;Kiel;21090007;GENODEF1KIL;56
+Kieler Volksbank (Gf GAA);Kiel;21090099;GENODEF1KIL;0
+PSD Bank Kiel;Kiel;21090900;GENODEF1P11;31
+Eckernförder Bank Volksbank-Raiffeisenbank;Eckernförde;21092023;GENODEF1EFO;56
+SEB;Neumünster;21210111;ESSEDE5F212;0
+Commerzbank;Neumünster;21240040;COBADEFFXXX;23
+Commerzbank;Bad Bramstedt;21241540;COBADEFFXXX;23
+Deutsche Bank;Neumünster;21270020;DEUTDEHH212;19
+Deutsche Bank;Neumünster;21270024;DEUTDEDB212;19
+Commerzbank vormals Dresdner Bank;Neumünster;21280002;DRESDEFF212;23
+Commerzbank;Neustadt in Holstein;21340010;COBADEFFXXX;23
+Sparkasse Holstein;Eutin;21352240;NOLADE21HOL;8
+VR Bank zwischen den Meeren eG;Neumünster;21390008;GENODEF1NSH;56
+Volksbank Eutin Raiffeisenbank;Eutin;21392218;GENODEF1EUT;56
+Commerzbank;Rendsburg;21440045;COBADEFFXXX;23
+Sparkasse Mittelholstein;Rendsburg;21450000;NOLADE21RDB;8
+Raiffeisenbank;Todenbüttel;21464671;GENODEF1TOB;56
+Commerzbank vormals Dresdner Bank;Rendsburg;21480003;DRESDEFF214;23
+Sydbank Filiale Flensburg;Flensburg;21510600;SYBKDE22XXX;47
+Union-Bank Flensburg;Flensburg;21520100;UNBNDE21XXX;56
+Commerzbank;Flensburg;21540060;COBADEFFXXX;23
+Deutsche Bank;Flensburg;21570011;DEUTDEHH215;19
+Deutsche Bank;Flensburg;21570024;DEUTDEDB215;19
+Postbank/DSL Ndl der Deutsche Bank;Flensburg;21570202;DEUTDEHHP01;1
+Postbank/DSL Ndl der Deutsche Bank;Flensburg;21570224;DEUTDEDBP01;1
+Commerzbank vormals Dresdner Bank;Flensburg;21580000;DRESDEFF215;23
+VR Bank Schleswig-Mittelholstein eG;Osterrönfeld;21690020;GENODEF1SLW;56
+Commerzbank;Husum;21740043;COBADEFFXXX;23
+Commerzbank;Niebüll;21741674;COBADEFFXXX;23
+Commerzbank;Sylt;21741825;COBADEFFXXX;23
+Nord-Ostsee Sparkasse;Schleswig;21750000;NOLADE21NOS;8
+VR Bank Westküste;Husum;21762550;GENODEF1HUM;56
+VR Bank Nord;Flensburg;21763542;GENODEF1BDS;56
+Deutsche Bank;Husum;21770011;DEUTDEHH217;19
+Deutsche Bank;Husum;21770024;DEUTDEDB217;19
+Sylter Bank;Sylt;21791805;GENODEF1SYL;56
+Vereinigte VR Bank;Wyk auf Föhr;21791906;GENODEF1WYK;56
+Commerzbank;Heide;21840078;COBADEFFXXX;23
+Commerzbank;Brunsbüttel;21841328;COBADEFFXXX;23
+Dithmarscher Volks- und Raiffeisenbank;Heide;21890022;GENODEF1DVR;56
+Commerzbank;Elmshorn;22140028;COBADEFFXXX;23
+Commerzbank;Kaltenkirchen;22141028;COBADEFFXXX;23
+Commerzbank;Pinneberg;22141428;COBADEFFXXX;23
+Commerzbank;Uetersen;22141628;COBADEFFXXX;23
+Sparkasse Elmshorn;Elmshorn;22150000;NOLADE21ELH;8
+Stadtsparkasse Wedel;Wedel;22151730;NOLADE21WED;8
+Raiffeisenbank Elbmarsch;Heist;22163114;GENODEF1HTE;56
+Commerzbank vormals Dresdner Bank;Elmshorn;22180000;DRESDEFF221;23
+Commerzbank vormals Dresdner Bank;Pinneberg;22181400;DRESDEFF206;23
+VR Bank in Holstein;Pinneberg;22191405;GENODEF1PIN;56
+Commerzbank;Itzehoe;22240073;COBADEFFXXX;23
+Sparkasse Westholstein;Itzehoe;22250020;NOLADE21WHO;8
+Commerzbank vormals Dresdner Bank;Itzehoe;22280000;DRESDEFF201;23
+Bundesbank eh Lübeck;Hamburg;23000000;MARKDEF1230;0
+Commerzbank;Lübeck;23040022;COBADEFFXXX;23
+Hamburg Commercial Bank, ehemals HSH Nordbank Hamburg;Hamburg;23050000;HSHNDEHH230;0
+Sparkasse zu Lübeck;Lübeck;23050101;NOLADE21SPL;8
+Sparkasse Südholstein;Neumünster;23051030;NOLADE21SHO;8
+Kreissparkasse Herzogtum Lauenburg;Mölln;23052750;NOLADE21RZB;8
+Raiffeisenbank Leezen;Leezen;23061220;GENODEF1LZN;56
+Raiffeisenbank;Lauenburg;23063129;GENODEF1RLB;56
+Raiffeisenbank;Büchen;23064107;GENODEF1BCH;56
+Postbank/DSL Ndl der Deutsche Bank;Lübeck;23070203;DEUTDEHHP02;1
+Postbank/DSL Ndl der Deutsche Bank;Lübeck;23070224;DEUTDEDBP02;1
+Deutsche Bank;Lübeck;23070700;DEUTDEDB237;19
+Deutsche Bank;Lübeck;23070710;DEUTDEHH222;19
+Commerzbank vormals Dresdner Bank;Lübeck;23080040;DRESDEFF230;23
+Commerzbank vormals Dresdner Bank ITGK;Lübeck;23089201;DRESDEFFI08;23
+Volksbank Lübeck;Lübeck;23090142;GENODEF1HLU;56
+Commerzbank;Lüneburg;24040000;COBADEFFXXX;23
+Sparkasse Lüneburg;Lüneburg;24050110;NOLADE21LBG;8
+Volksbank Lüneburger Heide;Winsen (Luhe);24060300;GENODEF1NBU;31
+Deutsche Bank;Lüneburg;24070024;DEUTDEDB240;19
+Deutsche Bank;Lüneburg;24070075;DEUTDE2H240;19
+Postbank/DSL Ndl der Deutsche Bank;Lüneburg;24070324;DEUTDEDBP22;1
+Postbank/DSL Ndl der Deutsche Bank;Lüneburg;24070368;DEUTDE2HP22;1
+Commerzbank vormals Dresdner Bank;Lüneburg;24080000;DRESDEFF240;23
+Ritterschaftliches Kreditinstitut Stade;Stade;24121000;GENODED1RKI;0
+Commerzbank;Cuxhaven;24140041;COBADEFFXXX;23
+Stadtsparkasse Cuxhaven;Cuxhaven;24150001;BRLADE21CUX;8
+Sparkasse Stade-Altes Land;Stade;24151005;NOLADE21STS;8
+Kreissparkasse Stade;Stade;24151116;NOLADE21STK;8
+Sparkasse Rotenburg Osterholz;Zeven;24151235;BRLADE21ROB;8
+Zevener Volksbank;Zeven;24161594;GENODEF1SIT;56
+SDK Börde Lamstedt-Hechthausen eG;Lamstedt;24162898;GENODEF1LAS;56
+Commerzbank vormals Dresdner Bank;Otterndorf;24180000;DRESDEFF242;23
+Commerzbank vormals Dresdner Bank;Cuxhaven;24180001;DRESDEFF241;23
+Volksbank Stade-Cuxhaven;Stade;24191015;GENODEF1SDE;56
+Bundesbank;Hannover;25000000;MARKDEF1250;0
+Postbank Ndl der Deutsche Bank;Hannover;25010030;PBNKDEFFXXX;1
+Aareal Bank ehem. Filiale Hannover;Wiesbaden;25010424;AARBDE5W250;0
+NORD/LB vormals Deutsche Hypothekenbank;Hannover;25010600;DEHYDE2HXXX;0
+Calenberger Kreditverein;Hannover;25010900;CKVHDE21XXX;0
+BHF-BANK;Hannover;25020200;BHFBDEFF250;47
+Santander Consumer Bank;Hannover;25020600;SCFBDE33XXX;0
+Commerzbank CC;Hannover;25040060;COBADEFFXXX;23
+Commerzbank CC;Hannover;25040061;COBADEFFXXX;23
+Commerzbank;Hannover;25040066;COBADEFFXXX;23
+NORD/LB Landessparkasse;Hannover;25050000;NOLADE2HXXX;8
+ZVA Norddeutsche Landesbank SH;Hannover;25050055;NOLADE21CSH;0
+ZVA Norddeutsche Landesbank Gf MV;Hannover;25050066;NOLADE21CMV;0
+Sparkasse Hannover;Hannover;25050180;SPKHDE2HXXX;8
+LBS Norddeutsche Landesbausparkasse Berlin-Hannover;Hannover;25055500;NOLADE21LBS;0
+DZ BANK;Hannover;25060000;GENODEFF250;0
+M.M. Warburg & Co (vormals Bankhaus Hallbaum);Hamburg;25060180;HALLDE2HXXX;163
+Raiffeisen-Volksbank Neustadt;Neustadt am Rübenberge;25069262;GENODEF1NST;56
+Volksbank Aller-Oker;Müden (Aller);25069270;GENODEF1MUA;56
+Deutsche Bank;Hannover;25070024;DEUTDEDBHAN;19
+Deutsche Bank;Stadthagen;25070066;DEUTDE2H265;19
+Deutsche Bank;Hannover;25070070;DEUTDE2HXXX;19
+Deutsche Bank;Nienburg (Weser);25070077;DEUTDE2H256;19
+Deutsche Bank;Soltau;25070084;DEUTDE2H258;19
+Deutsche Bank;Holzminden;25070086;DEUTDE2H251;19
+Postbank/DSL Ndl der Deutsche Bank;Hannover;25070324;DEUTDEDBP24;1
+Postbank/DSL Ndl der Deutsche Bank;Hannover;25070370;DEUTDE2HP24;1
+Commerzbank vormals Dresdner Bank;Hannover;25080020;DRESDEFF250;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2;Hamburg;25080085;DRESDEFFI65;23
+Commerzbank vormals Dresdner Bank ITGK;Hannover;25089220;DRESDEFFI09;23
+Bank für Schiffahrt (BFS) Fil d Ostfr VB Leer;Hannover;25090300;GENODEF1BFS;56
+Sparda-Bank Hannover;Hannover;25090500;GENODEF1S09;31
+PSD Bank Hannover eG;Hannover;25090900;GENODEF1P09;31
+Bank für Sozialwirtschaft;Hannover;25120510;BFSWDE33HAN;0
+Stadtsparkasse Barsinghausen;Barsinghausen;25151270;NOLADE21BAH;8
+Stadtsparkasse Burgdorf;Burgdorf;25151371;NOLADE21BUF;8
+Kreissparkasse Fallingbostel in Walsrode;Walsrode;25152375;NOLADE21WAL;8
+Stadtsparkasse Wunstorf;Wunstorf;25152490;NOLADE21WST;8
+Hannoversche Volksbank;Hannover;25190001;VOHADE2HXXX;31
+Hannoversche Volksbank GS nur für GAA;Lindwedel;25190088;VOHADE2HXXX;0
+Volksbank;Pattensen;25193331;GENODEF1PAT;31
+SEB;Hameln;25410111;ESSEDE5F254;0
+BHW Bausparkasse;Hameln;25410200;BHWBDE2HXXX;0
+Commerzbank;Hameln;25440047;COBADEFFXXX;23
+Sparkasse Hameln-Weserbergland;Hameln;25450110;NOLADE21SWB;8
+Stadtsparkasse Bad Pyrmont;Bad Pyrmont;25451345;NOLADE21PMT;8
+Volksbank Hameln-Stadthagen;Hameln;25462160;GENODEF1HMP;56
+Volksbank im Wesertal;Coppenbrügge;25462680;GENODEF1COP;56
+Deutsche Bank;Hameln;25470024;DEUTDEDB254;19
+Deutsche Bank;Hameln;25470073;DEUTDE2H254;19
+Deutsche Bank;Rinteln;25471024;DEUTDEDB264;19
+Deutsche Bank;Rinteln;25471073;DEUTDE2H264;19
+Commerzbank vormals Dresdner Bank;Hameln;25480021;DRESDEFF254;23
+Commerzbank;Bückeburg;25541426;COBADEFFXXX;23
+Sparkasse Schaumburg;Rinteln;25551480;NOLADE21SHG;8
+Volksbank in Schaumburg und Nienburg;Rinteln;25591413;GENODEF1BCK;56
+Oldenburgische Landesbank AG;Diepholz;25621327;OLBODEH2XXX;0
+Commerzbank;Diepholz;25641302;COBADEFFXXX;23
+Sparkasse Nienburg;Nienburg (Weser);25650106;NOLADE21NIB;8
+Kreissparkasse Grafschaft Diepholz;Diepholz;25651325;BRLADE21DHZ;8
+Volksbank Niedersachsen-Mitte;Hoya;25691633;GENODEF1SUL;56
+Volksbank Niedersachsen-Mitte (Gf GAA);Hoya;25691699;GENODEF1SUL;0
+Commerzbank;Celle;25740061;COBADEFFXXX;23
+Deutsche Bank;Celle;25770024;DEUTDEDB257;19
+Deutsche Bank;Celle;25770069;DEUTDE2H257;19
+Commerzbank vormals Dresdner Bank;Celle;25780022;DRESDEFF257;23
+Volksbank Südheide - Isenhagener Land - Altmark;Celle;25791635;GENODEF1HMN;31
+Commerzbank;Uelzen;25840048;COBADEFFXXX;23
+Commerzbank;Lüchow (Wendland);25841403;COBADEFFXXX;23
+Commerzbank;Schneverdingen;25841708;COBADEFFXXX;23
+Sparkasse Uelzen Lüchow-Dannenberg;Uelzen;25850110;NOLADE21UEL;8
+Kreissparkasse Soltau;Soltau;25851660;NOLADE21SOL;8
+Volksbank Uelzen-Salzwedel eG;Uelzen;25862292;GENODEF1EUB;56
+VR PLUS Altmark-Wendland;Lüchow (Wendland);25863489;GENODEF1WOT;56
+SEB;Hildesheim;25910111;ESSEDE5F259;0
+Commerzbank;Hildesheim;25940033;COBADEFFXXX;23
+Sparkasse Hildesheim Goslar Peine;Hildesheim;25950130;NOLADE21HIK;8
+Deutsche Bank;Hildesheim;25970024;DEUTDEDB259;19
+Deutsche Bank;Hildesheim;25970074;DEUTDE2H259;19
+Deutsche Bank;Alfeld (Leine);25971024;DEUTDEDB253;19
+Deutsche Bank;Alfeld (Leine);25971071;DEUTDE2H253;19
+Commerzbank vormals Dresdner Bank;Hildesheim;25980027;DRESDEFF259;23
+Volksbank Hildesheim;Hildesheim;25990011;GENODEF1HIH;56
+Bundesbank;Göttingen;26000000;MARKDEF1260;0
+SEB;Göttingen;26010111;ESSEDE5F260;0
+Commerzbank;Göttingen;26040030;COBADEFFXXX;23
+Sparkasse Göttingen;Göttingen;26050001;NOLADE21GOE;8
+Sparkasse Duderstadt;Duderstadt;26051260;NOLADE21DUD;8
+Volksbank;Adelebsen;26061556;GENODEF1ADE;56
+VR-Bank in Südniedersachsen;Dransfeld;26062433;GENODEF1DRA;56
+Deutsche Bank;Göttingen;26070024;DEUTDEDB260;19
+Deutsche Bank;Göttingen;26070072;DEUTDE2H260;19
+Commerzbank vormals Dresdner Bank;Göttingen;26080024;DRESDEFF260;23
+Commerzbank;Northeim;26240039;COBADEFFXXX;23
+Kreis-Sparkasse Northeim;Northeim;26250001;NOLADE21NOM;8
+Sparkasse Einbeck;Einbeck;26251425;NOLADE21EIN;8
+Volksbank Solling;Hardegsen;26261693;GENODEF1HDG;56
+Deutsche Bank;Einbeck;26271424;DEUTDEDB262;19
+Deutsche Bank;Einbeck;26271471;DEUTDE2H262;19
+Commerzbank vormals Dresdner Bank;Northeim;26280020;DRESDEFF261;23
+Commerzbank vormals Dresdner Bank;Einbeck;26281420;DRESDEFF262;23
+Commerzbank;Osterode am Harz;26340056;COBADEFFXXX;23
+Commerzbank;Herzberg am Harz;26341072;COBADEFFXXX;23
+Sparkasse Osterode am Harz;Osterode am Harz;26350001;NOLADE21OHA;0
+Sparkasse Osterode am Harz;Osterode am Harz;26351015;NOLADE21HZB;8
+Bundesbank;Osnabrück;26500000;MARKDEF1265;0
+SEB;Osnabrück;26510111;ESSEDE5F265;0
+Oldenburgische Landesbank AG;Osnabrück;26520017;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Bramsche;26521703;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Quakenbrück;26522319;OLBODEH2XXX;0
+Commerzbank;Osnabrück;26540070;COBADEFFXXX;23
+Sparkasse Osnabrück;Osnabrück;26550105;NOLADE22XXX;8
+Kreissparkasse Bersenbrück;Bersenbrück;26551540;NOLADE21BEB;8
+Kreissparkasse Melle;Melle;26552286;NOLADE21MEL;8
+Volksbank Bad Laer-Borgloh-Hilter-Melle;Hilter am Teutoburger Wald;26562490;GENODEF1HTR;56
+Volksbank GMHütte-Hagen-Bissendorf;Georgsmarienhütte;26565928;GENODEF1HGM;56
+VR-Bank Osnabrücker Nordland;Fürstenau;26567943;GENODEF1NOP;56
+Deutsche Bank;Osnabrück;26570024;DEUTDEDB265;19
+Deutsche Bank;Osnabrück;26570090;DEUTDE3B265;19
+Commerzbank vormals Dresdner Bank;Osnabrück;26580070;DRESDEFF265;23
+Commerzbank vormals Dresdner Bank ITGK;Osnabrück;26589210;DRESDEFFI10;23
+Vereinigte Volksbank Bramgau Osnabrück Wittlage;Osnabrück;26590025;GENODEF1OSV;56
+Oldenburgische Landesbank AG;Lingen (Ems);26620010;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Meppen;26621413;OLBODEH2XXX;0
+Commerzbank;Lingen (Ems);26640049;COBADEFFXXX;23
+Sparkasse Emsland;Meppen;26650001;NOLADE21EMS;8
+Emsländische Volksbank;Lingen (Ems);26660060;GENODEF1LIG;56
+Volksbank Haselünne;Haselünne;26661380;GENODEF1HLN;56
+Emsländische Volksbank eG;Meppen;26661494;GENODEF1MEP;56
+Volksbank;Lengerich;26662932;GENODEF1LEN;56
+Volksbank Haren Fil d Ostfriesischen VB;Haren (Ems);26691213;GENODEF1HAR;0
+Oldenburgische Landesbank AG;Nordhorn;26720028;OLBODEH2XXX;0
+Commerzbank;Nordhorn;26740044;COBADEFFXXX;23
+Kreissparkasse Grafschaft Bentheim zu Nordhorn;Nordhorn;26750001;NOLADE21NOH;8
+Deutsche Bank;Nordhorn;26770024;DEUTDEDB267;19
+Deutsche Bank;Nordhorn;26770095;DEUTDE3B267;19
+Commerzbank;Goslar;26840032;COBADEFFXXX;23
+Deutsche Bank;Goslar;26870024;DEUTDEDB268;19
+Deutsche Bank;Goslar;26870032;DEUTDE2H268;19
+Commerzbank vormals Dresdner Bank;Goslar;26880063;DRESDEFF268;23
+Volksbank Nordharz;Goslar;26890019;GENODEF1VNH;56
+Volksbank im Harz;Osterode am Harz;26891484;GENODEF1OHA;56
+Commerzbank Wolfsburg;Wolfsburg;26941053;COBADEFFXXX;23
+Sparkasse Celle-Gifhorn-Wolfsburg;Gifhorn;26951311;NOLADE21GFW;8
+Deutsche Bank;Wolfsburg;26971024;DEUTDEDB269;19
+Deutsche Bank;Wolfsburg;26971038;DEUTDE2H269;19
+Commerzbank vormals Dresdner Bank;Wolfsburg;26981062;DRESDEFF269;23
+Commerzbank vormals Dresdner Bank ITGK;Wolfsburg;26989221;DRESDEFFI11;23
+Volksbank Braunschweig Wolfsburg;Wolfsburg;26991066;GENODEF1WOB;56
+Volkswagen Bank;Braunschweig;27020000;VOWADE2BXXX;0
+AUDI BANK Zndl d Volkswagen Bank;Braunschweig;27020001;AUDFDE21;0
+Skoda Bank;Braunschweig;27020003;SKODDE21;0
+AutoEuropa Bank;Braunschweig;27020004;ECBKDE21;0
+Seat Bank Zndl d Volkswagen Bank;Braunschweig;27020800;SEATDE21;0
+Bankhaus C. L. Seeliger;Wolfenbüttel;27032500;BCLSDE21XXX;172
+Commerzbank;Braunschweig;27040080;COBADEFFXXX;23
+Volksbank Börßum-Hornburg;Börßum;27062290;GENODEF1BOH;56
+Deutsche Bank;Braunschweig;27070024;DEUTDEDB270;19
+Deutsche Bank;Braunschweig;27070030;DEUTDE2H270;19
+Deutsche Bank;Gifhorn;27070031;DEUTDE2H271;19
+Deutsche Bank;Osterode am Harz;27070034;DEUTDE2H274;19
+Deutsche Bank;Bad Sachsa;27070041;DEUTDE2H279;19
+Deutsche Bank;Bad Harzburg;27070042;DEUTDE2H272;19
+Deutsche Bank;Helmstedt;27070043;DEUTDE2H273;19
+Deutsche Bank;Peine;27070079;DEUTDE2H275;19
+Postbank/DSL Ndl der Deutsche Bank;Braunschweig;27070324;DEUTDEDBP23;1
+Postbank/DSL Ndl der Deutsche Bank;Braunschweig;27070369;DEUTDE2HP23;1
+Deutsche Bank;Wolfenbüttel;27072524;DEUTDEDB277;19
+Deutsche Bank;Wolfenbüttel;27072537;DEUTDE2H277;19
+Deutsche Bank;Salzgitter;27072724;DEUTDEDB276;19
+Deutsche Bank;Salzgitter;27072736;DEUTDE2H276;19
+Commerzbank vormals Dresdner Bank;Braunschweig;27080060;DRESDEFF270;23
+Commerzbank vormals Dresdner Bank ITGK;Braunschweig;27089221;DRESDEFFI12;23
+PSD Bank Braunschweig eG;Braunschweig;27090900;GENODEF1P02;31
+Volksbank Wolfenbüttel-Salzgitter;Wolfenbüttel;27092555;GENODEF1WFV;56
+Bankhaus Rautenschlein;Schöningen;27131300;GENODEF1RTS;31
+Commerzbank;Holzminden;27240004;COBADEFFXXX;23
+Volksbank Braunlage;Braunlage;27893359;GENODEF1BLG;56
+Volksbank;Seesen;27893760;GENODEF1SES;56
+Bundesbank;Oldenburg;28000000;MARKDEF1280;0
+SEB;Oldenburg, Oldb;28010111;ESSEDE5F280;0
+Oldenburgische Landesbank AG;Oldenburg;28020050;OLBODEH2XXX;95
+Oldenburgische Landesbank AG;Brake (Unterweser);28021002;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Bad Zwischenahn;28021301;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Cloppenburg;28021504;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Damme;28021623;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Delmenhorst;28021705;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Elsfleth;28021906;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Nordenham;28022015;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Löningen;28022412;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Lohne (Oldenburg);28022511;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Rastede;28022620;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Vechta;28022822;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Westerstede;28023224;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Wildeshausen;28023325;OLBODEH2XXX;0
+Oldenburgische Landesbank (vormals W. Fortmann & Söhne);Oldenburg;28030300;FORTDEH4XXX;95
+Commerzbank;Oldenburg;28040046;COBADEFFXXX;23
+Commerzbank;Vechta;28042865;COBADEFFXXX;23
+Landessparkasse zu Oldenburg;Oldenburg;28050100;SLZODE22XXX;8
+Raiffeisenbank Wesermarsch-Süd;Brake (Unterweser);28061410;GENODEF1BRN;56
+VR-Bank in Südoldenburg;Garrel;28061501;GENODEF1CLP;56
+Volksbank Dammer Berge;Damme;28061679;GENODEF1DAM;56
+Oldenburger Volksbank;Oldenburg;28061822;GENODEF1EDE;56
+Raiffeisenbank Rastede;Rastede;28062165;GENODEF1RSE;56
+Vereinigte Volksbank;Hude;28062249;GENODEF1HUD;56
+Vereinigte Volksbank GAA;Hude;28062299;GENODEF1HUD;0
+Volksbank Lohne-Mühlen;Lohne (Oldenburg);28062560;GENODEF1LON;56
+Volksbank Westerstede;Westerstede;28063253;GENODEF1WRE;56
+Volksbank Essen-Cappeln;Cappeln (Oldenburg);28063526;GENODEF1ESO;56
+Volksbank Vechta;Vechta;28064179;GENODEF1VEC;56
+Raiffeisen-Volksbank Varel-Nordenham;Nordenham;28064241;GENODEF1NHE;0
+Volksbank Löningen;Löningen;28065061;GENODEF1LOG;56
+VR-Bank Dinklage-Steinfeld;Dinklage;28065108;GENODEF1DIK;56
+Raiffeisenbank Scharrel;Saterland;28065286;GENODEF1SAN;56
+Volksbank Visbek;Visbek;28066103;GENODEF1VIS;56
+VR Bank Oldenburg Land;Wildeshausen;28066214;GENODEF1WDH;56
+Spar- und Darlehnskasse Friesoythe;Friesoythe;28066620;GENODEF1FOY;56
+Volksbank Delmenhorst Schierbrok;Delmenhorst;28067170;GENODEF1GSC;56
+Volksbank Lastrup;Lastrup;28067257;GENODEF1LAP;56
+Raiffeisenbank Butjadingen-Abbehausen;Butjadingen;28068218;GENODEF1BUT;56
+Raiffeisenbank Strücklingen-Idafehn;Ostrhauderfehn;28069052;GENODEF1ORF;56
+Volksbank Emstek;Emstek;28069109;GENODEF1EMK;56
+Hümmlinger Volksbank;Werlte;28069381;GENODEF1WLT;56
+Volksbank Nordhümmling;Börger;28069706;GENODEF1BOG;56
+Raiffeisenbank Oldersum;Moormerland;28069755;GENODEF1MLO;56
+RB Wiesedermeer-Wiesede-Marcardsmoor eG;Friedeburg;28069773;GENODEF1WWM;56
+Raiffeisenbank Ems-Vechte;Klein Berßen;28069878;GENODEF1KBL;56
+Volksbank Niedergrafschaft;Uelsen;28069926;GENODEF1HOO;56
+Raiffeisenbank Lorup;Lorup;28069935;GENODEF1LRU;56
+Grafschafter Volksbank;Nordhorn;28069956;GENODEF1NEV;56
+Volksbank Emstal;Lathen;28069991;GENODEF1LTH;56
+Volksbank Süd-Emsland;Spelle;28069994;GENODEF1SPL;56
+Deutsche Bank;Oldenburg;28070024;DEUTDEDB280;19
+Deutsche Bank;Oldenburg;28070057;DEUTDEHB280;19
+Oldenburgische Landesbank AG;Wilhelmshaven;28220026;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Jever;28222208;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Varel;28222621;OLBODEH2XXX;0
+Commerzbank;Wilhelmshaven;28240023;COBADEFFXXX;23
+Sparkasse Wilhelmshaven;Wilhelmshaven;28250110;BRLADE21WHV;8
+Kreissparkasse Wittmund;Wittmund;28252760;BRLADE21WTM;0
+Volksbank Jever;Jever;28262254;GENODEF1JEV;56
+Raiffeisen-Volksbank Varel-Nordenham;Varel;28262673;GENODEF1VAR;56
+Deutsche Bank;Wilhelmshaven;28270024;DEUTDEDB282;19
+Deutsche Bank;Wilhelmshaven;28270056;DEUTDEHB282;19
+Commerzbank vormals Dresdner Bank;Wilhelmshaven;28280012;DRESDEFF282;23
+Volksbank Wilhelmshaven;Wilhelmshaven;28290063;GENODEF1WHV;56
+Volksbank Esens;Esens;28291551;GENODEF1ESE;56
+Oldenburgische Landesbank AG;Norden;28320014;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Norderney;28321816;OLBODEH2XXX;0
+Sparkasse Aurich-Norden;Aurich;28350000;BRLADE21ANO;8
+Raiffeisen-Volksbank Fresena;Norden;28361592;GENODEF1MAR;56
+Oldenburgische Landesbank AG;Emden;28420007;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Aurich;28421030;OLBODEH2XXX;0
+Commerzbank;Emden;28440037;COBADEFFXXX;23
+Sparkasse Emden;Emden;28450000;BRLADE21EMD;8
+Deutsche Bank;Emden;28470024;DEUTDEDB284;19
+Deutsche Bank;Emden;28470091;DEUTDEHB284;19
+Oldenburgische Landesbank AG;Leer (Ostfriesland);28520009;OLBODEH2XXX;0
+Oldenburgische Landesbank AG;Papenburg;28521518;OLBODEH2XXX;0
+Commerzbank;Leer (Ostfriesland);28540034;COBADEFFXXX;23
+Sparkasse LeerWittmund;Leer (Ostfriesland);28550000;BRLADE21LER;8
+Raiffeisen-Volksbank;Aurich;28562297;GENODEF1UPL;56
+Raiffeisenbank Flachsmeer;Westoverledingen;28562716;GENODEF1WEF;56
+Raiffeisenbank Moormerland;Holtland;28562863;GENODEF1HTL;56
+Raiffeisenbank;Moormerland;28563749;GENODEF1MML;56
+Deutsche Bank;Leer (Ostfriesland);28570024;DEUTDEDB285;19
+Deutsche Bank;Leer (Ostfriesland);28570092;DEUTDEHB285;19
+Ostfriesische Volksbank eG;Leer (Ostfriesland);28590075;GENODEF1LER;56
+Volksbank Papenburg Fil d. Ostfries. VB Leer;Papenburg;28591579;GENODEF1PAP;0
+Volksbank Westrhauderfehn;Rhauderfehn;28591654;GENODEF1WRH;56
+Bundesbank eh Bremen;Hannover;29000000;MARKDEF1290;0
+SEB;Bremen;29010111;ESSEDE5F290;0
+Bankhaus Neelmeyer;Bremen;29020000;NEELDE22XXX;95
+Greensill Bank;Bremen;29020200;NFHBDE21XXX;56
+M.M. Warburg & Co (vormals Bankhaus Carl F. Plump & CO);Hamburg;29030400;PLUMDE29XXX;163
+Commerzbank CC;Bremen;29040060;COBADEFFXXX;23
+Commerzbank CC;Bremen;29040061;COBADEFFXXX;23
+Commerzbank;Bremen;29040090;COBADEFFXXX;23
+Die Sparkasse Bremen;Bremen;29050101;SBREDE22XXX;8
+Deutsche Bank;Bremen;29070024;DEUTDEDBBRE;19
+Deutsche Bank;Bremen;29070050;DEUTDEHBXXX;19
+Deutsche Bank;Bremerhaven;29070051;DEUTDEHB292;19
+Deutsche Bank;Delmenhorst;29070052;DEUTDEHB294;19
+Deutsche Bank;Cloppenburg;29070058;DEUTDEHB293;19
+Deutsche Bank;Vechta;29070059;DEUTDEHB290;19
+Postbank/DSL Ndl der Deutsche Bank;Bremen;29070324;DEUTDEDBP21;1
+Postbank/DSL Ndl der Deutsche Bank;Bremen;29070367;DEUTDEHBP21;1
+Commerzbank vormals Bremer Bank (Dresdner Bank);Bremen;29080010;DRESDEFF290;23
+Commerzbank vormals Bremer Bank (Dresdner Bank) ITGK;Bremen;29089210;DRESDEFFI13;23
+PSD Bank Nord;Bremen;29090900;GENODEF1P03;0
+Oldenburgische Landesbank AG;Syke;29121731;OLBODEH2XXX;0
+Kreissparkasse Syke;Syke;29151700;BRLADE21SYK;8
+Zweckverbandssparkasse Scheeßel;Scheeßel;29152550;BRLADE21SHL;8
+Kreissparkasse Verden;Verden (Aller);29152670;BRLADE21VER;8
+Volksbank;Osterholz-Scharmbeck;29162394;GENODEF1OHZ;56
+Volksbank Schwanewede;Schwanewede;29162453;GENODEF1SWW;56
+Volksbank Oyten;Oyten;29165545;GENODEF1OYT;56
+Volksbank Sottrum;Sottrum;29165681;GENODEF1SUM;56
+Volksbank;Worpswede;29166568;GENODEF1WOP;56
+Volksbank Syke;Syke;29167624;GENODEF1SHR;56
+Deutsche Bank;Verden (Aller);29172624;DEUTDEDB291;19
+Deutsche Bank;Verden (Aller);29172655;DEUTDEHB291;19
+Bremische Volksbank;Bremen;29190024;GENODEF1HB1;56
+Volksbank Bremen-Nord;Bremen;29190330;GENODEF1HB2;56
+Volksbank Bremen-Nord (Gf GAA);Bremen;29190399;GENODEF1HB2;0
+SEB;Bremerhaven;29210111;ESSEDE5F292;0
+Commerzbank;Bremerhaven;29240024;COBADEFFXXX;23
+Weser-Elbe Sparkasse;Bremerhaven;29250000;BRLADE21BRS;8
+Volksbank Geeste-Nord;Geestland;29262722;GENODEF1BRV;56
+Volksbank Bremerhaven-Cuxland;Beverstedt;29265747;GENODEF1BEV;56
+Commerzbank vormals Dresdner Bank;Bremerhaven;29280011;DRESDEFF292;23
+Bundesbank eh Düsseldorf;Düsseldorf;30000000;MARKDEF1300;0
+IKB Deutsche Industriebank;Düsseldorf;30010400;IKBDDEDDXXX;178
+IKB Privatkunden - IKB Deutsche Industriebank;Düsseldorf;30010444;IKBDDEDDDIR;0
+MUFG Bank (Europe) Germany Branch;Düsseldorf;30010700;BOTKDEDXXXX;47
+VIVA PAYMENT SERVICES - Zweigniederlassung Deutschland;Berlin;30018800;VPAYDE32XXX;0
+BHF-BANK;Düsseldorf;30020500;BHFBDEFF300;47
+Mizuho Bank Filiale Düsseldorf;Düsseldorf;30020700;MHCBDEDDXXX;0
+TARGOBANK;Düsseldorf;30020900;CMCIDEDDXXX;18
+NRW.BANK;Düsseldorf;30022000;NRWBDEDMXXX;0
+Sbroker;Wiesbaden;30030100;PULSDEDDXXX;0
+Bank11direkt;Neuss;30030500;CUABDED1XXX;56
+ETRIS Bank;Wuppertal;30030600;ETRIDE31XXX;0
+HSBC Trinkaus & Burkhardt;Düsseldorf;30030880;TUBDDEDD;47
+HSBC Trinkaus VAC;Düsseldorf;30030889;TUBDDEDDXXX;0
+Merck Finck A Quintet Private Bank;Düsseldorf;30030900;MEFIDEMM300;47
+Commerzbank;Düsseldorf;30040000;COBADEFFXXX;23
+Commerzbank, Filiale Düsseldorf 2;Düsseldorf;30040005;COBADEFFXXX;23
+Commerzbank GF-D48;Düsseldorf;30040048;COBADEFFXXX;23
+Commerzbank Gf 660;Düsseldorf;30040060;COBADEFFXXX;23
+Commerzbank Gf 661;Düsseldorf;30040061;COBADEFFXXX;23
+Commerzbank CC;Düsseldorf;30040062;COBADEFFXXX;23
+Commerzbank CC;Düsseldorf;30040063;COBADEFFXXX;23
+Commerzbank Gf Comp. Center STS;Düsseldorf;30040099;COBADEFFSTS;0
+Landesbank Hessen-Thüringen Girozentrale NL. Düsseldorf;Düsseldorf;30050000;WELADEDDXXX;0
+Stadtsparkasse Düsseldorf;Düsseldorf;30050110;DUSSDEDDXXX;8
+DZ BANK;Düsseldorf;30060010;GENODEDDXXX;56
+apoBank;Düsseldorf;30060601;DAAEDEDDXXX;153
+PSD Bank Rhein-Ruhr;Düsseldorf;30060992;GENODEF1P05;31
+Deutsche Bank;Düsseldorf;30070010;DEUTDEDDXXX;19
+Deutsche Bank;Düsseldorf;30070024;DEUTDEDBDUE;19
+Postbank/DSL Ndl der Deutsche Bank;Düsseldorf;30070207;DEUTDEDDP06;1
+Postbank/DSL Ndl der Deutsche Bank;Düsseldorf;30070224;DEUTDEDBP06;1
+Commerzbank vormals Dresdner Bank;Düsseldorf;30080000;DRESDEFF300;23
+Commerzbank vormals Dresdner Bank Zw 05;Düsseldorf;30080005;DRESDEFFXXX;23
+Commerzbank vormals Dresdner Bank Ztv 22;Düsseldorf;30080022;DRESDEFFI28;23
+Commerzbank vormals Dresdner Bank Zw 38;Düsseldorf;30080038;DRESDEFFXXX;23
+Commerzbank vormals Dresdner Bank Zw 41;Düsseldorf;30080041;DRESDEFFI29;23
+Commerzbank vormals Dresdner Bank Zw 53;Düsseldorf;30080053;DRESDEFFI30;23
+Commerzbank vormals Dresdner Bank Zw 55;Düsseldorf;30080055;DRESDEFF309;23
+Commerzbank vormals Dresdner Bank Gf ZW 57;Düsseldorf;30080057;DRESDEFF316;23
+Commerzbank vormals Dresdner Bank Zw 61;Düsseldorf;30080061;DRESDEFFI31;23
+Commerzbank vormals Dresdner Bank Zw 74;Düsseldorf;30080074;DRESDEFFI32;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 3;Düsseldorf;30080080;DRESDEFFI76;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4;Düsseldorf;30080081;DRESDEFFI77;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 5;Düsseldorf;30080082;DRESDEFFI78;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 6;Düsseldorf;30080083;DRESDEFFI79;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 7;Düsseldorf;30080084;DRESDEFFI80;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 8;Düsseldorf;30080085;DRESDEFFI81;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 9;Düsseldorf;30080086;DRESDEFFI82;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 10;Düsseldorf;30080087;DRESDEFFI83;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 11;Düsseldorf;30080088;DRESDEFFI84;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 12;Düsseldorf;30080089;DRESDEFFI85;23
+Commerzbank vormals Dresdner Bank Zw 95;Düsseldorf;30080095;DRESDEFFI33;23
+Commerzbank vormals Dresdner Bank ITGK I;Düsseldorf;30089300;DRESDEFFI02;23
+Commerzbank vormals Dresdner Bank ITGK II;Düsseldorf;30089302;DRESDEFFI03;23
+Sumitomo Mitsui Banking Corporation;Düsseldorf;30110300;SMBCDEDDXXX;0
+Demir-Halk Bank (Nederland);Düsseldorf;30130100;DHBNDEDDXXX;0
+GarantiBank International;Düsseldorf;30130200;UGBIDEDDXXX;0
+Isbank Fil Düsseldorf;Düsseldorf;30130600;ISBKDEFXDUS;47
+Helaba Düsseldorf Gf Verrechnung FI-Dus;Düsseldorf;30150001;;0
+Kreissparkasse Düsseldorf;Düsseldorf;30150200;WELADED1KSD;8
+Volksbank Düsseldorf Neuss;Düsseldorf;30160213;GENODED1DNE;56
+Volksbank Düsseldorf Neuss (Gf GAA);Düsseldorf;30160266;GENODED1DNE;0
+UniCredit Bank - HypoVereinsbank;Düsseldorf;30220190;HYVEDEMM414;0
+flatexDEGIRO Bank;Frankfurt am Main;30330800;BIWBDE33303;0
+Stadt-Sparkasse Haan;Haan;30351220;WELADED1HAA;8
+RCI Banque Niederlassung Deutschland;Neuss;30520000;RCIDDE3NXXX;0
+RCI Banque Direkt;Neuss;30520037;RCIDDE3NPAY;56
+KBC Bank Ndl Deutschland;Düsseldorf;30524400;KREDDEDDXXX;0
+Bankhaus Werhahn;Neuss;30530000;WERHDED1XXX;31
+Bank11 für Privatkunden und Handel, Neuss;Neuss;30530500;WEFZDED1XXX;56
+Sparkasse Neuss;Neuss;30550000;WELADEDNXXX;8
+VR Bank;Monheim am Rhein;30560548;GENODED1NLD;56
+VR Bank (Gf GAA);Monheim am Rhein;30560591;GENODED1NLD;0
+SEB;Mönchengladbach;31010111;ESSEDE5F310;0
+Santander Consumer Bank;Mönchengladbach;31010833;SCFBDE33XXX;0
+Commerzbank;Mönchengladbach;31040015;COBADEFFXXX;23
+Commerzbank CC;Mönchengladbach;31040060;COBADEFFXXX;23
+Commerzbank CC;Mönchengladbach;31040061;COBADEFFXXX;23
+Stadtsparkasse Mönchengladbach;Mönchengladbach;31050000;MGLSDE33XXX;8
+Gladbacher Bank von 1922;Mönchengladbach;31060181;GENODED1GBM;56
+Volksbank Mönchengladbach;Mönchengladbach;31060517;GENODED1MRB;56
+Volksbank Brüggen-Nettetal;Brüggen;31062154;GENODED1KBN;56
+Volksbank Schwalmtal;Niederkrüchten;31062553;GENODED1NKR;56
+Deutsche Bank;Mönchengladbach;31070001;DEUTDEDD310;19
+Deutsche Bank;Mönchengladbach;31070024;DEUTDEDB310;19
+Postbank/DSL Ndl der Deutsche Bank;Mönchengladbach;31070206;DEUTDEDDP05;1
+Postbank/DSL Ndl der Deutsche Bank;Mönchengladbach;31070224;DEUTDEDBP05;1
+Commerzbank vormals Dresdner Bank;Mönchengladbach;31080015;DRESDEFF310;23
+Commerzbank vormals Dresdner Bank Zw 61;Mönchengladbach;31080061;DRESDEFFI34;23
+Kreissparkasse Heinsberg in Erkelenz;Erkelenz;31251220;WELADED1ERK;8
+Volksbank Erkelenz;Erkelenz;31261282;GENODED1EHE;56
+Volksbank Viersen;Viersen;31460290;GENODED1VSN;56
+Deutsche Bank;Viersen;31470004;DEUTDEDD314;19
+Deutsche Bank;Viersen;31470024;DEUTDEDB314;19
+Commerzbank;Krefeld;32040024;COBADEFFXXX;23
+Sparkasse Krefeld;Krefeld;32050000;SPKRDE33XXX;8
+Volksbank Krefeld;Krefeld;32060362;GENODED1HTK;56
+Volksbank an der Niers;Kevelaer;32061384;GENODED1GDL;56
+Volksbank Kempen-Grefrath;Kempen;32061414;GENODED1KMP;56
+Deutsche Bank;Krefeld;32070024;DEUTDEDB320;19
+Deutsche Bank;Krefeld;32070080;DEUTDEDD320;19
+Commerzbank vormals Dresdner Bank;Krefeld;32080010;DRESDEFF320;23
+Commerzbank;Kleve;32440023;COBADEFFXXX;23
+Sparkasse Rhein-Maas;Kleve;32450000;WELADED1KLE;8
+Volksbank Kleverland;Kleve;32460422;GENODED1KLL;56
+Deutsche Bank;Kleve;32470024;DEUTDEDB324;19
+Deutsche Bank;Kleve;32470077;DEUTDEDD324;19
+SEB;Wuppertal;33010111;ESSEDE5F330;0
+akf bank;Wuppertal;33020000;AKFBDE31XXX;172
+UniCredit Bank - HypoVereinsbank;Wuppertal;33020190;HYVEDEMM809;0
+GEFA BANK;Wuppertal;33030000;GGABDE31XXX;31
+Commerzbank;Wuppertal;33040001;COBADEFFXXX;23
+Commerzbank Zw 117;Wuppertal;33040310;COBADEFFXXX;23
+Stadtsparkasse Wuppertal;Wuppertal;33050000;WUPSDE33XXX;8
+Sparda-Bank West;Wuppertal;33060592;GENODED1SPW;30
+Deutsche Bank;Wuppertal;33070024;DEUTDEDBWUP;19
+Deutsche Bank;Wuppertal;33070090;DEUTDEDWXXX;19
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Wuppertal;33080001;DRESDEFFI86;23
+Commerzbank vormals Dresdner Bank;Wuppertal;33080030;DRESDEFF332;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2;Wuppertal;33080085;DRESDEFFI87;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 3;Wuppertal;33080086;DRESDEFFI88;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4;Wuppertal;33080087;DRESDEFFI89;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 5;Wuppertal;33080088;DRESDEFFI90;23
+Commerzbank;Velbert;33440035;COBADEFFXXX;23
+Sparkasse Hilden-Ratingen-Velbert;Velbert;33450000;WELADED1VEL;8
+Commerzbank;Remscheid;34040049;COBADEFFXXX;23
+Stadtsparkasse Remscheid;Remscheid;34050000;WELADEDRXXX;8
+Sparkasse Radevormwald-Hückeswagen;Radevormwald;34051350;WELADED1RVW;8
+Stadtsparkasse Wermelskirchen;Wermelskirchen;34051570;WELADED1WMK;8
+Volksbank im Bergischen Land;Remscheid;34060094;VBRSDE33XXX;56
+Deutsche Bank;Remscheid;34070024;DEUTDEDB340;19
+Deutsche Bank;Remscheid;34070093;DEUTDEDW340;19
+Commerzbank vormals Dresdner Bank;Remscheid;34080031;DRESDEFF340;23
+Commerzbank;Solingen;34240050;COBADEFFXXX;23
+Stadt-Sparkasse Solingen;Solingen;34250000;SOLSDE33XXX;8
+Deutsche Bank;Solingen;34270024;DEUTDEDB342;19
+Deutsche Bank;Solingen;34270094;DEUTDEDW342;19
+Commerzbank vormals Dresdner Bank;Solingen;34280032;DRESDEFF342;23
+SEB;Duisburg;35010111;ESSEDE5F350;0
+Commerzbank;Duisburg;35040038;COBADEFFXXX;23
+Commerzbank, Gf Web-K;Duisburg;35040085;COBADEFFXXX;23
+Sparkasse Duisburg;Duisburg;35050000;DUISDE33XXX;8
+Bank für Kirche und Diakonie - KD-Bank;Dortmund;35060190;GENODED1DKD;56
+Bank für Kirche und Diakonie - KD-Bank (Gf GAA RB);Dortmund;35060199;GENODED1DKD;0
+Volksbank Rhein-Ruhr;Duisburg;35060386;GENODED1VRR;56
+Deutsche Bank;Duisburg;35070024;DEUTDEDB350;19
+Deutsche Bank;Duisburg;35070030;DEUTDEDE350;19
+Commerzbank vormals Dresdner Bank;Duisburg;35080070;DRESDEFF350;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Duisburg;35080085;DRESDEFFI91;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2;Duisburg;35080086;DRESDEFFI92;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 3;Duisburg;35080087;DRESDEFFI93;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4;Duisburg;35080088;DRESDEFFI94;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 5;Duisburg;35080089;DRESDEFFI95;23
+Bank für Schiffahrt (BFS) Fil d Ostfr VB Leer;Duisburg;35090300;GENODEF1BSD;0
+SEB;Dinslaken;35211012;ESSEDE5F352;0
+Volksbank Dinslaken;Dinslaken;35261248;GENODED1DLK;56
+Sparkasse am Niederrhein;Moers;35450000;WELADED1MOR;8
+Volksbank Niederrhein;Alpen;35461106;GENODED1NRH;56
+Commerzbank;Wesel;35640064;COBADEFFXXX;23
+Niederrheinische Sparkasse RheinLippe;Wesel;35650000;WELADED1WES;8
+Volksbank Rhein-Lippe (GAA);Wesel;35660501;GENODED1RLW;0
+Volksbank Rhein-Lippe;Wesel;35660599;GENODED1RLW;56
+Volksbank Emmerich-Rees;Emmerich am Rhein;35860245;GENODED1EMR;56
+Bundesbank eh Essen;Essen;36000000;MARKDEF1360;0
+Postbank Ndl der Deutsche Bank;Essen;36010043;PBNKDEFFXXX;1
+Aareal Bank;Essen;36010424;AARBDE5W360;0
+National-Bank Essen;Essen;36020030;NBAGDE3EXXX;47
+UniCredit Bank - HypoVereinsbank;Essen;36020186;HYVEDEMM360;0
+Santander Consumer Bank;Essen;36033300;SCFBDE33XXX;0
+Commerzbank;Essen;36040039;COBADEFFXXX;23
+Commerzbank CC;Essen;36040060;COBADEFFXXX;23
+Commerzbank CC;Essen;36040061;COBADEFFXXX;23
+Commerzbank, Gf Web-K;Essen;36040085;COBADEFFXXX;23
+Sparkasse Essen;Essen;36050105;SPESDE3EXXX;8
+Pax-Bank;Essen;36060192;GENODED1PA2;56
+Bank im Bistum Essen;Essen;36060295;GENODED1BBE;56
+GENO BANK ESSEN;Essen;36060488;GENODEM1GBE;56
+Sparda-Bank West;Düsseldorf;36060591;GENODED1SPE;30
+Deutsche Bank;Essen;36070024;DEUTDEDBESS;19
+Deutsche Bank;Essen;36070050;DEUTDEDEXXX;19
+Postbank/DSL Ndl der Deutsche Bank;Essen;36070208;DEUTDEDEP07;1
+Postbank/DSL Ndl der Deutsche Bank;Essen;36070224;DEUTDEDBP07;1
+Commerzbank vormals Dresdner Bank;Essen;36080080;DRESDEFF360;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK  2;Essen;36080085;DRESDEFFI66;23
+Commerzbank vormals Dresdner Bank ITGK;Essen;36089321;DRESDEFFI17;23
+SEB;Mülheim, Ruhr;36210111;ESSEDE5F362;0
+Commerzbank;Mülheim an der Ruhr;36240045;COBADEFFXXX;23
+Sparkasse Mülheim an der Ruhr;Mülheim an der Ruhr;36250000;SPMHDE3EXXX;8
+Deutsche Bank;Mülheim an der Ruhr;36270024;DEUTDEDB362;19
+Deutsche Bank;Mülheim an der Ruhr;36270048;DEUTDEDE362;19
+Commerzbank vormals Dresdner Bank;Mülheim an der Ruhr;36280071;DRESDEFF362;23
+Commerzbank;Oberhausen;36540046;COBADEFFXXX;23
+Stadtsparkasse Oberhausen;Oberhausen;36550000;WELADED1OBH;8
+Deutsche Bank;Oberhausen;36570024;DEUTDEDB365;19
+Deutsche Bank;Oberhausen;36570049;DEUTDEDE365;19
+Commerzbank vormals Dresdner Bank;Oberhausen;36580072;DRESDEFF365;23
+Bundesbank;Köln;37000000;MARKDEF1370;0
+Postbank Ndl der Deutsche Bank;Köln;37010050;PBNKDEFFXXX;1
+BNP Paribas Niederlassung Deutschland;Frankfurt am Main;37010600;BNPADEFFXXX;47
+BNP Paribas Niederlassung Deutschland;Frankfurt am Main;37010699;BNPADEFFXXX;0
+Postbank Ndl der Deutsche Bank;Köln;37011000;PBNKDEFFXXX;0
+bunq Niederlassung Deutschland;Köln;37019000;BUNQDE82XXX;0
+UniCredit Bank - HypoVereinsbank;Köln;37020090;HYVEDEMM429;0
+Fondsdepot Bank;Hof;37020200;AXABDE31XXX;0
+TOYOTA Kreditbank;Köln;37020400;TOBADE33XXX;0
+Bank für Sozialwirtschaft;Köln;37020500;BFSWDE33XXX;0
+Santander Consumer Bank;Mönchengladbach;37020600;SCFBDE33XXX;0
+Ford Bank Ndl. der FCE Bank;Köln;37020900;FDBADE3KXXX;0
+Ford Bank;Köln;37021500;FDBADE8FXXX;0
+Ford Bank (GF EG);Köln;37021548;LRFSDE31XXX;0
+Santander Consumer Bank;Mönchengladbach;37027000;SCFBDE33XXX;0
+abcbank;Köln;37030700;WWBADE3AXXX;0
+Isbank Fil Köln;Köln;37030800;ISBKDEFXKOL;47
+Commerzbank, CC SP;Köln;37040037;COBADEFFXXX;23
+Commerzbank;Köln;37040044;COBADEFFXXX;23
+Commerzbank GF-K48;Köln;37040048;COBADEFFXXX;23
+Commerzbank CC;Köln;37040060;COBADEFFXXX;23
+Commerzbank CC;Köln;37040061;COBADEFFXXX;23
+Sparkasse KölnBonn;Köln;37050198;COLSDE33XXX;8
+Kreissparkasse Köln;Köln;37050299;COKSDE33XXX;8
+Pax-Bank Gf MHD;Köln;37060120;GENODED1PA7;0
+Pax Bank eG - seit 1917 Bank für Kirche;Köln;37060193;GENODED1PAX;56
+Pax-Bank GF GAA;Köln;37060194;GENODED1PAX;0
+Sparda-Bank West;Köln;37060590;GENODED1SPK;30
+PSD Bank West;Köln;37060993;GENODEF1P13;31
+Bensberger Bank;Bergisch Gladbach;37062124;GENODED1BGL;56
+Volksbank Rhein-Erft-Köln;Hürth;37062365;GENODED1FHH;56
+VR Bank Bergisch Gladbach-Leverkusen;Bergisch Gladbach;37062600;GENODED1PAF;56
+Raiffeisenbank Aldenhoven;Aldenhoven;37069103;GENODED1ALD;56
+Volksbank Berg;Wipperfürth;37069125;GENODED1RKO;56
+Volksbank Erft;Elsdorf;37069252;GENODED1ERE;56
+Raiffeisenbank Gymnich;Erftstadt;37069322;GENODED1EGY;56
+Volksbank Haaren;Waldfeucht;37069330;GENODED1HAW;56
+Volksbank Heimbach;Heimbach;37069342;GENODED1HMB;56
+Raiffeisenbank Kaarst;Kaarst;37069405;GENODED1KAA;56
+Volksbank Heinsberg;Heinsberg;37069412;GENODED1HRB;56
+Volksbank Dünnwald-Holweide;Köln;37069427;GENODED1DHK;56
+VR-Bank Bonn Rhein-Sieg;Siegburg;37069520;GENODED1RST;56
+Raiffeisenbank Voreifel;Rheinbach;37069627;GENODED1RBC;56
+Rosbacher Raiffeisenbank;Windeck;37069639;GENODED1WND;56
+Raiffeisenbank Eifel;Simmerath;37069642;GENODED1SMR;56
+VR-Bank Nordeifel;Schleiden;37069720;GENODED1SLE;56
+Volksbank Wipperfürth-Lindlar;Wipperfürth;37069840;GENODED1WPF;56
+Brühler Bank;Brühl;37069991;GENODED1BRL;56
+Deutsche Bank;Köln;37070000;DEUTDEDK402;19
+Deutsche Bank;Köln;37070024;DEUTDEDBKOE;19
+Deutsche Bank;Köln;37070060;DEUTDEDKXXX;19
+Postbank/DSL Ndl der Deutsche Bank;Köln;37070209;DEUTDEDKP08;1
+Postbank/DSL Ndl der Deutsche Bank;Köln;37070224;DEUTDEDBP08;1
+Commerzbank vormals Dresdner Bank;Köln;37080040;DRESDEFF370;23
+Commerzbank vormals Dresdner Bank Gf PCC DCC-ITGK 1;Köln;37080085;DRESDEFFI51;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4;Köln;37080086;DRESDEFFI67;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 5;Köln;37080087;DRESDEFFI96;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 6;Köln;37080088;DRESDEFFI97;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 7;Köln;37080089;DRESDEFFI98;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 8;Köln;37080090;DRESDEFFJ01;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 9;Köln;37080091;DRESDEFFJ02;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 10;Köln;37080092;DRESDEFFJ03;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 11;Köln;37080093;DRESDEFFJ04;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 12;Köln;37080094;DRESDEFFJ05;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 13;Köln;37080095;DRESDEFFJ06;23
+Commerzbank vormals Dresdner Bank Zw 96;Köln;37080096;DRESDEFFXXX;23
+Commerzbank vormals Dresdner Bank Zw 97;Köln;37080097;DRESDEFFXXX;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 14;Köln;37080098;DRESDEFFJ07;23
+Commerzbank vormals Dresdner Bank Zw 99;Köln;37080099;DRESDEFFI36;23
+Commerzbank vormals Dresdner Bank ITGK I;Köln;37089340;DRESDEFFI04;23
+Commerzbank vormals Dresdner Bank ITGK II;Köln;37089342;DRESDEFFI05;23
+Commerzbank;Leverkusen;37540050;COBADEFFXXX;23
+Stadt-Sparkasse Leichlingen;Leichlingen (Rheinland);37551020;WELADED1LEI;0
+Sparkasse Leverkusen;Leverkusen;37551440;WELADEDLLEV;8
+Stadt-Sparkasse Langenfeld;Langenfeld (Rheinland);37551780;WELADED1LAF;8
+Deutsche Bank;Leverkusen;37570024;DEUTDEDB375;19
+Deutsche Bank;Leverkusen;37570064;DEUTDEDK375;19
+Postbank Ndl der Deutsche Bank;Bonn;38010053;PBNKDEFF380;0
+DSL Bank Ndl der Deutsche Bank;Bonn;38010700;PBNKDEFFDSL;0
+KfW Ndl Bonn;Bonn;38010900;DTABDED1XXX;0
+KfW Ausbildungsförderung Bonn;Bonn;38010999;DTABDED1AUS;0
+VÖB-ZVD Processing;Bonn;38011000;VZVDDED1XXX;0
+VÖB-ZVD Processing;Bonn;38011001;VZVDDED1001;0
+VÖB-ZVD Processing;Bonn;38011002;VZVDDED1002;0
+VÖB-ZVD Processing;Bonn;38011003;VZVDDED1003;0
+VÖB-ZVD Processing;Bonn;38011004;VZVDDED1004;0
+VÖB-ZVD Processing;Bonn;38011005;VZVDDED1005;0
+VÖB-ZVD Processing;Bonn;38011006;VZVDDED1006;0
+VÖB-ZVD Processing;Bonn;38011007;VZVDDED1007;0
+VÖB-ZVD Processing;Bonn;38011008;VZVDDED1008;0
+UniCredit Bank - HypoVereinsbank;Bonn;38020090;HYVEDEMM402;0
+Commerzbank;Bonn;38040007;COBADEFFXXX;23
+Stadtsparkasse Bad Honnef;Bad Honnef;38051290;WELADED1HON;0
+Volksbank Köln Bonn;Bonn;38060186;GENODED1BRS;56
+Deutsche Bank;Bonn;38070024;DEUTDEDB380;19
+Deutsche Bank;Bonn;38070059;DEUTDEDK380;19
+Postbank/DSL Ndl der Deutsche Bank;Bonn;38070408;DEUTDEDKP38;1
+Postbank/DSL Ndl der Deutsche Bank;Bonn;38070424;DEUTDEDBP38;1
+Deutsche Bank;Bonn;38070724;DEUTDEDBXXX;19
+Deutsche Bank;Königswinter;38077724;DEUTDEDB383;0
+Commerzbank vormals Dresdner Bank;Bonn;38080055;DRESDEFF380;23
+Kreissparkasse Euskirchen;Euskirchen;38250110;WELADED1EUS;8
+Volksbank Euskirchen;Euskirchen;38260082;GENODED1EVB;56
+Commerzbank;Gummersbach;38440016;COBADEFFXXX;23
+Sparkasse Gummersbach;Gummersbach;38450000;WELADED1GMB;8
+Volksbank Oberberg;Wiehl;38462135;GENODED1WIL;56
+Deutsche Bank;Gummersbach;38470024;DEUTDEDB384;19
+Deutsche Bank;Gummersbach;38470091;DEUTDEDW384;19
+Steyler Bank GmbH;Sankt Augustin;38621500;GENODED1STB;56
+Kreissparkasse Siegburg;Siegburg;38650000;WELADED1SGB;0
+Sparkasse Hennef;Hennef (Sieg);38651390;WELADED1HEN;0
+Aachener Bausparkasse;Aachen;39020000;AABSDE31XXX;0
+Commerzbank;Aachen;39040013;COBADEFFXXX;23
+Sparkasse Aachen;Aachen;39050000;AACSDE33XXX;8
+Aachener Bank;Aachen;39060180;GENODED1AAC;56
+Deutsche Bank;Aachen;39070020;DEUTDEDK390;19
+Deutsche Bank;Aachen;39070024;DEUTDEDB390;19
+Postbank/DSL Ndl der Deutsche Bank;Aachen;39070210;DEUTDEDKP09;1
+Postbank/DSL Ndl der Deutsche Bank;Aachen;39070224;DEUTDEDBP09;1
+Commerzbank vormals Dresdner Bank;Aachen;39080005;DRESDEFF390;23
+Commerzbank vormals Dresdner Bank Zw 98;Aachen;39080098;DRESDEFFI37;23
+Commerzbank vormals Dresdner Bank Zw 99;Aachen;39080099;DRESDEFFI38;23
+Pax-Bank;Aachen;39160191;GENODED1PA1;56
+Volksbank Aachen Süd;Aachen;39161490;GENODED1AAS;0
+VR-Bank;Würselen;39162980;GENODED1WUR;56
+Raiffeisen-Bank Eschweiler;Eschweiler;39362254;GENODED1RSC;56
+Commerzbank;Düren;39540052;COBADEFFXXX;23
+Sparkasse Düren;Düren;39550110;SDUEDE33XXX;8
+Deutsche Bank;Düren;39570024;DEUTDEDB395;19
+Deutsche Bank;Düren;39570061;DEUTDEDK395;19
+Commerzbank vormals Dresdner Bank;Düren;39580041;DRESDEFF395;23
+SEB;Münster, Westf;40010111;ESSEDE5F400;0
+NRW.BANK;Münster;40022000;NRWBDEDMMST;0
+Münsterländische Bank Thie & Co;Münster;40030000;MLBKDEH1MUE;0
+Commerzbank;Münster;40040028;COBADEFFXXX;23
+Landesbank Hessen-Thüringen Girozentrale NL. Düsseldorf;Münster;40050000;WELADE3MXXX;0
+Sparkasse Münsterland Ost;Münster;40050150;WELADED1MST;8
+LBS Westdeutsche Landesbausparkasse;Münster;40055555;LBSWDE31XXX;0
+DZ BANK;Münster;40060000;GENODEMSXXX;56
+DKM Darlehnskasse Münster;Münster;40060265;GENODEM1DKM;56
+DZ HYP - Münster;Münster;40060300;GENODEM1WLM;56
+Sparda-Bank West;Münster;40060560;GENODEF1S08;30
+Volksbank Lette-Darup-Rorup;Coesfeld;40069226;GENODEM1CND;56
+Volksbank im Hochsauerland;Eslohe (Sauerland);40069266;GENODEM1MAS;56
+Volksbank Schlangen;Schlangen;40069283;GENODEM1SLN;56
+Volksbank Schermbeck;Schermbeck;40069363;GENODEM1SMB;56
+Volksbank Baumberge;Billerbeck;40069408;GENODEM1BAU;56
+Volksbank Senden;Senden;40069546;GENODEM1SDN;56
+Volksbank Ascheberg-Herbern;Ascheberg;40069601;GENODEM1CAN;56
+Volksbank in der Hohen Mark;Reken;40069709;GENODEM1DLR;56
+Volksbank Südkirchen-Capelle-Nordkirchen;Nordkirchen;40069716;GENODEM1SCN;56
+Deutsche Bank;Münster;40070024;DEUTDEDB400;19
+Deutsche Bank;Münster;40070080;DEUTDE3B400;19
+Postbank/DSL Ndl der Deutsche Bank;Münster;40070211;DEUTDE3BP10;1
+Postbank/DSL Ndl der Deutsche Bank;Münster;40070224;DEUTDEDBP10;1
+Commerzbank vormals Dresdner Bank;Münster;40080040;DRESDEFF400;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Münster;40080085;DRESDEFFI68;23
+PSD Bank Westfalen-Lippe;Münster;40090900;GENODEF1P15;31
+Helaba Düsseldorf Gf Verrechnung FI-Münster;Düsseldorf;40150001;;0
+VerbundSparkasse Emsdetten Ochtrup (veraltet);Emsdetten;40153768;WELADED1EMS;8
+Sparkasse Gronau;Gronau (Westf.);40154006;WELADED1GRO;0
+Stadtsparkasse Lengerich;Lengerich;40154476;WELADED1LEN;8
+Sparkasse Westmünsterland;Ahaus;40154530;WELADE3WXXX;8
+Stadtsparkasse Stadtlohn;Stadtlohn;40154702;WELADED1STL;0
+Volksbank Gronau-Ahaus;Gronau (Westf.);40164024;GENODEM1GRN;56
+Volksbank Nottuln;Nottuln;40164352;GENODEM1CNO;56
+Volksbank Südmünsterland-Mitte;Lüdinghausen;40164528;GENODEM1LHN;56
+Volksbank Ochtrup-Laer;Ochtrup;40164618;GENODEM1OTR;56
+Volksbank Gescher;Gescher;40164901;GENODEM1GE1;56
+Volksbank Selm-Bork;Selm;40165366;GENODEM1SEM;56
+Commerzbank;Rheine;40340030;COBADEFFXXX;23
+Stadtsparkasse Rheine;Rheine;40350005;WELADED1RHN;8
+Kreissparkasse Steinfurt;Ibbenbüren;40351060;WELADED1STF;8
+Volksbank Westerkappeln-Saerbeck;Westerkappeln;40361627;GENODEM1WKP;56
+Volksbank Münsterland Nord;Münster;40361906;GENODEM1IBB;56
+Deutsche Bank;Rheine;40370024;DEUTDEDB403;19
+Deutsche Bank;Rheine;40370079;DEUTDE3B403;19
+SEB;Hamm, Westf;41010111;ESSEDE5F410;0
+Commerzbank;Hamm;41040018;COBADEFFXXX;23
+ZTB der Commerzbank;Hamm;41041000;COBADEFFXXX;23
+Sparkasse Hamm;Hamm;41050095;WELADED1HAM;8
+Sparkasse Bergkamen-Bönen;Bergkamen;41051845;WELADED1BGK;8
+Spar- und Darlehnskasse Bockum-Hövel;Hamm;41061011;GENODEM1HBH;56
+BAG Bankaktiengesellschaft;Hamm;41061903;GENODEM1BAG;56
+Volksbank Bönen;Bönen;41062215;GENODEM1BO1;56
+Deutsche Bank;Hamm;41070024;DEUTDEDB410;19
+Deutsche Bank;Hamm;41070049;DEUTDEDE410;19
+Commerzbank;Beckum;41240048;COBADEFFXXX;23
+Sparkasse Beckum-Wadersloh;Beckum;41250035;WELADED1BEK;8
+Volksbank Enniger-Ostenfelde-Westkirchen;Ennigerloh;41261324;GENODEM1EOW;56
+Volksbank;Warendorf;41262501;GENODEM1AHL;56
+Commerzbank vormals Dresdner Bank;Beckum;41280043;DRESDEFF413;23
+Commerzbank;Soest;41440018;COBADEFFXXX;23
+Sparkasse Hellweg-Lippe;Soest;41450075;WELADED1SOS;8
+Volksbank Hellweg;Soest;41460116;GENODEM1SOE;56
+Volksbank Wickede (Ruhr);Wickede (Ruhr);41462295;GENODEM1WRU;56
+Sparkasse Lippstadt (veraltet);Lippstadt;41650001;WELADED1LIP;8
+Sparkasse Hochsauerland;Brilon;41651770;WELADED1HSL;8
+Sparkasse Geseke;Geseke;41651965;WELADED1GES;8
+Volksbank Beckum-Lippstadt eG;Lippstadt;41660124;GENODEM1LPS;56
+Volksbank Anröchte;Anröchte;41661206;GENODEM1ANR;56
+Volksbank Störmede-Hörste;Geseke;41662465;GENODEM1SGE;56
+Deutsche Bank;Lippstadt;41670024;DEUTDEDB416;19
+Deutsche Bank;Lippstadt;41670027;DEUTDE3B416;19
+Deutsche Bank;Brilon;41670028;DEUTDE3B417;19
+Deutsche Bank;Soest;41670029;DEUTDE3B414;19
+Deutsche Bank;Werl;41670030;DEUTDE3B418;19
+SEB;Gelsenkirchen;42010111;ESSEDE5F420;0
+Isbank Fil Gelsenkirchen;Gelsenkirchen;42030600;ISBKDEFXGEL;47
+Commerzbank;Gelsenkirchen;42040040;COBADEFFXXX;23
+Sparkasse Gelsenkirchen;Gelsenkirchen;42050001;WELADED1GEK;8
+Deutsche Bank;Gelsenkirchen;42070024;DEUTDEDB420;19
+Deutsche Bank;Gelsenkirchen;42070062;DEUTDEDE420;19
+Commerzbank vormals Dresdner Bank;Gelsenkirchen;42080082;DRESDEFF420;23
+Volksbank Ruhr Mitte;Gelsenkirchen;42260001;GENODEM1GBU;56
+Sparkasse Gladbeck;Gladbeck;42450040;WELADED1GLA;8
+Sparkasse Bottrop;Bottrop;42451220;WELADED1BOT;8
+Vereinte Volksbank;Dorsten;42461435;GENODEM1KIH;56
+SEB;Recklinghausen;42610112;ESSEDE5F426;0
+Commerzbank;Recklinghausen;42640048;COBADEFFXXX;23
+Sparkasse Vest Recklinghausen;Recklinghausen;42650150;WELADED1REK;8
+Stadtsparkasse Haltern am See;Haltern am See;42651315;WELADED1HAT;8
+Volksbank Marl-Recklinghausen;Marl;42661008;GENODEM1MRL;56
+Volksbank Marl-Recklinghausen (Gf GAA);Marl;42661088;GENODEM1MRL;0
+Commerzbank vormals Dresdner Bank;Recklinghausen;42680081;DRESDEFF426;23
+Commerzbank;Bocholt;42840005;COBADEFFXXX;23
+Stadtsparkasse Bocholt;Bocholt;42850035;WELADED1BOH;8
+Volksbank Bocholt;Bocholt;42860003;GENODEM1BOH;56
+VR-Bank Westmünsterland;Coesfeld;42861387;GENODEM1BOB;56
+Volksbank Gemen;Borken;42861515;GENODEM1BOG;56
+Volksbank Heiden;Heiden;42861608;GENODEM1HEI;56
+Volksbank Rhede;Rhede;42861814;GENODEM1RHD;56
+Volksbank Raesfeld und Erle;Raesfeld;42862451;GENODEM1RAE;56
+Deutsche Bank;Bocholt;42870024;DEUTDEDB428;19
+Deutsche Bank;Bocholt;42870077;DEUTDE3B428;19
+Bundesbank eh Bochum;Bochum;43000000;MARKDEF1430;0
+SEB;Bochum;43010111;ESSEDE5F430;0
+Commerzbank;Bochum;43040036;COBADEFFXXX;23
+Sparkasse Bochum;Bochum;43050001;WELADED1BOC;8
+Sparkasse Hattingen;Hattingen;43051040;WELADED1HTG;8
+Volksbank Bochum Witten;Bochum;43060129;GENODEM1BOC;56
+GLS Gemeinschaftsbank;Bochum;43060967;GENODEM1GLS;56
+GLS Gemeinschaftsbank (GAA);Bochum;43060988;GENODEM1GLS;0
+Deutsche Bank;Bochum;43070024;DEUTDEDB430;19
+Deutsche Bank;Bochum;43070061;DEUTDEDE430;19
+Commerzbank vormals Dresdner Bank;Bochum;43080083;DRESDEFF430;23
+Herner Sparkasse;Herne;43250030;WELADED1HRN;8
+Postbank Ndl der Deutsche Bank;Dortmund;44010046;PBNKDEFFXXX;1
+UniCredit Bank - HypoVereinsbank;Dortmund;44020090;HYVEDEMM808;0
+Commerzbank;Dortmund;44040037;COBADEFFXXX;23
+Commerzbank CC;Dortmund;44040060;COBADEFFXXX;23
+Commerzbank CC;Dortmund;44040061;COBADEFFXXX;23
+Commerzbank, Gf Web-K;Dortmund;44040085;COBADEFFXXX;23
+Landesbank Hessen-Thüringen Girozentrale NL. Düsseldorf;Dortmund;44050000;WELADE3DXXX;0
+Sparkasse Dortmund;Dortmund;44050199;DORTDE33XXX;8
+Volksbank Dortmund-Nordwest;Dortmund;44060122;GENODEM1DNW;56
+Bank für Kirche und Diakonie - KD-Bank Gf Sonder-BLZ;Dortmund;44064406;GENODED1KDD;0
+Deutsche Bank;Dortmund;44070024;DEUTDEDB440;19
+Deutsche Bank;Dortmund;44070050;DEUTDEDE440;19
+Commerzbank vormals Dresdner Bank;Dortmund;44080050;DRESDEFF440;23
+Commerzbank vormals Dresdner Bank Zw 55;Dortmund;44080055;DRESDEFF446;23
+Commerzbank vormals Dresdner Bank Gf ZW 57;Dortmund;44080057;DRESDEFF447;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2;Dortmund;44080085;DRESDEFFI69;23
+Commerzbank vormals Dresdner Bank ITGK;Dortmund;44089320;DRESDEFFI18;23
+Sparkasse an der Lippe;Lünen;44152370;WELADED1LUN;8
+Dortmunder Volksbank;Dortmund;44160014;GENODEM1DOR;56
+Commerzbank;Unna;44340037;COBADEFFXXX;23
+Sparkasse UnnaKamen;Unna;44350060;WELADED1UNN;8
+Commerzbank;Iserlohn;44540022;COBADEFFXXX;23
+Sparkasse der Stadt Iserlohn;Iserlohn;44550045;WELADED1ISL;8
+Sparkasse Märkisches Sauerland Hemer-Menden;Hemer;44551210;WELADED1HEM;8
+Deutsche Bank;Iserlohn;44570004;DEUTDEDW445;19
+Deutsche Bank;Iserlohn;44570024;DEUTDEDB445;19
+Commerzbank vormals Dresdner Bank;Iserlohn;44580070;DRESDEFF445;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Iserlohn;44580085;DRESDEFFI70;23
+Mendener Bank;Menden (Sauerland);44761312;GENODEM1MEN;56
+Volksbank in Südwestfalen;Siegen;44761534;GENODEM1NRD;56
+Bundesbank eh Hagen;Hagen;45000000;MARKDEF1450;0
+Commerzbank;Hagen;45040042;COBADEFFXXX;23
+Sparkasse an Volme und Ruhr;Hagen;45050001;WELADE3HXXX;8
+Märkische Bank;Hagen;45060009;GENODEM1HGN;56
+Volksbank Hohenlimburg;Hagen;45061524;GENODEM1HLH;56
+Deutsche Bank;Hagen;45070002;DEUTDEDW450;19
+Deutsche Bank;Hagen;45070024;DEUTDEDB450;19
+Commerzbank vormals Dresdner Bank;Hagen;45080060;DRESDEFF450;23
+Commerzbank;Witten;45240056;COBADEFFXXX;23
+Sparkasse Witten;Witten;45250035;WELADED1WTN;8
+Spar- u Kreditbank d Bundes Fr ev Gemeinden;Witten;45260475;GENODEM1BFG;56
+Volksbank Sprockhövel;Sprockhövel;45261547;GENODEM1SPO;56
+Sparkasse an Ennepe und Ruhr;Gevelsberg;45450050;WELADED1GEV;8
+Sparkasse Schwelm-Sprockhövel;Schwelm;45451555;WELADED1SLM;8
+Commerzbank;Lüdenscheid;45840026;COBADEFFXXX;23
+Commerzbank;Plettenberg;45841031;COBADEFFXXX;23
+Sparkasse Lüdenscheid (veraltet);Lüdenscheid;45850005;WELADED1LSD;8
+Vereinigte Sparkasse im Märkischen Kreis;Plettenberg;45851020;WELADED1PLB;8
+Sparkasse Kierspe-Meinerzhagen;Meinerzhagen;45851665;WELADED1KMZ;8
+Volksbank Kierspe;Kierspe;45861434;GENODEM1KIE;56
+SEB;Siegen;46010111;ESSEDE5F460;0
+Commerzbank;Siegen;46040033;COBADEFFXXX;23
+Sparkasse Siegen;Siegen;46050001;WELADED1SIE;8
+Sparkasse Burbach-Neunkirchen;Burbach;46051240;WELADED1BUB;8
+Sparkasse Wittgenstein;Bad Berleburg;46053480;WELADED1BEB;8
+VR-Bank Freudenberg-Niederfischbach;Freudenberg;46061724;GENODEM1FRF;56
+Volksbank Sauerland;Schmallenberg;46062817;GENODEM1SMA;56
+Volksbank Wittgenstein;Bad Berleburg;46063405;GENODEM1BB1;56
+Deutsche Bank;Siegen;46070024;DEUTDEDB460;19
+Deutsche Bank;Siegen;46070090;DEUTDEDK460;19
+Commerzbank vormals Dresdner Bank;Siegen;46080010;DRESDEFF460;23
+Commerzbank;Olpe;46240016;COBADEFFXXX;23
+Sparkasse Olpe-Drolshagen-Wenden;Olpe;46250049;WELADED1OPE;8
+Sparkasse Attendorn-Lennestadt-Kirchhundem;Attendorn;46251630;WELADED1ALK;8
+Volksbank Grevenbrück -alt;Lennestadt;46261607;GENODEM1GLG;56
+Volksbank Olpe-Wenden-Drolshagen;Olpe;46261822;GENODEM1WDD;56
+Commerzbank;Meschede;46441003;COBADEFFXXX;23
+Sparkasse Mitten im Sauerland;Meschede;46451012;WELADED1MES;8
+Commerzbank;Arnsberg;46640018;COBADEFFXXX;23
+Sparkasse Arnsberg-Sundern;Arnsberg;46650005;WELADED1ARN;8
+Deutsche Bank;Arnsberg;46670007;DEUTDEDW466;19
+Deutsche Bank;Arnsberg;46670024;DEUTDEDB961;19
+Postbank/DSL Ndl der Deutsche Bank;Arnsberg;46670204;DEUTDEDWP03;1
+Postbank/DSL Ndl der Deutsche Bank;Arnsberg;46670224;DEUTDEDBP03;1
+Bundesbank Dortmund;Dortmund;47000000;MARKDEF1470;0
+Commerzbank;Paderborn;47240047;COBADEFFXXX;23
+Sparkasse Höxter;Brakel;47251550;WELADED1HXB;8
+Stadtsparkasse Delbrück;Delbrück;47251740;WELADED1DEL;8
+VerbundVolksbank OWL;Paderborn;47260121;DGPBDE3MXXX;56
+Volksbank Elsen-Wewer-Borchen;Paderborn;47260234;GENODEM1EWB;56
+Bank für Kirche und Caritas;Paderborn;47260307;GENODEM1BKC;56
+Volksbank Brilon-Büren-Salzkotten;Salzkotten;47261603;GENODEM1BUS;56
+Volksbank Westenholz;Delbrück;47262626;GENODEM1WDE;56
+Volksbank Delbrück-Hövelhof;Delbrück;47262703;GENODEM1DLB;56
+Vereinigte Volksbank;Brakel;47264367;GENODEM1STM;56
+Deutsche Bank;Paderborn;47270024;DEUTDEDB472;19
+Deutsche Bank;Paderborn;47270029;DEUTDE3B472;19
+Commerzbank;Detmold;47640051;COBADEFFXXX;23
+Sparkasse Paderborn-Detmold;Detmold;47650130;WELADE3LXXX;8
+Deutsche Bank;Detmold;47670023;DEUTDE3B476;19
+Deutsche Bank;Detmold;47670024;DEUTDEDB476;19
+Postbank/DSL Ndl der Deutsche Bank;Detmold;47670205;DEUTDE3BP04;1
+Postbank/DSL Ndl der Deutsche Bank;Detmold;47670224;DEUTDEDBP04;1
+Volksbank Ostlippe;Blomberg;47691200;GENODEM1OLB;56
+Commerzbank;Gütersloh;47840065;COBADEFFXXX;23
+Commerzbank Zw 80;Gütersloh;47840080;COBADEFFXXX;23
+Sparkasse Gütersloh-Rietberg-Versmold;Gütersloh;47850065;WELADED1GTL;8
+Kreissparkasse Wiedenbrück;Rheda-Wiedenbrück;47853520;WELADED1WDB;8
+Volksbank Bielefeld-Gütersloh;Gütersloh;47860125;GENODEM1GTL;56
+Volksbank Rietberg;Rietberg;47862447;GENODEM1RNE;56
+Volksbank Versmold;Versmold;47863373;GENODEM1VMD;56
+Commerzbank vormals Dresdner Bank;Gütersloh;47880031;DRESDEFF478;23
+Bundesbank;Bielefeld;48000000;MARKDEF1480;0
+SEB;Bielefeld;48010111;ESSEDE5F480;0
+UniCredit Bank - HypoVereinsbank;Bielefeld;48020086;HYVEDEMM344;0
+Hauck Aufhäuser Lampe Privatbank;Frankfurt am Main;48020151;LAMPDEDD;47
+Bankverein Werther Zw Ndl der VerbundVolksbank OWL;Werther (Westf.);48021900;DGPBDE3MBVW;56
+Commerzbank;Bielefeld;48040035;COBADEFFXXX;23
+Commerzbank CC;Bielefeld;48040060;COBADEFFXXX;23
+Commerzbank CC;Bielefeld;48040061;COBADEFFXXX;23
+Sparkasse Bielefeld;Bielefeld;48050161;SPBIDE3BXXX;8
+Kreissparkasse Halle (Westf.);Halle (Westf.);48051580;WELADED1HAW;8
+Volksbank Halle/Westf. eG;Halle (Westf.);48062051;GENODEM1HLW;56
+Deutsche Bank;Bielefeld;48070020;DEUTDE3BXXX;19
+Deutsche Bank;Bielefeld;48070024;DEUTDEDBBIE;19
+Deutsche Bank;Gütersloh;48070040;DEUTDE3B480;19
+Deutsche Bank;Harsewinkel;48070042;DEUTDE3B484;19
+Deutsche Bank;Verl;48070043;DEUTDE3B489;19
+Deutsche Bank;Rheda-Wiedenbrück;48070044;DEUTDE3B487;19
+Deutsche Bank;Beckum;48070045;DEUTDE3B413;19
+Deutsche Bank;Herford;48070050;DEUTDE3B481;19
+Deutsche Bank;Bünde;48070052;DEUTDE3B492;19
+Commerzbank vormals Dresdner Bank;Bielefeld;48080020;DRESDEFF480;23
+Commerzbank vormals Dresdner Bank ITGK;Bielefeld;48089350;DRESDEFFI19;23
+Sparkasse Lemgo;Lemgo;48250110;WELADED1LEM;8
+Volksbank Bad Salzuflen;Bad Salzuflen;48291490;GENODEM1BSU;56
+Commerzbank;Minden;49040043;COBADEFFXXX;23
+Sparkasse Minden-Lübbecke;Minden;49050101;WELADED1MIN;8
+Stadtsparkasse Rahden;Rahden;49051065;WELADED1RHD;8
+Sparkasse Bad Oeynhausen - Porta Westfalica;Bad Oeynhausen;49051285;WELADED1OEH;8
+Deutsche Bank;Minden;49070024;DEUTDEDB490;19
+Deutsche Bank;Minden;49070028;DEUTDE3B490;19
+Commerzbank vormals Dresdner Bank;Minden;49080025;DRESDEFF491;23
+Volksbank Lübbecker Land;Lübbecke;49092650;GENODEM1LUB;56
+Commerzbank;Bünde;49240096;COBADEFFXXX;23
+Volksbank Schnathorst;Hüllhorst;49262364;GENODEM1SNA;56
+Commerzbank;Herford;49440043;COBADEFFXXX;23
+Sparkasse Herford;Herford;49450120;WLAHDE44XXX;8
+Volksbank Herford-Mindener Land;Herford;49490070;GENODEM1HFV;56
+Bundesbank;Frankfurt am Main;50000000;MARKDEF1500;0
+Postbank Ndl der Deutsche Bank;Frankfurt am Main;50010060;PBNKDEFFXXX;1
+AKBANK;Eschborn;50010200;AKBKDEFFXXX;47
+First Commercial Bank, Frankfurt Branch;Frankfurt am Main;50010300;FCBKDEFFXXX;0
+Aareal Bank ehem. Filiale Frankfurt;Wiesbaden;50010424;AARBDE5W500;0
+ING-DiBa;Frankfurt am Main;50010517;INGDDEFFXXX;79
+Degussa Bank;Frankfurt am Main;50010700;DEGUDEFFXXX;73
+Bank of America Europe, Frankfurt Branch;Frankfurt am Main;50010900;BOFADEFXXXX;0
+Bank of America Europe, Frankfurt Branch;Frankfurt am Main;50010910;BOFADEFXVAM;0
+ALTE LEIPZIGER Bauspar;Oberursel (Taunus);50012800;ALTEDEFAXXX;0
+J&T BANKA, Zweigniederlassung Deutschland;Frankfurt am Main;50015001;JTBPDEFFXXX;31
+Western Union Intl. Bank Niederlassung Deutschland;Frankfurt am Main;50016600;WUIDDEF1XXX;0
+SÜDWESTBANK - BAWAG Niederlassung Deutschland;Stuttgart;50020000;SEZDDEF1XXX;56
+ODDO BHF;Frankfurt am Main;50020200;BHFBDEFF500;47
+KfW Kreditanstalt für Wiederaufbau Frankfurt;Frankfurt am Main;50020400;KFWIDEFFXXX;0
+Landwirtschaftliche Rentenbank;Frankfurt am Main;50020500;LAREDEFFXXX;0
+Credit Europe Bank Ndl. Deutschland;Frankfurt am Main;50020700;FBHLDEFFXXX;0
+Intesa Sanpaolo Frankfurt;Frankfurt am Main;50020800;BCITDEFFXXX;0
+ING Bank;Frankfurt am Main;50021000;INGBDEFFXXX;0
+FIL Fondsbank;Frankfurt am Main;50021100;FFBKDEFFKRN;0
+FIL Fondsbank;Kronberg im Taunus;50021120;FFBKDEFFTHK;0
+Hyundai Capital Bank Europe;Frankfurt am Main;50022200;HCSEDEF1XXX;0
+C24 Bank;Frankfurt am Main;50024024;DEFFDEFFXXX;0
+Opel Bank, Niederlassung Deutschland;Rüsselsheim am Main;50025000;GMGGDE51XXX;178
+PSA Bank Deutschland;Neu-Isenburg;50030000;PSADDEF1XXX;0
+PSA Bank Deutschland;Neu-Isenburg;50030010;BPNDDE52XXX;31
+BNP Paribas Niederlassung Deutschland;Frankfurt am Main;50030500;PARBDEFFXXX;0
+Deutsche WertpapierService Bank;Frankfurt am Main;50030600;DWPBDEFFXXX;0
+DenizBank (Wien) Zw Frankfurt;Frankfurt am Main;50030700;ESBKDEFFXXX;0
+Triodos Bank N. V. Niederlassung Deutschland;Frankfurt am Main;50031000;TRODDEF1XXX;31
+Santander Consumer Bank;Frankfurt am Main;50033300;SCFBDE33XXX;0
+Agricultural Bank of China, Frankfurt Branch;Frankfurt am Main;50038800;ABOCDEFFXXX;0
+Commerzbank;Frankfurt am Main;50040000;COBADEFFXXX;23
+Commerzbank, Filiale Frankfurt 2;Frankfurt am Main;50040005;COBADEFFXXX;23
+Commerzbank (IPC PARIS);Frankfurt am Main;50040010;COBADEFFPAR;0
+Commerzbank (IPC VIENNA);Frankfurt am Main;50040011;COBADEFFVIE;0
+Commerzbank (IPC MILANO);Frankfurt am Main;50040012;COBADEFFMIL;0
+Commerzbank (IPC AMSTERDAM);Frankfurt am Main;50040013;COBADEFFAMS;0
+Commerzbank (IPC BRUSSEL);Frankfurt am Main;50040014;COBADEFFBRU;0
+Commerzbank (IPC MADRID);Frankfurt am Main;50040015;COBADEFFMAD;0
+Commerzbank (CLB New York) FFM;Frankfurt am Main;50040016;COBADEFFNYC;0
+Commerzbank (CLB Singapore) Frankfurt;Frankfurt am Main;50040017;COBADEFFSGP;0
+Commerzbank (CLB London);Frankfurt am Main;50040018;COBADEFFLDN;0
+Commerzbank (CLB Zürich);Frankfurt am Main;50040019;COBADEFFZUR;0
+Commerzbank (CLB Prag);Frankfurt am Main;50040020;COBADEFFPRA;0
+Commerzbank (CLB Moskau);Frankfurt am Main;50040021;COBADEFFMOS;0
+Commerzbank (CLB Hamburg);Frankfurt am Main;50040022;COBADEFFHBG;0
+Commerzbank Gf BRS;Frankfurt am Main;50040033;COBADEFFXXX;23
+Commerzbank, MBP;Frankfurt am Main;50040038;COBADEFFXXX;23
+Commerzbank Gf ZRK;Frankfurt am Main;50040040;COBADEFFXXX;23
+Commerzbank GF-F48;Frankfurt am Main;50040048;COBADEFFXXX;23
+Commerzbank, CC SP;Frankfurt am Main;50040050;COBADEFFXXX;23
+Commerzbank Center Dresdner Bank Frankfurt;Frankfurt am Main;50040051;COBADEFFXXX;23
+Commerzbank Service - BZ Frankfurt;Frankfurt am Main;50040052;COBADEFFXXX;23
+Commerzbank Gf 460;Frankfurt am Main;50040060;COBADEFFXXX;23
+Commerzbank Gf 461;Frankfurt am Main;50040061;COBADEFFXXX;23
+Commerzbank CC;Frankfurt am Main;50040062;COBADEFFXXX;23
+Commerzbank CC;Frankfurt am Main;50040063;COBADEFFXXX;23
+Commerzbank Gf ZCM;Frankfurt am Main;50040075;COBADEFFXXX;23
+Commerzbank, GF Web-K CMTS2;Frankfurt am Main;50040084;COBADEFFXXX;23
+Commerzbank, Gf Web-K;Frankfurt am Main;50040085;COBADEFFXXX;23
+Commerzbank, GF Web-K CMTS;Frankfurt am Main;50040086;COBADEFFXXX;23
+Commerzbank, Gf Web-K CMTS3;Frankfurt am Main;50040087;COBADEFFXXX;23
+Commerzbank, INT 1;Frankfurt am Main;50040088;COBADEFFXXX;23
+Commerzbank INT;Frankfurt am Main;50040099;COBADEFFXXX;23
+Commerzbank Zw 425 - keine Auslandsbanken;Frankfurt am Main;50042500;COBADEFFXXX;23
+Commerzbank Vermögensverwaltung;Frankfurt am Main;50044444;COBADEFFXXX;23
+Commerzbank Service - BZ;Frankfurt am Main;50047010;COBADEFFXXX;23
+Landesbank Hessen-Thür Girozentrale;Frankfurt am Main;50050000;HELADEFFXXX;0
+Frankfurter Sparkasse;Frankfurt am Main;50050201;HELADEF1822;8
+1822direkt - ein Unternehmen der Frankfurter Sparkasse;Frankfurt, Main;50050222;FRSDDEF1XXX;67
+DekaBank Frankfurt;Frankfurt am Main;50050999;DGZFDEFFXXX;0
+DZ Bank;Frankfurt am Main;50060000;GENODE55XXX;0
+DZ BANK;Frankfurt am Main;50060400;GENODEFFXXX;0
+DZ BANK GF DZH;Frankfurt am Main;50060412;GENODEF1VK1;0
+DZ BANK GF ODA;Frankfurt am Main;50060413;GENODEF1VK2;0
+DZ BANK für Bausparkasse Schwäbisch Hall;Frankfurt am Main;50060414;GENODEF1VK3;0
+DZ BANK für Bausparkasse Schwäbisch Hall;Frankfurt am Main;50060415;GENODEF1VK4;0
+DZ BANK GF TSG;Frankfurt am Main;50060416;GENODEF1VK6;0
+DZ BANK GF BMT;Frankfurt am Main;50060417;GENODEF1VK7;0
+DZ BANK GF BMT;Frankfurt am Main;50060418;GENODEF1VK8;0
+DZ BANK GF VRF;Frankfurt am Main;50060419;GENODEF1VK9;0
+DZ BANK GF BSH;Frankfurt am Main;50060420;GENODEF1V20;0
+DZ BANK GF BSH;Frankfurt am Main;50060421;GENODEF1V21;0
+DZ BANK GF GRX;Frankfurt am Main;50060422;GENODEF1V22;0
+DZ BANK GF GRX;Frankfurt am Main;50060423;GENODEF1V23;0
+DZ BANK GF DEV;Frankfurt am Main;50060424;GENODEF1V24;0
+DZ BANK GF BSH;Frankfurt am Main;50060425;GENODEF1V25;0
+DZ BANK, Deutsche Zentral-Genossenschaftsbank;Frankfurt am Main;50060474;GENODEFFBRO;31
+Raiffeisenbank im Hochtaunus;Bad Homburg;50061741;GENODE51OBU;31
+VR Bank Alzey-Land-Schwabenheim;Schwabenheim an der Selz;50069126;GENODE51ABO;31
+Volksbank Grebenhain;Grebenhain;50069146;GENODE51GRC;31
+Raiffeisenbank;Grävenwiesbach;50069345;GENODE51GWB;31
+Hüttenberger Bank;Hüttenberg;50069455;GENODE51HUT;31
+Raiffeisenbank Kirtorf;Kirtorf;50069477;GENODE51KIF;31
+Raiffeisenbank Bad Homburg Ndl d FrankfurterVB;Bad Homburg;50069693;GENODE51BH1;31
+Raiffeisen Volksbank;Schwabenheim an der Selz;50069842;GENODE51SWB;31
+Volksbank Wißmar;Wettenberg;50069976;GENODE51WWI;31
+Deutsche Bank;Frankfurt am Main;50070010;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070011;DEUTDEFFSIP;0
+Deutsche Bank;Frankfurt am Main;50070024;DEUTDEDBFRA;19
+Deutsche Bank;Frankfurt am Main;50070050;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070051;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070052;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070053;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070054;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070055;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070056;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070057;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070058;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070059;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070060;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070061;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070062;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070063;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070064;DEUTDEFFXXX;19
+Deutsche Bank;Frankfurt am Main;50070065;DEUTDEFFXXX;19
+Postbank/DSL Ndl der Deutsche Bank;Bad Homburg;50070324;DEUTDEDBP25;1
+Postbank/DSL Ndl der Deutsche Bank;Bad Homburg;50070371;DEUTDEFFS25;1
+Deutsche Bank;Bad Soden am Taunus;50070435;DEUTDEDBEW1;19
+Deutsche Bank;Bad Soden am Taunus;50070436;DEUTDEDBEW2;19
+Deutsche Bank;Bad Soden am Taunus;50070437;DEUTDEDBEW3;19
+Deutsche Bank;Bad Soden am Taunus;50070438;DEUTDEDBEW4;19
+Deutsche Bank;Bad Soden am Taunus;50070439;DEUTDEDBEW5;19
+Deutsche Bank;Rüsselsheim am Main;50073019;DEUTDEFF502;19
+Deutsche Bank;Rüsselsheim am Main;50073024;DEUTDEDB502;19
+Deutsche Bank Europe;Frankfurt am Main;50073081;DEUTDE5XXXX;0
+Commerzbank vormals Dresdner Bank;Frankfurt am Main;50080000;DRESDEFFXXX;23
+Commerzbank vormals Dresdner Bank Zw 15;Frankfurt am Main;50080015;DRESDEFFI39;23
+Commerzbank vormals Dresdner Bank Zw 25;Frankfurt am Main;50080025;DRESDEFFXXX;23
+Commerzbank vormals Dresdner Bank Zw 35;Frankfurt am Main;50080035;DRESDEFFI40;23
+Commerzbank vormals Dresdner Bank Zw 55;Frankfurt am Main;50080055;DRESDEFF516;23
+Commerzbank vormals Dresdner Bank Gf ZW 57;Frankfurt am Main;50080057;DRESDEFF522;23
+Commerzbank vormals Dresdner Bank Gf DrKW;Frankfurt am Main;50080060;DRESDEFFXXX;23
+Commerzbank vormals Dresdner Bank Gf DrKWSL;Frankfurt am Main;50080061;DRESDEFFLDG;23
+Allianz Dresdner Bauspar;Frankfurt, Main;50080077;DRESDEFFBSP;0
+Commerzbank, GF Wüstenrot BSPK;Bad Vilbel;50080077;DRESDEFFBSP;0
+Commerzbank vormals Dresdner Bank ESOP;Frankfurt am Main;50080079;DRESDEFFXXX;23
+Commerzbank vormals Dresdner Bank Bs 80;Frankfurt am Main;50080080;DRESDEFFI41;23
+Commerzbank vormals Dresdner Bank Gf AVB;Frankfurt am Main;50080082;DRESDEFFAVB;23
+Commerzbank vormals Dresdner Bank ITGK 3;Frankfurt am Main;50080086;DRESDEFFI49;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4;Frankfurt am Main;50080087;DRESDEFFJ08;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 5;Frankfurt am Main;50080088;DRESDEFFJ09;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 6;Frankfurt am Main;50080089;DRESDEFFJ10;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 7;Frankfurt am Main;50080091;DRESDEFFJ11;23
+Commerzbank vormals Dresdner Bank Finance and Controlling;Frankfurt am Main;50080092;DRESDEFFFCO;23
+Commerzbank vormals Dresdner Bank Zw 99;Frankfurt am Main;50080099;DRESDEFFI42;23
+Commerzbank vormals Dresdner Bank Private Banking Inland;Frankfurt am Main;50080300;DRESDEFF500;23
+Commerzbank vormals Dresdner Bank;Rüsselsheim am Main;50083007;DRESDEFF502;23
+Commerzbank vormals Dresdner Bank in Frankfurt MBP;Frankfurt am Main;50083838;DRESDEFFMBP;23
+Commerzbank vormals Dresdner Bank ITGK;Frankfurt am Main;50089400;DRESDEFFI01;23
+Sparda-Bank Hessen;Frankfurt am Main;50090500;GENODEF1S12;30
+PSD Bank Hessen-Thüringen;Eschborn;50090900;GENODEF1P06;31
+Spar- und Kreditbank Ev.-Freikirchlicher Gemeinden;Bad Homburg;50092100;GENODE51BH2;31
+Volksbank Usinger Land Ndl d Frankfurter VB;Usingen;50092900;GENODE51USI;31
+Volksbank Kelsterbach Ndl d Frankfurter VB;Kelsterbach;50093400;GENODE51KBH;31
+Industrial and Commercial Bank of China;Frankfurt am Main;50110200;ICBKDEFFXXX;0
+AKA Ausfuhrkredit GmbH;Frankfurt am Main;50110400;AUSKDEFFXXX;0
+NATIXIS Zweigniederlassung Deutschland;Frankfurt am Main;50110500;NATXDEFFXXX;0
+Standard Chartered Bank Frankfurt;Frankfurt am Main;50110636;SCBLDEFXXXX;0
+Frankfurter Bankgesellschaft (Deutschland);Frankfurt am Main;50110700;FBGADEF1XXX;31
+J.P. Morgan;Frankfurt am Main;50110800;CHASDEFXXXX;0
+J.P. Morgan, Internal Reference;Frankfurt am Main;50110801;CHASDEFXVR1;0
+J.P. Morgan;Frankfurt am Main;50110855;JPMGDEFFXXX;0
+Bank of America N.A. Military Bank;Wiesbaden;50110900;MNBIDEF1XXX;0
+Stifel Europe Bank;Frankfurt am Main;50120000;MAIFDEFFXXX;0
+ICICI Bank UK, Germany Branch;Eschborn;50120100;ICICDEFFXXX;0
+ABN AMRO Bank Frankfurt Branch - Bethmann Bank;Frankfurt am Main;50120383;DELBDE33XXX;47
+Credit Suisse (Deutschland);Frankfurt am Main;50120500;CRESDE55XXX;0
+Bank of Communications Frankfurt branch;Frankfurt am Main;50120600;COMMDEFFXXX;0
+AION Bank German Branch;Frankfurt am Main;50120800;BMPBDEF2XXX;0
+VakifBank International Wien Zndl Deutschland;Köln;50120900;TVBADEFFXXX;31
+VTB Bank (Europe) Zndl Frankfurt am Main (Direktbank);Frankfurt am Main;50123400;DOBADEF1XXX;56
+PKO Bank Polski Niederlassung Deutschland;Frankfurt am Main;50127000;BPKODEFFXXX;0
+National Bank of Pakistan Zndl Frankfurt;Frankfurt am Main;50130000;NBPADEFFXXX;0
+Merck Finck A Quintet Private Bank;Frankfurt am Main;50130400;MEFIDEMM501;47
+UBS Europe;Frankfurt am Main;50130600;UBSWDEFFXXX;0
+Vietnam Joint Stock Commercial Bank for Industry and Trade;Frankfurt am Main;50131000;ICBVDEFFXXX;31
+Frankfurter Volksbank Rhein-Main;Frankfurt am Main;50190000;FFVBDEFFXXX;31
+Rabobank International Frankfurt Branch;Frankfurt am Main;50210200;RABODEFFTAR;0
+Rabobank International Frankfurt Branch;Frankfurt am Main;50210295;RABODEFFXXX;0
+ProCredit Bank, Frankfurt am Main;Frankfurt am Main;50210800;PRCBDEFFXXX;0
+Citibank Europe Germany Branch;Frankfurt am Main;50210900;CITIDEFFXXX;0
+UBS Europe;Frankfurt am Main;50220085;SMHBDEFFXXX;0
+Kommunalkredit Austria, Zweigstelle Deutschland;Frankfurt am Main;50220101;INVODEF2XXX;0
+WOORI BANK EUROPE;Frankfurt am Main;50220300;HVBKDEFFXXX;0
+Lloyds Bank;Berlin;50220500;BOFSDEF1XXX;0
+CAIXABANK Zweigniederlassung Deutschland;Frankfurt am Main;50220707;CAIXDEFFXXX;0
+Hauck Aufhäuser Lampe Privatbank;Frankfurt am Main;50220900;HAUKDEFFXXX;0
+Arab Banking Corporation Zweigniederlassung Frankfurt;Frankfurt am Main;50230000;ABCADEFFXXX;0
+Isbank;Frankfurt am Main;50230600;ISBKDEFXXXX;47
+Metzler, B. - seel Sohn & Co;Frankfurt am Main;50230700;METZDEFFXXX;0
+Ikano Bank;Wiesbaden;50230800;PLFGDE5AXXX;0
+Ikano Bank;Wiesbaden;50230888;PLFGDE5AIKB;0
+KT Bank;Frankfurt am Main;50234500;KTAGDEFFXXX;0
+Deutsche Leasing Finance;Bad Homburg;50250200;DLFGDE51XXX;0
+Barclays Bank Ireland Frankfurt Branch;Frankfurt am Main;50310400;BARCDEFFXXX;0
+China Construction Bank Ndl Frankfurt;Frankfurt am Main;50310900;PCBCDEFFXXX;0
+VTB Bank (Europe);Frankfurt am Main;50320000;OWHBDEFFXXX;0
+UniCredit Bank - HypoVereinsbank;Frankfurt am Main;50320191;HYVEDEMM430;0
+Banco Santander Filiale Frankfurt;Frankfurt am Main;50320500;BSCHDEFFXXX;0
+Attijariwafa bank Europa ZNdl. Frankfurt;Frankfurt am Main;50320600;BCMADEFFXXX;0
+Pictet & Cie (Europe) Ndl Deutschland;Frankfurt am Main;50320900;PICTDEFFXXX;0
+ABN AMRO Bank, Frankfurt Branch;Frankfurt am Main;50324000;FTSBDEFAXXX;0
+State Bank of India;Frankfurt am Main;50330000;SBINDEFFXXX;0
+Raisin Bank;Frankfurt am Main;50330200;MHBFDEFFXXX;0
+Raisin Bank;Frankfurt am Main;50330201;RAISDEFFXXX;0
+The Bank of New York Mellon;Frankfurt am Main;50330300;IRVTDEFXXXX;0
+BANQUE CHAABI DU MAROC Agentur Frankfurt Ndl. Deutschland;Frankfurt am Main;50330500;BCDMDEF1XXX;0
+Bank Sepah-Iran;Frankfurt am Main;50330600;SEPBDEFFXXX;0
+The Bank of New York Mellon NL Frankfurt;Frankfurt am Main;50334400;BNYMDEF1XXX;0
+German branch of Unifiedpost Payments;Frankfurt am Main;50339900;PANXDEF2XXX;0
+Bundesbank Zentrale;Frankfurt am Main;50400000;MARKDEFFXXX;47
+SMBC Bank EU;Frankfurt am Main;50510300;SMBCDEFFXXX;0
+UniCredit Bank - HypoVereinsbank;Offenbach am Main;50520190;HYVEDEMM467;0
+FIDOR Bank Zndl Frankfurt am Main;Frankfurt am Main;50522222;FDDODEMMXXX;0
+Cronbank;Dreieich;50530000;GENODE51CRO;31
+Commerzbank;Offenbach am Main;50540028;COBADEFFXXX;23
+Städtische Sparkasse Offenbach a.M.;Offenbach am Main;50550020;HELADEF1OFF;8
+Deutsche Bank;Offenbach am Main;50570018;DEUTDEFF505;19
+Deutsche Bank;Offenbach am Main;50570024;DEUTDEDB505;19
+Commerzbank vormals Dresdner Bank;Offenbach am Main;50580005;DRESDEFF505;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Offenbach am Main;50580085;DRESDEFFJ12;23
+VR Bank Dreieich-Offenbach;Dreieich;50592200;GENODE51DRE;31
+Commerzbank;Hanau;50640015;COBADEFFXXX;23
+SPARKASSE HANAU;Hanau;50650023;HELADEF1HAN;8
+Sparkasse Langen-Seligenstadt;Seligenstadt;50652124;HELADEF1SLS;8
+VR Bank Main-Kinzig-Büdingen;Büdingen;50661639;GENODEF1LSR;31
+Volksbank Heldenbergen Ndl d Frankfurter VB;Nidderau;50661816;GENODE51NIH;31
+Raiffeisenbank Maintal Ndl d Frankfurter VB;Maintal;50662669;RBMFDEF1XXX;31
+Raiffeisenbank;Rodenbach;50663699;GENODEF1RDB;31
+Deutsche Bank;Hanau;50670009;DEUTDEFF506;19
+Deutsche Bank;Hanau;50670024;DEUTDEDB506;19
+Commerzbank vormals Dresdner Bank;Hanau;50680002;DRESDEFF506;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Hanau;50680085;DRESDEFFJ13;23
+Volksbank Raiffeisenbank Hanau Ndl d Frankf VB;Hanau;50690000;GENODEF1HUV;0
+DZB BANK;Mainhausen;50691300;DZBMDEF1XXX;0
+Volksbank Seligenstadt;Seligenstadt;50692100;GENODE51SEL;31
+Commerzbank;Gelnhausen;50740048;COBADEFFXXX;23
+Kreissparkasse Gelnhausen;Gelnhausen;50750094;HELADEF1GEL;8
+Commerzbank vormals Dresdner Bank;Gelnhausen;50780006;DRESDEFF524;23
+VR Bank Bad Orb-Gelnhausen;Gelnhausen;50790000;GENODE51GEL;31
+VR Bank Wächtersbach/Bad Soden-Salmünster -alt;Wächtersbach;50794300;GENODE51WBH;31
+Deutsche Bausparkasse Badenia (ehem. DBS Bausparkasse);Karlsruhe;50810900;BBSPDE6KXXX;0
+UniCredit Bank - HypoVereinsbank;Darmstadt;50820292;HYVEDEMM487;0
+MCE Bank;Flörsheim am Main;50835800;MKGMDE51XXX;0
+Commerzbank;Darmstadt;50840005;COBADEFFXXX;23
+Landesbank Hessen-Thür Girozentrale;Darmstadt;50850049;HELADEFF508;0
+Stadt- und Kreis-Sparkasse Darmstadt;Darmstadt;50850150;HELADEF1DAS;8
+Sparkasse Odenwaldkreis;Erbach;50851952;HELADEF1ERB;8
+Kreissparkasse Groß-Gerau;Groß-Gerau;50852553;HELADEF1GRG;8
+Sparkasse Dieburg;Groß-Umstadt;50852651;HELADEF1DIE;8
+Raiffeisenbank Nördl. Bergstraße eG;Alsbach-Hähnlein;50861501;GENODE51ABH;31
+Volksbank Gersprenztal-Otzberg;Reinheim;50862703;GENODE51REI;31
+Raiffeisenbank Schaafheim;Schaafheim;50862835;GENODE51SHM;31
+Volksbank Mainspitze;Ginsheim-Gustavsburg;50862903;GENODE51GIN;31
+Vereinigte Volksbank Raiffeisenbank;Reinheim;50863513;GENODE51MIC;31
+VB Mörfelden-Walldorf Ndl d Frankfurter VB;Mörfelden-Walldorf;50865224;GENODE51MWA;31
+Deutsche Bank;Darmstadt;50870005;DEUTDEFF508;19
+Deutsche Bank;Darmstadt;50870024;DEUTDEDB508;19
+Postbank/DSL Ndl der Deutsche Bank;Darmstadt;50870324;DEUTDEDBP26;1
+Postbank/DSL Ndl der Deutsche Bank;Darmstadt;50870393;DEUTDEFFS26;1
+Commerzbank vormals Dresdner Bank;Darmstadt;50880050;DRESDEFF508;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Darmstadt;50880085;DRESDEFFJ14;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2;Darmstadt;50880086;DRESDEFFJ15;23
+Volksbank Darmstadt - Südhessen eG;Darmstadt;50890000;GENODEF1VBD;31
+Sparkasse Bensheim;Bensheim;50950068;HELADEF1BEN;8
+Sparkasse Starkenburg;Heppenheim (Bergstraße);50951469;HELADEF1HEP;8
+Raiffeisenbank Ried;Bürstadt;50961206;GENODE51RBU;31
+RBank Raiffeisenbank Groß-Rohrheim eG;Groß-Rohrheim;50961312;GENODE51GRM;31
+Volksbank Weschnitztal;Rimbach;50961592;GENODE51FHO;31
+Volksbank Überwald-Gorxheimertal;Abtsteinach;50961685;GENODE51ABT;31
+Deutsche Bank;Bensheim;50970004;DEUTDEFF509;19
+Deutsche Bank;Bensheim;50970024;DEUTDEDB509;19
+Aareal Bank;Wiesbaden;51010400;AARBDE5WXXX;0
+BHF-BANK;Wiesbaden;51020000;BHFBDEFF510;47
+UniCredit Bank - HypoVereinsbank;Wiesbaden;51020186;HYVEDEMM478;0
+Commerzbank;Wiesbaden;51040038;COBADEFFXXX;23
+Nassauische Sparkasse;Wiesbaden;51050015;NASSDE55XXX;8
+S Broker Wiesbaden;Wiesbaden;51051000;PULSDE5WXXX;0
+Deutsche Bank;Wiesbaden;51070021;DEUTDEFF510;19
+Deutsche Bank;Wiesbaden;51070024;DEUTDEDB510;19
+Commerzbank vormals Dresdner Bank;Wiesbaden;51080060;DRESDEFF510;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Wiesbaden;51080085;DRESDEFFJ16;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK2;Wiesbaden;51080086;DRESDEFFJ17;23
+Commerzbank vormals Dresdner Bank ITGK;Wiesbaden;51089410;DRESDEFFI20;23
+Wiesbadener Volksbank;Wiesbaden;51090000;WIBADE5WXXX;31
+Rheingauer Volksbank;Geisenheim;51091500;GENODE51RGG;31
+Rheingauer Volksbank (Gf GAA);Geisenheim;51091501;GENODE51RGG;0
+Commerzbank;Limburg;51140029;COBADEFFXXX;23
+Kreissparkasse Limburg;Limburg;51150018;HELADEF1LIM;8
+Kreissparkasse Weilburg;Weilburg;51151919;HELADEF1WEI;8
+Volksbank Langendernbach;Dornburg;51161606;GENODE51LDD;31
+Deutsche Bank;Limburg;51170010;DEUTDEFF511;19
+Deutsche Bank;Limburg;51170024;DEUTDEDB511;19
+Commerzbank vormals Dresdner Bank;Limburg;51180041;DRESDEFF511;23
+Volksbank Schupbach;Beselich;51191800;GENODE51SBH;31
+BNP Paribas Niederlassung Deutschland;Frankfurt am Main;51210600;BNPADEFFXXX;0
+BNP Paribas Niederlassung Deutschland;Frankfurt am Main;51210606;BNPADEFFXXX;0
+BNP Paribas Niederlassung Deutschland;Frankfurt am Main;51210699;BNPADEFFXXX;0
+NIBC Direct;Frankfurt am Main;51210700;NZFMDEF1XXX;31
+Societe Generale;Frankfurt am Main;51210800;SOGEDEFFXXX;0
+Societe Generale;Frankfurt am Main;51210801;SGSSDEFFXXX;0
+Societe Generale;Frankfurt am Main;51210802;SOGEDEFFXXX;0
+Societe Generale;Frankfurt am Main;51210803;SOGEDEFFXXX;0
+NATIXIS Pfandbriefbank;Frankfurt am Main;51211000;NATXDEFPXXX;0
+Skandinaviska Enskilda Banken (publ) Frankfurt Branch;Frankfurt am Main;51220200;ESSEDEFFXXX;0
+Bank Saderat Iran;Frankfurt am Main;51220400;SIHRDEH1FFM;0
+ZIRAAT BANK International;Frankfurt am Main;51220700;TCZBDEFFXXX;47
+Banco do Brasil;Frankfurt am Main;51220800;BRASDEFFXXX;0
+Morgan Stanley Bank;Frankfurt am Main;51220900;MSFFDEFPXXX;0
+Morgan Stanley Bank;Frankfurt am Main;51220910;MSFFDEFXCND;0
+Standard Chartered Bank;Frankfurt am Main;51230500;SCBLDEFXXXX;0
+Standard Chartered Bank;Frankfurt am Main;51230502;SCBLDEFXXXX;0
+Ikano Bank;Wiesbaden;51230555;PLFGDE5AIKB;0
+Europe ARAB Bank;Frankfurt am Main;51230600;ARABDEFFXXX;0
+Taunus-Sparkasse;Bad Homburg;51250000;HELADEF1TSK;8
+Bundesbank eh Gießen;Frankfurt am Main;51300000;MARKDEF1513;0
+Commerzbank;Gießen;51340013;COBADEFFXXX;23
+Commerzbank;Alsfeld;51343224;COBADEFFXXX;23
+Sparkasse Gießen;Gießen;51350025;SKGIDE5FXXX;8
+Sparkasse Grünberg;Grünberg;51351526;HELADEF1GRU;8
+Sparkasse Laubach-Hungen;Laubach;51352227;HELADEF1LAU;8
+Volksbank Heuchelheim;Heuchelheim;51361021;GENODE51HHE;31
+Deutsche Bank;Gießen;51370008;DEUTDEFF513;19
+Deutsche Bank;Gießen;51370024;DEUTDEDB513;19
+Commerzbank vormals Dresdner Bank;Gießen;51380040;DRESDEFF513;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Gießen;51380085;DRESDEFFJ18;23
+Volksbank Mittelhessen;Gießen;51390000;VBMHDE5FXXX;31
+Bank of America;Frankfurt am Main;51410600;BOFADEFFXXX;0
+Bank of China;Frankfurt am Main;51410700;BKCHDEFFXXX;0
+Commerzbank - GF onvista;Frankfurt am Main;51410800;BOURDEFFXXX;0
+Misr Bank-Europe;Frankfurt am Main;51420200;MIBEDEFFXXX;0
+Bank Julius Bär Deutschland;Frankfurt am Main;51420300;BAERDEF1XXX;47
+Goldman Sachs;Frankfurt am Main;51430400;GOLDDEFFXXX;0
+Goldman Sachs;Frankfurt am Main;51430410;GOLDDEFBXXX;0
+Saman Bank Niederlassung Frankfurt;Frankfurt am Main;51432100;SABCDEFFXXX;0
+Commerzbank;Wetzlar;51540037;COBADEFFXXX;23
+Sparkasse Wetzlar;Wetzlar;51550035;HELADEF1WET;8
+Deutsche Bank;Wetzlar;51570008;DEUTDEFF515;19
+Deutsche Bank;Wetzlar;51570024;DEUTDEDB515;19
+Commerzbank vormals Dresdner Bank;Wetzlar;51580044;DRESDEFF515;23
+Volksbank Brandoberndorf;Waldsolms;51591300;GENODE51WBO;31
+Commerzbank;Dillenburg;51640043;COBADEFFXXX;23
+Sparkasse Dillenburg;Dillenburg;51650045;HELADEF1DIL;8
+Volksbank Dill eG - Volksbank und Raiffeisenbank -;Dillenburg;51690000;GENODE51DIL;31
+Sparkasse Battenberg;Battenberg (Eder);51752267;HELADEF1BAT;8
+VR Bank Lahn-Dill;Dillenburg;51762434;GENODE51BIK;31
+Sparkasse Oberhessen;Friedberg (Hessen);51850079;HELADEF1FRI;8
+BVB Volksbank Ndl d Frankfurter Volksbank;Bad Vilbel;51861325;GENODEF1BVB;31
+Volksbank Butzbach;Butzbach;51861403;GENODE51BUT;31
+Landbank Horlofftal;Reichelsheim (Wetterau);51861616;GENODE51REW;31
+Volksbank Ober-Mörlen;Ober-Mörlen;51861806;GENODE51OBM;31
+Volksbank Ulrichstein;Ulrichstein;51961023;GENODE51ULR;31
+Volksbank Feldatal;Feldatal;51961801;GENODE51FEL;31
+Volksbank Lauterbach-Schlitz;Lauterbach (Hessen);51990000;GENODE51LB1;31
+SEB;Kassel;52010111;ESSEDE5F520;0
+Commerzbank;Kassel;52040021;COBADEFFXXX;23
+Landeskreditkasse Kassel;Kassel;52050000;HELADEFF520;0
+Kasseler Sparkasse;Kassel;52050353;HELADEF1KAS;8
+Stadtsparkasse Borken (Hessen);Borken (Hessen);52051373;HELADEF1BOR;8
+Stadtsparkasse Grebenstein;Grebenstein;52051877;HELADEF1GRE;8
+Kreissparkasse Schwalm-Eder;Melsungen;52052154;HELADEF1MEG;8
+Stadtsparkasse Schwalmstadt;Schwalmstadt;52053458;HELADEF1SWA;8
+DZ BANK;Kassel;52060000;GENODEFF520;0
+Kurhessische Landbank;Kassel;52060208;GENODEF1KS2;31
+Evangelische Bank;Kassel;52060410;GENODEF1EK1;31
+Evangelische Bank (Gf GAA);Kassel;52060420;GENODEF1EK1;0
+VR PartnerBank Chattengau-Schwalm-Eder;Melsungen;52062601;GENODEF1HRV;31
+VR-Bank Spangenberg-Morschen;Spangenberg;52063369;GENODEF1SPB;31
+Raiffeisenbank HessenNord;Wolfhagen;52063550;GENODEF1WOH;31
+Raiffeisenbank;Baunatal;52064156;GENODEF1BTA;31
+Spar- und Kredit-Bank eG Gemünden/Wohra;Gemünden (Wohra);52069029;GENODEF1GMD;31
+Frankenberger Bank Raiffeisenbank;Frankenberg;52069519;GENODEF1FBK;31
+Deutsche Bank;Kassel;52070012;DEUTDEFF520;19
+Deutsche Bank;Kassel;52070024;DEUTDEDB520;19
+Deutsche Bank;Bad Wildungen;52071212;DEUTDEFF521;19
+Deutsche Bank;Bad Wildungen;52071224;DEUTDEDB521;19
+Commerzbank vormals Dresdner Bank;Kassel;52080080;DRESDEFF520;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK1;Kassel;52080085;DRESDEFFJ19;23
+Volksbank Kassel Göttingen;Kassel;52090000;GENODE51KS1;31
+Commerzbank;Eschwege;52240006;COBADEFFXXX;23
+Sparkasse Werra-Meißner;Eschwege;52250030;HELADEF1ESW;8
+VR-Bank Mitte eG;Duderstadt;52260385;GENODEF1ESW;31
+Deutsche Bank;Eschwege;52270012;DEUTDEFF522;19
+Deutsche Bank;Eschwege;52270024;DEUTDEDB522;19
+Sparkasse Waldeck-Frankenberg;Korbach;52350005;HELADEF1KOR;8
+Waldecker Bank;Korbach;52360059;GENODEF1KBW;31
+ReiseBank;Frankfurt am Main;52410300;RBAGDEF1XXX;0
+ReiseBank Gf2;Frankfurt am Main;52410310;RBAGDEF1CMI;0
+KEB Hana Bank (Deutschland);Frankfurt am Main;52410400;KOEXDEFAXXX;0
+ReiseBank Gf3 vormals Cash Express;Frankfurt am Main;52411000;RBAGDEF1CMI;0
+ReiseBank Gf4 vormals Cash Express;Frankfurt am Main;52411010;RBAGDEF1CMI;0
+Credit Agricole CIB Deutschland;Frankfurt am Main;52420000;BSUIDEFFXXX;0
+SHINHAN BANK EUROPE;Frankfurt am Main;52420300;SHBKDEFFXXX;0
+Piraeus Bank Frankfurt Branch;Frankfurt am Main;52420600;ABGRDEFFXXX;0
+SECB Swiss Euro Clearing Bank;Frankfurt am Main;52420700;SECGDEFFXXX;0
+TARGOBANK FIRMENKUNDEN CIB;Frankfurt am Main;52430000;CMCIDEF1XXX;0
+Commerzbank;Fulda;53040012;COBADEFFXXX;23
+Sparkasse Fulda;Fulda;53050180;HELADEF1FDS;8
+Kreissparkasse Schlüchtern;Schlüchtern;53051396;HELADEF1SLU;8
+VR Bank Fulda;Fulda;53060180;GENODE51FUL;31
+VR-Bank NordRhön;Hünfeld;53061230;GENODEF1HUE;31
+Raiffeisenbank im Fuldaer Land;Großenlüder;53062035;GENODEF1GLU;31
+Raiffeisenbank Biebergrund-Petersberg;Petersberg;53062350;GENODEF1PBG;31
+Deutsche Bank;Fulda;53070007;DEUTDEFF530;19
+Deutsche Bank;Fulda;53070024;DEUTDEDB530;19
+Postbank/DSL Ndl der Deutsche Bank;Fulda;53070324;DEUTDEDBP27;1
+Postbank/DSL Ndl der Deutsche Bank;Fulda;53070394;DEUTDEFFS27;1
+Commerzbank vormals Dresdner Bank;Fulda;53080030;DRESDEFF530;23
+VR Bank HessenLand;Alsfeld;53093200;GENODE51ALS;31
+AgrarB@nk;Alsfeld;53093255;GENODE51AGR;31
+Commerzbank;Bad Hersfeld;53240048;COBADEFFXXX;23
+Sparkasse Bad Hersfeld-Rotenburg;Bad Hersfeld;53250000;HELADEF1HER;8
+Raiffeisenbank Werratal-Landeck;Heringen (Werra);53261342;GENODEF1RAW;31
+Deutsche Bank;Bad Hersfeld;53270012;DEUTDEFF532;19
+Deutsche Bank;Bad Hersfeld;53270024;DEUTDEDB518;19
+Commerzbank vormals Dresdner Bank;Bad Hersfeld;53280081;DRESDEFF532;23
+VR-Bankverein Bad Hersfeld-Rotenburg;Bad Hersfeld;53290000;GENODE51BHE;31
+Commerzbank;Marburg;53340024;COBADEFFXXX;23
+Sparkasse Marburg-Biedenkopf;Marburg;53350000;HELADEF1MAR;8
+Deutsche Bank;Marburg;53370008;DEUTDEFF533;19
+Deutsche Bank;Marburg;53370024;DEUTDEDB533;19
+Commerzbank vormals Dresdner Bank;Marburg;53380042;DRESDEFF533;23
+Commerzbank vormals Dresdner Bank;Stadtallendorf;53381843;DRESDEFF568;23
+UniCredit Bank - HypoVereinsbank;Kaiserslautern;54020090;HYVEDEMM482;0
+Service Credit Union Overseas Headquarters;Sembach;54030011;SCRUDE51XXX;0
+Commerzbank;Kaiserslautern;54040042;COBADEFFXXX;23
+Sparkasse Kaiserslautern;Kaiserslautern;54050220;MALADE51KLK;8
+Kreissparkasse Kusel;Kusel;54051550;MALADE51KUS;8
+Sparkasse Donnersberg;Rockenhausen;54051990;MALADE51ROK;8
+Deutsche Bank;Kaiserslautern;54070024;DEUTDEDB540;19
+Deutsche Bank;Kaiserslautern;54070092;DEUTDESM540;19
+Commerzbank vormals Dresdner Bank;Kaiserslautern;54080021;DRESDEFF540;23
+Volksbank Kaiserslautern;Kaiserslautern;54090000;GENODE61KL1;31
+Volksbank Lauterecken;Lauterecken;54091700;GENODE61LEK;31
+Volksbank Glan-Münchweiler;Glan-Münchweiler;54092400;GENODE61GLM;31
+SEB;Pirmasens;54210111;ESSEDE5F542;0
+UniCredit Bank - HypoVereinsbank;Pirmasens;54220091;HYVEDEMM485;0
+Commerzbank;Pirmasens;54240032;COBADEFFXXX;23
+Sparkasse Südwestpfalz;Pirmasens;54250010;MALADE51SWP;8
+VR-Bank Südwestpfalz Pirmasens-Zweibrücken;Pirmasens;54261700;GENODE61ROA;31
+Deutsche Bank;Pirmasens;54270024;DEUTDEDB542;19
+Deutsche Bank;Pirmasens;54270096;DEUTDESM542;19
+Commerzbank vormals Dresdner Bank;Pirmasens;54280023;DRESDEFF542;23
+Bundesbank;Ludwigshafen am Rhein;54500000;MARKDEF1545;0
+Postbank Ndl der Deutsche Bank;Ludwigshafen am Rhein;54510067;PBNKDEFFXXX;1
+UniCredit Bank - HypoVereinsbank;Ludwigshafen am Rhein;54520194;HYVEDEMM483;0
+Commerzbank;Ludwigshafen am Rhein;54540033;COBADEFFXXX;23
+Sparkasse Vorderpfalz;Ludwigshafen am Rhein;54550010;LUHSDE6AXXX;8
+Kreissparkasse Rhein-Pfalz - alt-;Ludwigshafen am Rhein;54550120;MALADE51LUH;8
+Deutsche Bank;Ludwigshafen am Rhein;54570024;DEUTDEDB545;19
+Deutsche Bank;Ludwigshafen am Rhein;54570094;DEUTDESM545;19
+Commerzbank vormals Dresdner Bank;Ludwigshafen am Rhein;54580020;DRESDEFF545;23
+UniCredit Bank - HypoVereinsbank;Neustadt an der Weinstraße;54620093;HYVEDEMM620;0
+Commerzbank;Neustadt an der Weinstraße;54640035;COBADEFFXXX;23
+Sparkasse Rhein-Haardt;Bad Dürkheim;54651240;MALADE51DKH;8
+Deutsche Bank;Neustadt an der Weinstraße;54670024;DEUTDEDB546;19
+Deutsche Bank;Neustadt an der Weinstraße;54670095;DEUTDESM546;19
+Commerzbank vormals Dresdner Bank;Neustadt an der Weinstraße;54680022;DRESDEFF546;23
+VR Bank Mittelhaardt;Bad Dürkheim;54691200;GENODE61DUW;31
+Vereinigte VR Bank Kur- und Rheinpfalz;Speyer;54790000;GENODE61SPE;31
+Sparkasse Südpfalz;Landau in der Pfalz;54850010;SOLADES1SUW;8
+Sparkasse Südpfalz;Kandel;54851440;MALADE51KAD;0
+VR Bank Südpfalz;Landau in der Pfalz;54862500;GENODE61SUW;31
+VR Bank Südliche Weinstraße-Wasgau;Bad Bergzabern;54891300;GENODE61BZA;31
+Bundesbank;Mainz;55000000;MARKDEF1550;0
+Aareal Bank GF Domestic;Wiesbaden;55010400;AARBDE5WDOM;0
+Aareal Bank ehem. Filiale Mainz;Wiesbaden;55010424;AARBDE5W550;0
+Aareal Bank Clearing Wiesbaden;Wiesbaden;55010625;AARBDE5WCLE;0
+Investitions- und Strukturbank RP;Mainz;55010800;ISBRDE55XXX;0
+BHF-BANK;Mainz;55020000;BHFBDEFF550;47
+Bausparkasse Mainz;Mainz;55020100;BKMZDE51XXX;0
+UniCredit Bank - HypoVereinsbank;Mainz;55020486;HYVEDEMM486;0
+Bank für Sozialwirtschaft;Kassel;55020500;BFSWDE33MNZ;0
+Bank für Sozialwirtschaft AG (nur intern);Kassel;55020555;BFSWDE33MNZ;0
+Aareal Bank (formerly Westdeutsche ImmobilienBank);Wiesbaden;55020600;IMMODE5MXXX;0
+Süd-West-Kreditbank Finanzierung;Bingen am Rhein;55020700;SUFGDE51XXX;0
+TARGOBANK Gf FG;Mainz;55030500;CPLADE55XXX;0
+Santander Consumer Bank;Mainz;55033300;SCFBDE33XXX;0
+Commerzbank;Mainz;55040022;COBADEFFXXX;23
+Commerzbank CC;Mainz;55040060;COBADEFFXXX;23
+Commerzbank CC;Mainz;55040061;COBADEFFXXX;23
+ZV Landesbank Baden-Württemberg;Mainz;55050000;SOLADEST550;0
+Rheinhessen Sparkasse ehem. Mainz;Mainz;55050120;MALADE51MNZ;0
+Genobank Mainz;Mainz;55060611;GENODE51MZ6;31
+Budenheimer Volksbank;Budenheim;55061303;GENODE51BUD;31
+Deutsche Bank;Mainz;55070024;DEUTDEDBMAI;19
+Deutsche Bank;Mainz;55070040;DEUTDE5MXXX;19
+Postbank/DSL Ndl der Deutsche Bank;Mainz;55070324;DEUTDEDBP29;1
+Postbank/DSL Ndl der Deutsche Bank;Mainz;55070396;DEUTDE5MP29;1
+Commerzbank, TF MZ 1;Mainz;55080044;COBADEFFXXX;23
+Commerzbank vormals Dresdner Bank;Mainz;55080065;DRESDEFF550;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Mainz;55080085;DRESDEFFJ20;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2;Mainz;55080086;DRESDEFFJ21;23
+Commerzbank, TF MZ 2;Mainz;55080088;DRESDEFF555;23
+Sparda-Bank Südwest;Mainz;55090500;GENODEF1S01;31
+Volksbank Alzey-Worms;Worms;55091200;GENODE61AZY;31
+Clearingkonto LRP-SI;Mainz;55150098;MALADE51EMZ;0
+Pax-Bank;Mainz;55160195;GENODED1PA4;56
+Mainzer Volksbank;Mainz;55190000;MVBMDE55XXX;31
+Commerzbank;Worms;55340041;COBADEFFXXX;23
+Rheinhessen Sparkasse;Mainz;55350010;MALADE51WOR;8
+VR Bank;Alsheim;55361202;GENODE51AHM;31
+UniCredit Bank - HypoVereinsbank;Bad Kreuznach;56020086;HYVEDEMM515;0
+Sparkasse Rhein-Nahe;Bad Kreuznach;56050180;MALADE51KRE;8
+Kreissparkasse Rhein-Hunsrück;Simmern;56051790;MALADE51SIM;8
+Raiffeisenbank Kastellaun;Kastellaun;56061151;GENODED1KSL;56
+Vereinigte Volksbank Raiffeisenbank;Simmern;56061472;GENODED1KHK;56
+Volksbank Rheinböllen;Rheinböllen;56062227;GENODED1RBO;56
+Deutsche Bank;Bad Kreuznach;56070024;DEUTDEDB560;19
+Deutsche Bank;Bad Kreuznach;56070040;DEUTDE5M560;19
+Volksbank Rhein-Nahe-Hunsrück;Bad Kreuznach;56090000;GENODE51KRE;56
+Commerzbank;Idar-Oberstein;56240050;COBADEFFXXX;23
+Kreissparkasse Birkenfeld;Idar-Oberstein;56250030;BILADE55XXX;8
+Raiffeisenbank Nahe;Fischbach;56261735;GENODED1FIN;56
+Deutsche Bank;Idar-Oberstein;56270024;DEUTDEDB562;19
+Deutsche Bank;Idar-Oberstein;56270044;DEUTDE5M562;19
+Bundesbank;Koblenz;57000000;MARKDEF1570;0
+SEB;Koblenz;57010111;ESSEDE5F570;0
+UniCredit Bank - HypoVereinsbank;Koblenz;57020086;HYVEDEMM401;0
+MMV Bank;Koblenz;57020301;MKBKDE51XXX;0
+Oyak Anker Bank;Frankfurt am Main;57020500;OYAKDE5KXXX;17
+Debeka Bausparkasse;Koblenz;57020600;DEBKDE51XXX;0
+Commerzbank;Koblenz;57040044;COBADEFFXXX;23
+Sparkasse Koblenz;Koblenz;57050120;MALADE51KOB;8
+DZ BANK;Koblenz;57060000;GENODEDD570;0
+Raiffeisenbank;Niederwallmenach;57062675;GENODE51NWA;56
+Raiffeisenbank Moselkrampen;Ernst;57069081;GENODED1MOK;56
+Raiffeisenbank Eifeltor;Kaisersesch;57069144;GENODED1KAI;56
+Raiffeisenbank Neustadt;Neustadt (Wied);57069238;GENODED1ASN;56
+Raiffeisenbank Welling;Welling;57069361;GENODED1WLG;56
+VR-Bank Hunsrück-Mosel;Morbach;57069806;GENODED1MBA;56
+Deutsche Bank;Koblenz;57070024;DEUTDEDB570;19
+Deutsche Bank;Koblenz;57070045;DEUTDE5M570;19
+Postbank/DSL Ndl der Deutsche Bank;Koblenz;57070324;DEUTDEDBP28;1
+Postbank/DSL Ndl der Deutsche Bank;Koblenz;57070395;DEUTDE5MP28;1
+Commerzbank vormals Dresdner Bank;Koblenz;57080070;DRESDEFF570;23
+PSD Bank Koblenz;Koblenz;57090900;GENODEF1P12;31
+Volksbank Rhein-Lahn-Limburg;Diez;57092800;GENODE51DIE;31
+Raiffeisenbank Unterwesterwald;Arzbach;57263015;GENODE51ARZ;56
+Sparkasse Westerwald-Sieg;Bad Marienberg (Westerwald);57351030;MALADE51AKI;8
+Volksbank Gebhardshain;Gebhardshain;57361476;GENODED1GBS;56
+Volksbank Daaden;Daaden;57391200;GENODE51DAA;31
+Volksbank Hamm/Sieg eG;Hamm (Sieg);57391500;GENODE51HAM;31
+Westerwald Bank eG Volks- und Raiffeisenbank;Montabaur;57391800;GENODE51WW1;31
+Sparkasse Neuwied;Neuwied;57450120;MALADE51NWD;8
+VR Bank Rhein-Mosel;Neuwied;57460117;GENODED1NWD;56
+Deutsche Bank;Neuwied;57470024;DEUTDEDB574;19
+Deutsche Bank;Neuwied;57470047;DEUTDE5M574;19
+Kreissparkasse Mayen;Mayen;57650010;MALADE51MYN;8
+Kreissparkasse Ahrweiler;Bad Neuenahr-Ahrweiler;57751310;MALADE51AHR;8
+Volksbank RheinAhrEifel;Koblenz;57761591;GENODED1BNA;56
+Volksbank RheinAhrEifel (Gf GAA);Koblenz;57761599;GENODED1BNA;0
+Raiffeisenbank Grafschaft-Wachtberg;Grafschaft;57762265;GENODED1GRO;56
+SEB;Trier;58510111;ESSEDE5F585;0
+UniCredit Bank - HypoVereinsbank;Trier;58520086;HYVEDEMM437;0
+Commerzbank;Trier;58540035;COBADEFFXXX;23
+Sparkasse Trier;Trier;58550130;TRISDE55XXX;8
+Volksbank Trier;Trier;58560103;GENODED1TVB;56
+Pax-Bank;Trier;58560294;GENODED1PA3;56
+Raiffeisenbank Mehring-Leiwen;Leiwen;58561771;GENODED1MLW;56
+Deutsche Bank;Trier;58570024;DEUTDEDB585;19
+Deutsche Bank;Trier;58570048;DEUTDE5M585;19
+Commerzbank vormals Dresdner Bank;Trier;58580074;DRESDEFF585;23
+PSD Bank Köln eG;Trier;58590900;GENODEF1P21;0
+Kreissparkasse Bitburg-Prüm;Bitburg;58650030;MALADE51BIT;8
+Kreissparkasse Vulkaneifel;Daun;58651240;MALADE51DAU;8
+Volksbank Eifel;Bitburg;58660101;GENODED1BIT;56
+Raiffeisenbank Westeifel;Arzfeld;58661901;GENODED1WSC;56
+Sparkasse Mittelmosel-Eifel Mosel Hunsrück;Bernkastel-Kues;58751230;MALADE51BKS;8
+Raiffeisenbank Zeller Land;Briedel;58761343;GENODED1BPU;56
+Deutsche Bank;Bernkastel-Kues;58771224;DEUTDEDB587;19
+Deutsche Bank;Bernkastel-Kues;58771242;DEUTDE5M587;19
+Bundesbank;Saarbrücken;59000000;MARKDEF1590;0
+Postbank Ndl der Deutsche Bank;St. Ingbert;59010011;PBNKDEFF011;1
+Postbank Ndl der Deutsche Bank;Neunkirchen;59010012;PBNKDEFF012;1
+Postbank Ndl der Deutsche Bank;Dillingen;59010013;PBNKDEFF013;1
+Postbank Ndl der Deutsche Bank;Völklingen;59010014;PBNKDEFF014;1
+Postbank Ndl der Deutsche Bank;Aachen;59010015;PBNKDEFF015;1
+Postbank Ndl der Deutsche Bank;Bruchsal;59010016;PBNKDEFF016;1
+Postbank Ndl der Deutsche Bank;Göttingen;59010017;PBNKDEFF017;1
+Postbank Ndl der Deutsche Bank;Wedel;59010018;PBNKDEFF018;1
+Postbank Ndl der Deutsche Bank;Arnsberg;59010019;PBNKDEFF019;1
+Postbank Ndl der Deutsche Bank;Aschaffenburg;59010021;PBNKDEFF021;1
+Postbank Ndl der Deutsche Bank;Fulda;59010022;PBNKDEFF022;1
+Postbank Ndl der Deutsche Bank;Bad Homburg;59010023;PBNKDEFF023;1
+Postbank Ndl der Deutsche Bank;Brühl;59010024;PBNKDEFF024;1
+Postbank Ndl der Deutsche Bank;Kassel;59010025;PBNKDEFF025;1
+Postbank Ndl der Deutsche Bank;Kaufbeuren;59010026;PBNKDEFF026;1
+Postbank Ndl der Deutsche Bank;Pinneberg;59010027;PBNKDEFF027;1
+Postbank Ndl der Deutsche Bank;Alzey;59010028;PBNKDEFF028;1
+Postbank Ndl der Deutsche Bank;Bad Vilbel;59010029;PBNKDEFF029;1
+Postbank Ndl der Deutsche Bank;Bretten;59010031;PBNKDEFF031;1
+Postbank Ndl der Deutsche Bank;Stralsund;59010032;PBNKDEFF032;1
+Postbank Ndl der Deutsche Bank;Bayreuth;59010033;PBNKDEFF033;1
+Postbank Ndl der Deutsche Bank;Soltau;59010034;PBNKDEFF034;1
+Postbank Ndl der Deutsche Bank;Delmenhorst;59010035;PBNKDEFF035;1
+Postbank Ndl der Deutsche Bank;Cham;59010036;PBNKDEFF036;1
+Postbank Ndl der Deutsche Bank;Bergheim;59010037;PBNKDEFF037;1
+Postbank Ndl der Deutsche Bank;Aichach;59010038;PBNKDEFF038;1
+Postbank Ndl der Deutsche Bank;Bergisch Gladbach;59010039;PBNKDEFF039;1
+Postbank Ndl der Deutsche Bank;Leonberg;59010040;PBNKDEFF040;1
+Postbank Ndl der Deutsche Bank;Germersheim;59010041;PBNKDEFF041;1
+Postbank Ndl der Deutsche Bank;Bocholt;59010042;PBNKDEFF042;1
+Postbank Ndl der Deutsche Bank;Bochum;59010044;PBNKDEFF044;1
+Postbank Ndl der Deutsche Bank;Maintal;59010045;PBNKDEFF045;1
+Postbank Ndl der Deutsche Bank;Hilden;59010047;PBNKDEFF047;1
+Postbank Ndl der Deutsche Bank;Frechen;59010048;PBNKDEFF048;1
+Postbank Ndl der Deutsche Bank;Wolfsburg;59010049;PBNKDEFF049;1
+Postbank Ndl der Deutsche Bank;Vechta;59010051;PBNKDEFF051;1
+Postbank Ndl der Deutsche Bank;Lüchow (Wendland);59010052;PBNKDEFF052;1
+Postbank Ndl der Deutsche Bank;Braunschweig;59010053;PBNKDEFF053;1
+Postbank Ndl der Deutsche Bank;Bramsche;59010054;PBNKDEFF054;1
+Postbank Ndl der Deutsche Bank;Helmstedt;59010055;PBNKDEFF055;1
+Postbank Ndl der Deutsche Bank;Rathenow;59010056;PBNKDEFF056;1
+Postbank Ndl der Deutsche Bank;Bielefeld;59010057;PBNKDEFF057;1
+Postbank Ndl der Deutsche Bank;Wolfenbüttel;59010058;PBNKDEFF058;1
+Postbank Ndl der Deutsche Bank;Ludwigsfelde;59010059;PBNKDEFF059;1
+Postbank Ndl der Deutsche Bank;Soest;59010061;PBNKDEFF061;1
+Postbank Ndl der Deutsche Bank;Gotha;59010062;PBNKDEFF062;1
+Postbank Ndl der Deutsche Bank;Hoyerswerda;59010063;PBNKDEFF063;1
+Postbank Ndl der Deutsche Bank;Mayen;59010064;PBNKDEFF064;1
+Postbank Ndl der Deutsche Bank;Gelnhausen;59010065;PBNKDEFF065;1
+Postbank Ndl der Deutsche Bank;Saarbrücken;59010066;PBNKDEFFXXX;1
+Postbank Ndl der Deutsche Bank;Hof;59010068;PBNKDEFF068;1
+Postbank Ndl der Deutsche Bank;Bad Dürkheim;59010069;PBNKDEFF069;1
+Postbank Ndl der Deutsche Bank;Neustadt a.d.Aisch;59010071;PBNKDEFF071;1
+Postbank Ndl der Deutsche Bank;Tübingen;59010072;PBNKDEFF072;1
+Postbank Ndl der Deutsche Bank;Erding;59010073;PBNKDEFF073;1
+Postbank Ndl der Deutsche Bank;Amberg;59010074;PBNKDEFF074;1
+SEB;Saarbrücken;59010111;ESSEDE5F590;0
+Saarl Investitionskreditbank;Saarbrücken;59010400;SIKBDE55XXX;0
+UniCredit Bank - HypoVereinsbank;Saarbrücken;59020090;HYVEDEMM432;0
+mediserv Bank;Saarbrücken;59020400;MEGHDE81XXX;0
+Commerzbank;Saarbrücken;59040000;COBADEFFXXX;23
+Landesbank Saar;Saarbrücken;59050000;SALADE55XXX;8
+Sparkasse Saarbrücken;Saarbrücken;59050101;SAKSDE55XXX;8
+Deutsche Bank;Saarbrücken;59070000;DEUTDE5M555;19
+Deutsche Bank;Saarbrücken;59070070;DEUTDEDB595;19
+Commerzbank vormals Dresdner Bank;Saarbrücken;59080090;DRESDEFF590;23
+PSD Bank RheinNeckarSaar;Saarbrücken;59090900;GENODEF1P19;0
+Vereinigte Volksbank Saarlouis-Losheim-Sulzbach/Saar;Saarlouis;59092000;GENODE51SB2;31
+Bank 1 Saar;Saarbrücken;59190000;SABADE5SXXX;31
+Kreissparkasse St. Wendel;St. Wendel;59251020;SALADE51WND;8
+Sparkasse Neunkirchen;Neunkirchen;59252046;SALADE51NKS;8
+UniCredit Bank - HypoVereinsbank;Saarlouis;59320087;HYVEDEMM838;0
+Kreissparkasse Saarlouis;Saarlouis;59350110;KRSADE55XXX;8
+Sparkasse Merzig-Wadern;Merzig;59351040;MERZDE55XXX;8
+Volksbank Überherrn;Überherrn;59391200;GENODE51UBH;31
+levo Bank Vereinte Volksbanken Lebach Eppelborn eG;Lebach;59393000;GENODE51LEB;31
+Kreissparkasse Saarpfalz;Homburg;59450010;SALADE51HOM;8
+Bundesbank;Stuttgart;60000000;MARKDEF1600;0
+Postbank Ndl der Deutsche Bank;Stuttgart;60010070;PBNKDEFFXXX;1
+Aareal Bank ehem. Filiale Stuttgart;Wiesbaden;60010424;AARBDE5W600;0
+Baden-Württembergische Bank;Stuttgart;60020030;SOLADEST601;0
+M.M. Warburg & Co (vormals Schwäbische Bank);Hamburg;60020100;SCHWDESSXXX;163
+UniCredit Bank - HypoVereinsbank;Stuttgart;60020290;HYVEDEMM473;0
+Mercedes-Benz Bank;Stuttgart;60030000;MEBEDE6SDCB;0
+Bankhaus Bauer, Essen;Essen;60030100;BHBADES1XXX;31
+Bankhaus Ellwanger & Geiger;Stuttgart;60030200;ELGEDES1XXX;31
+CreditPlus Bank;Stuttgart;60030600;CPLUDES1XXX;0
+CreditPlus Bank;Stuttgart;60030666;CPLUDES1666;0
+AKTIVBANK;Frankfurt am Main;60030700;AKBADES1XXX;31
+Isbank Fil Stuttgart;Stuttgart;60030900;ISBKDEFXSTU;47
+TRUMPF Financial Services;Ditzingen;60031000;TRUFDE66XXX;0
+Wüstenrot Bausparkasse;Ludwigsburg;60033000;BSWLDE61XXX;0
+IBM Deutschland Kreditbank;Ehningen;60035810;IBKBDES1XXX;0
+Commerzbank CC;Stuttgart;60040060;COBADEFFXXX;23
+Commerzbank CC;Stuttgart;60040061;COBADEFFXXX;23
+Commerzbank;Stuttgart;60040071;COBADEFFXXX;23
+Commerzbank, Filiale Stuttgart 2;Stuttgart;60040075;COBADEFFXXX;0
+Landesbank Baden-Württemberg;Stuttgart;60050000;SOLADESTXXX;0
+ZV Landesbank Baden-Württemberg ISE;Stuttgart;60050009;;0
+Landesbank Baden-Württemberg/Baden-Württembergische Bank;Stuttgart;60050101;SOLADEST600;8
+DZ BANK;Stuttgart;60060000;GENODESGXXX;0
+DZ PRIVATBANK Ndl. Stuttgart;Stuttgart;60060202;GENODESTXXX;0
+Volksbank am Württemberg;Fellbach;60060396;GENODES1UTV;31
+Echterdinger Bank;Leinfelden-Echterdingen;60062775;GENODES1ECH;31
+Raiffeisenbank Niedere Alb;Langenau;60069066;GENODES1RBA;31
+Raiffeisenbank Bühlertal;Vellberg;60069075;GENODES1RVG;31
+Raiffeisenbank Sondelfingen;Reutlingen;60069147;GENODES1RSF;31
+Raiffeisenbank Steinheim;Steinheim am Albuch;60069158;GENODES1SAA;31
+Raiffeisenbank Aidlingen;Aidlingen;60069206;GENODES1AID;31
+Genossenschaftsbank Weil im Schönbuch;Weil im Schönbuch;60069224;GENODES1GWS;31
+Bopfinger Bank Sechta-Ries;Bopfingen;60069239;GENODES1BPF;31
+Raiffeisenbank Gruibingen;Gruibingen;60069242;GENODES1RGR;31
+Raiffeisenbank Bad Schussenried-Aulendorf;Bad Schussenried;60069303;GENODES1RBS;31
+Raiffeisenbank Maitis;Göppingen;60069336;GENODES1RMA;31
+VR-Bank Alb-Blau-Donau;Ehingen (Donau);60069346;GENODES1REH;31
+Raiffeisenbank Reute-Gaisbeuren;Bad Waldsee;60069350;GENODES1RRG;31
+VR-Bank Ehningen-Nufringen;Ehningen;60069355;GENODES1EHN;31
+Volksbank Dettenhausen;Dettenhausen;60069378;GENODES1DEH;31
+Dettinger Bank;Dettingen an der Erms;60069387;GENODES1DBE;31
+Raiffeisenbank Frankenhardt-Stimpfach;Stimpfach;60069442;GENODES1RFS;31
+Raiffeisenbank Ottenbach;Ottenbach;60069457;GENODES1OTT;31
+Winterbacher Bank;Winterbach;60069462;GENODES1WBB;31
+Raiffeisenbank Geislingen-Rosenfeld;Rosenfeld;60069463;GENODES1RKH;31
+Scharnhauser Bank;Ostfildern;60069517;GENODES1SCA;31
+Volksbank Brenztal;Giengen an der Brenz;60069527;GENODES1RNS;31
+Raiffeisenbank Westhausen;Westhausen;60069544;GENODES1RWN;31
+Raiffeisenbank Aichhalden-Hardt-Sulgen;Hardt;60069553;GENODES1HAR;31
+Raiffeisenbank Schrozberg-Rot am See;Schrozberg;60069595;GENODES1SBB;31
+Abtsgmünder Bank -Raiffeisen-;Abtsgmünd;60069673;GENODES1ABR;31
+Raiffeisenbank Wangen;Wangen;60069685;GENODES1RWA;31
+Raiffeisenbank Gammesfeld;Blaufelden;60069710;GENODES1RGF;0
+Raiffeisenbank Hohenloher Land;Ingelfingen;60069714;GENODES1IBR;31
+Raiffeisenbank;Mötzingen;60069817;GENODES1RMO;31
+Raiffeisenbank Oberes Gäu eG;Rottenburg am Neckar;60069876;GENODES1ROG;31
+Volksbank Remseck;Remseck am Neckar;60069905;GENODES1REM;31
+Raiffeisenbank;Erlenbach;60069911;GENODES1ERL;31
+Raiffeisenbank;Berghülen;60069931;GENODES1BGH;31
+Raiffeisenbank Tüngental;Schwäbisch Hall;60069950;GENODES1TUN;31
+Raiffeisenbank Böllingertal;Heilbronn;60069976;GENODES1BOE;31
+Deutsche Bank;Stuttgart;60070024;DEUTDEDBSTG;19
+Deutsche Bank;Stuttgart;60070070;DEUTDESSXXX;19
+Postbank/DSL Ndl der Deutsche Bank;Stuttgart;60070214;DEUTDESSP13;1
+Postbank/DSL Ndl der Deutsche Bank;Stuttgart;60070224;DEUTDEDBP13;1
+Commerzbank vormals Dresdner Bank;Stuttgart;60080000;DRESDEFF600;23
+Commerzbank vormals Dresdner Bank Zw 55;Stuttgart;60080055;DRESDEFF608;23
+Commerzbank vormals Dresdner Bank Gf Zw 57;Stuttgart;60080057;DRESDEFF609;23
+Commerzbank vormals Dresdner Bank ITGK 2;Stuttgart;60080085;DRESDEFFI50;23
+Commerzbank vormals Dresdner Bank Gf PCC-ITGK 3;Stuttgart;60080086;DRESDEFFI54;23
+Commerzbank vormals Dresdner Bank, PCC DC-ITGK 4;Stuttgart;60080087;DRESDEFFI57;23
+Commerzbank vormals Dresdner Bank, PCC DC-ITGK 5;Stuttgart;60080088;DRESDEFFI58;23
+Commerzbank vormals Dresdner Bank ITGK;Stuttgart;60089450;DRESDEFFI21;23
+Volksbank Stuttgart;Stuttgart;60090100;VOBADESSXXX;31
+Volksbank Stuttgart GAA;Stuttgart;60090133;VOBADESSXXX;0
+Volksbank Zuffenhausen eG;Stuttgart;60090300;GENODES1ZUF;31
+SÜDWESTBANK - BAWAG Niederlassung Deutschland;Stuttgart;60090700;SWBSDESSXXX;31
+Sparda-Bank Baden-Württemberg;Stuttgart;60090800;GENODEF1S02;30
+PSD Bank RheinNeckarSaar;Stuttgart;60090900;GENODEF1P20;31
+BHF-BANK;Stuttgart;60120200;BHFBDEFF600;47
+Bank für Sozialwirtschaft;Stuttgart;60120500;BFSWDE33STG;0
+Santander Consumer Bank;Stuttgart;60133300;SCFBDE33XXX;0
+Commerzbank;Backnang;60241074;COBADEFFXXX;23
+Kreissparkasse Waiblingen;Waiblingen;60250010;SOLADES1WBN;8
+Fellbacher Bank;Fellbach;60261329;GENODES1FBB;31
+Deutsche Bank;Waiblingen;60270024;DEUTDEDB606;19
+Deutsche Bank;Waiblingen;60270073;DEUTDESS606;19
+Volksbank Backnang;Backnang;60291120;GENODES1VBK;31
+UniCredit Bank - HypoVereinsbank;Böblingen;60320291;HYVEDEMM858;0
+Commerzbank Sindelfingen;Sindelfingen;60340071;COBADEFFXXX;23
+Kreissparkasse Böblingen;Böblingen;60350130;BBKRDE6BXXX;8
+Commerzbank vormals Dresdner Bank;Böblingen;60380002;DRESDEFF601;23
+Vereinigte Volksbanken;Sindelfingen;60390000;GENODES1BBV;31
+Volksbank Leonberg-Strohgäu;Leonberg;60390300;GENODES1LEO;31
+Volksbank in der Region eG;Tübingen;60391310;GENODES1VBH;31
+VR-Bank Magstadt-Weissach;Magstadt;60391420;GENODES1MAG;31
+Wüstenrot Bank AG Pfandbriefbank;Oldenburg;60420000;WBAGDE61XXX;0
+Wüstenrot Bank AG Pfandbriefbank;Oldenburg;60420020;WBAGDEA1XXX;56
+Wüstenrot Bank AG Pfandbriefbank;Oldenburg;60420021;WBAGDEA1XXX;0
+UniCredit Bank - HypoVereinsbank;Ludwigsburg;60420186;HYVEDEMM860;0
+RSB Retail+Service Bank;Kornwestheim;60422000;SABUDES1XXX;31
+Commerzbank;Ludwigsburg;60440073;COBADEFFXXX;23
+Kreissparkasse Ludwigsburg;Ludwigsburg;60450050;SOLADES1LBG;8
+Deutsche Bank;Ludwigsburg;60470024;DEUTDEDB604;19
+Deutsche Bank;Ludwigsburg;60470082;DEUTDESS604;19
+Commerzbank vormals Dresdner Bank;Ludwigsburg;60480008;DRESDEFF604;23
+VR-Bank Neckar-Enz eG;Ludwigsburg;60491430;GENODES1VBB;31
+Raiffeisenbank Wimsheim-Mönsheim;Wimsheim;60661906;GENODES1WIM;31
+Raiffeisenbank Calw eG;Neubulach;60663084;GENODES1RCW;31
+Deutsche Bank;Stuttgart;60670024;DEUTDEDB659;0
+Deutsche Bank;Stuttgart;60670070;DEUTDESS659;0
+Bankhaus Gebr. Martin;Göppingen;61030000;MARBDE6GXXX;31
+Commerzbank;Göppingen;61040014;COBADEFFXXX;23
+Kreissparkasse Göppingen;Göppingen;61050000;GOPSDE6GXXX;8
+Volksbank Göppingen;Göppingen;61060500;GENODES1VGP;31
+Deutsche Bank;Göppingen;61070024;DEUTDEDB610;19
+Deutsche Bank;Göppingen;61070078;DEUTDESS610;19
+Commerzbank vormals Dresdner Bank;Göppingen;61080006;DRESDEFF610;23
+UniCredit Bank - HypoVereinsbank;Esslingen am Neckar;61120286;HYVEDEMM859;0
+Commerzbank;Esslingen am Neckar;61140071;COBADEFFXXX;23
+Kreissparkasse Esslingen-Nürtingen;Esslingen am Neckar;61150020;ESSLDE66XXX;8
+Volksbank Filder;Neuhausen auf den Fildern;61161696;GENODES1NHB;31
+Deutsche Bank;Esslingen am Neckar;61170024;DEUTDEDB611;19
+Deutsche Bank;Esslingen am Neckar;61170076;DEUTDESS611;19
+Commerzbank vormals Dresdner Bank;Esslingen am Neckar;61180004;DRESDEFF611;23
+Volksbank Plochingen;Plochingen;61191310;GENODES1VBP;31
+Commerzbank;Nürtingen;61240048;COBADEFFXXX;23
+VR Bank Hohenneuffen-Teck;Frickenhausen;61261339;GENODES1HON;31
+Bernhauser Bank;Filderstadt;61262345;GENODES1BBF;31
+Commerzbank vormals Dresdner Bank;Kirchheim unter Teck;61281007;DRESDEFF612;23
+Volksbank Mittlerer Neckar;Esslingen am Neckar;61290120;GENODES1NUE;31
+Commerzbank;Schwäbisch Gmünd;61340079;COBADEFFXXX;23
+Raiffeisenbank Rosenstein;Heubach;61361722;GENODES1HEU;31
+Deutsche Bank;Schwäbisch Gmünd;61370024;DEUTDEDB613;19
+Deutsche Bank;Schwäbisch Gmünd;61370086;DEUTDESS613;19
+VR Bank Schwäbischer Wald;Welzheim;61391410;GENODES1WEL;31
+UniCredit Bank - HypoVereinsbank;Aalen;61420086;HYVEDEMM272;0
+Commerzbank;Aalen;61440086;COBADEFFXXX;23
+Kreissparkasse Ostalb;Aalen;61450050;OASPDE6AXXX;8
+Commerzbank vormals Dresdner Bank;Aalen;61480001;DRESDEFF614;23
+VR-Bank Ostalb;Aalen;61490150;GENODES1AAV;31
+VR-Bank Ellwangen;Ellwangen (Jagst);61491010;GENODES1ELL;31
+Hoerner-Bank;Heilbronn;62020000;HOEBDE61XXX;31
+Commerzbank;Heilbronn;62040060;COBADEFFXXX;23
+Kreissparkasse Heilbronn;Heilbronn;62050000;HEISDE66XXX;8
+Volksbank Sulmtal;Obersulm;62061991;GENODES1VOS;31
+Volksbank Beilstein-Ilsfeld-Abstatt;Beilstein;62062215;GENODES1BIA;31
+Volksbank Flein-Talheim;Flein;62062643;GENODES1VFT;31
+Volksbank im Unterland eG;Brackenheim;62063263;GENODES1VLS;31
+Deutsche Bank;Heilbronn;62070024;DEUTDEDB620;19
+Deutsche Bank;Heilbronn;62070081;DEUTDESS620;19
+Commerzbank vormals Dresdner Bank;Heilbronn;62080012;DRESDEFF620;23
+Volksbank Möckmühl;Möckmühl;62091600;GENODES1VMN;31
+Volksbank Hohenlohe;Öhringen;62091800;GENODES1VHL;31
+Bausparkasse Schwäbisch Hall;Schwäbisch Hall;62220000;BSHHDE61XXX;0
+Commerzbank;Schwäbisch Hall;62240048;COBADEFFXXX;23
+Sparkasse Schwäbisch Hall-Crailsheim;Schwäbisch Hall;62250030;SOLADES1SHA;8
+Sparkasse Hohenlohekreis;Künzelsau;62251550;SOLADES1KUN;8
+Commerzbank vormals Dresdner Bank;Schwäbisch Hall;62280012;DRESDEFF622;23
+VR Bank Heilbronn Schwäbisch Hall;Schwäbisch Hall;62290110;GENODES1SHA;31
+Bundesbank;Ulm;63000000;MARKDEF1630;0
+SEB;Ulm, Donau;63010111;ESSEDE5F630;0
+UniCredit Bank - HypoVereinsbank;Ulm;63020086;HYVEDEMM461;0
+Commerzbank;Ulm;63040053;COBADEFFXXX;23
+Sparkasse Ulm;Ulm;63050000;SOLADES1ULM;8
+Deutsche Bank;Ulm;63070024;DEUTDEDB630;19
+Deutsche Bank;Ulm;63070088;DEUTDESS630;19
+Commerzbank vormals Dresdner Bank;Ulm;63080015;DRESDEFF630;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Stuttgart;63080085;DRESDEFFI59;23
+Volksbank Ulm-Biberach;Ulm;63090100;ULMVDE66XXX;31
+Donau-Iller Bank;Ehingen (Donau);63091010;GENODES1EHI;31
+Volksbank Alb;Langenau;63091300;GENODES1LAI;31
+UniCredit Bank - HypoVereinsbank;Heidenheim an der Brenz;63220090;HYVEDEMM271;0
+Commerzbank;Heidenheim an der Brenz;63240016;COBADEFFXXX;23
+Kreissparkasse Heidenheim;Heidenheim an der Brenz;63250030;SOLADES1HDH;8
+Heidenheimer Volksbank;Heidenheim an der Brenz;63290110;GENODES1HDH;31
+Bundesbank;Reutlingen;64000000;MARKDEF1640;0
+UniCredit Bank - HypoVereinsbank;Reutlingen;64020186;HYVEDEMM374;0
+Commerzbank;Reutlingen;64040033;COBADEFFXXX;23
+Commerzbank;Metzingen;64040045;COBADEFFXXX;23
+Kreissparkasse Reutlingen;Reutlingen;64050000;SOLADES1REU;8
+Deutsche Bank;Reutlingen;64070024;DEUTDEDB640;19
+Deutsche Bank;Reutlingen;64070085;DEUTDESS640;19
+Postbank/DSL Ndl der Deutsche Bank;Tübingen;64070215;DEUTDESSP14;1
+Postbank/DSL Ndl der Deutsche Bank;Tübingen;64070224;DEUTDEDBP14;1
+Commerzbank vormals Dresdner Bank;Reutlingen;64080014;DRESDEFF640;23
+Volksbank Ermstal-Alb;Metzingen;64091200;GENODES1MTZ;31
+Volksbank Münsingen;Münsingen;64091300;GENODES1MUN;31
+Commerzbank Tübingen;Tübingen;64140036;COBADEFFXXX;23
+Kreissparkasse Tübingen;Tübingen;64150020;SOLADES1TUB;8
+Volksbank Ammerbuch;Ammerbuch;64161397;GENODES1AMM;31
+Volksbank Hohenzollern-Balingen;Balingen;64163225;GENODES1VHZ;31
+Commerzbank vormals Dresdner Bank;Tübingen;64180014;DRESDEFF641;23
+Commerzbank;Trossingen;64240048;COBADEFFXXX;23
+Commerzbank;Rottweil;64240071;COBADEFFXXX;23
+Kreissparkasse Rottweil;Rottweil;64250040;SOLADES1RWL;8
+Kreissparkasse Freudenstadt;Freudenstadt;64251060;SOLADES1FDS;8
+Volksbank Nordschwarzwald;Pfalzgrafenweiler;64261853;GENODES1PGW;31
+VR-Bank Dornstetten-Horb;Dornstetten;64262408;GENODES1VDS;31
+Volksbank Rottweil;Rottweil;64290120;GENODES1VRW;31
+Volksbank im Kreis Freudenstadt;Freudenstadt;64291010;GENODES1FDS;31
+Volksbank Deisslingen;Deißlingen;64291420;GENODES1VDL;31
+Volksbank Trossingen;Trossingen;64292310;GENODES1TRO;31
+Kreissparkasse Tuttlingen;Tuttlingen;64350070;SOLADES1TUT;8
+Raiffeisenbank Donau-Heuberg;Mühlheim an der Donau;64361359;GENODES1RDH;31
+Commerzbank vormals Dresdner Bank;Tuttlingen;64380011;DRESDEFF643;23
+Volksbank Schwarzwald-Donau-Neckar;Tuttlingen;64390130;GENODES1TUT;31
+UniCredit Bank - HypoVereinsbank;Ravensburg;65020186;HYVEDEMM588;0
+Commerzbank;Ravensburg;65040073;COBADEFFXXX;23
+Kreissparkasse Ravensburg;Ravensburg;65050110;SOLADES1RVB;8
+VR Bank Ravensburg-Weingarten;Ravensburg;65062577;GENODES1RRV;31
+Raiffeisenbank Bad Saulgau;Bad Saulgau;65063086;GENODES1SAG;31
+Deutsche Bank;Ravensburg;65070024;DEUTDEDB650;19
+Deutsche Bank;Ravensburg;65070084;DEUTDESS650;19
+Commerzbank vormals Dresdner Bank;Ravensburg;65080009;DRESDEFF650;23
+Volksbank Allgäu-Oberschwaben;Leutkirch im Allgäu;65091040;GENODES1LEU;31
+Volksbank Altshausen;Altshausen;65092200;GENODES1VAH;31
+Volksbank Bad Saulgau;Bad Saulgau;65093020;GENODES1SLG;31
+Internationales Bankhaus Bodensee;Friedrichshafen;65110200;IBBFDE81XXX;31
+Commerzbank;Friedrichshafen;65140072;COBADEFFXXX;23
+Raiffeisenbank Oberteuringen-Meckenbeuren;Oberteuringen;65162832;GENODES1OTE;31
+Commerzbank vormals Dresdner Bank;Friedrichshafen;65180005;DRESDEFF651;23
+Volksbank Friedrichshafen-Tettnang;Tettnang;65191500;GENODES1TET;31
+SEB;Albstadt;65310111;ESSEDE5F653;0
+Commerzbank;Albstadt;65340004;COBADEFFXXX;23
+Commerzbank;Balingen;65341204;COBADEFFXXX;23
+Hohenzollerische Landesbank Kreissparkasse Sigmaringen;Sigmaringen;65351050;SOLADES1SIG;8
+Sparkasse Zollernalb;Balingen;65351260;SOLADES1BAL;8
+VR Bank Heuberg-Winterlingen;Meßstetten;65361898;GENODES1WLB;31
+Onstmettinger Bank;Albstadt;65361989;GENODES1ONS;31
+Raiffeisenbank Geislingen-Rosenfeld;Geislingen;65362499;GENODES1GEI;31
+Deutsche Bank;Albstadt;65370024;DEUTDEDB653;19
+Deutsche Bank;Albstadt;65370075;DEUTDESS653;19
+Commerzbank vormals Dresdner Bank;Albstadt;65380003;DRESDEFF653;23
+Volksbank Albstadt;Albstadt;65390120;GENODES1EBI;31
+Commerzbank;Biberach an der Riß;65440087;COBADEFFXXX;23
+Kreissparkasse Biberach;Biberach an der Riß;65450070;SBCRDE66XXX;8
+Volksbank Raiffeisenbank Laupheim-Illertal;Laupheim;65491320;GENODES1VBL;31
+VR Bank Riedlingen-Federsee;Riedlingen;65491510;GENODES1VRR;31
+Bundesbank;Karlsruhe;66000000;MARKDEF1660;0
+Postbank Ndl der Deutsche Bank;Karlsruhe;66010075;PBNKDEFFXXX;1
+SEB;Karlsruhe;66010111;ESSEDE5F660;0
+Deutsche Bausparkasse Badenia;Karlsruhe;66010200;BBSPDE6KXXX;0
+Landeskreditbank Baden-Württemberg Förderbank;Karlsruhe;66010700;LKBWDE6KXXX;0
+Baden-Württembergische Bank;Karlsruhe;66020020;SOLADEST663;0
+UniCredit Bank - HypoVereinsbank;Karlsruhe;66020286;HYVEDEMM475;0
+Bank für Sozialwirtschaft;Karlsruhe;66020500;BFSWDE33KRL;0
+Bank für Sozialwirtschaft AG (nur intern);Karlsruhe;66020566;BFSWDE33KRL;0
+Isbank eh Filiale Mannheim;Frankfurt am Main;66030600;ISBKDEFXXXX;47
+Commerzbank;Karlsruhe;66040018;COBADEFFXXX;23
+Commerzbank/Kreditcenter Badenia;Karlsruhe;66040026;COBADEFFXXX;23
+Landesbank Baden-Württemberg;Karlsruhe;66050000;SOLADEST660;0
+Sparkasse Karlsruhe;Karlsruhe;66050101;KARSDE66XXX;8
+DZ BANK;Karlsruhe;66060000;GENODE6KXXX;0
+Spar- und Kreditbank Rheinstetten eG;Rheinstetten;66061407;GENODE61RH2;31
+Raiffeisenbank Hardt-Bruhrain;Dettenheim;66062366;GENODE61DET;31
+Raiffeisenbank Elztal;Elztal;66069103;GENODE61ELZ;31
+Spar- und Kreditbank Dauchingen eG;Dauchingen;66069104;GENODE61DAC;31
+Volksbank Krautheim;Krautheim;66069342;GENODE61KTH;31
+Deutsche Bank;Karlsruhe;66070004;DEUTDESM660;19
+Deutsche Bank;Karlsruhe;66070024;DEUTDEDB660;19
+Postbank/DSL Ndl der Deutsche Bank;Karlsruhe;66070213;DEUTDESMP12;1
+Postbank/DSL Ndl der Deutsche Bank;Karlsruhe;66070224;DEUTDEDBP12;1
+Commerzbank vormals Dresdner Bank;Karlsruhe;66080052;DRESDEFF660;23
+BBBank;Karlsruhe;66090800;GENODE61BBB;31
+PSD Bank Karlsruhe-Neustadt;Karlsruhe;66090900;GENODEF1P10;31
+Volksbank Ettlingen;Ettlingen;66091200;GENODE61ETT;31
+Volksbank pur;Karlsruhe;66190000;GENODE61KA1;31
+Commerzbank;Baden-Baden;66240002;COBADEFFXXX;23
+Sparkasse Baden-Baden Gaggenau;Baden-Baden;66250030;SOLADES1BAD;8
+Sparkasse Bühl;Bühl;66251434;SOLADES1BHL;8
+Spar- und Kreditbank Bühlertal eG;Bühlertal;66261092;GENODE61BHT;31
+Raiffeisenbank Altschweier;Bühl;66261416;GENODE61ALR;31
+Deutsche Bank;Baden-Baden;66270001;DEUTDESM662;19
+Deutsche Bank;Baden-Baden;66270024;DEUTDEDB662;19
+Commerzbank vormals Dresdner Bank;Baden-Baden;66280053;DRESDEFF662;23
+Volksbank Bühl;Bühl;66291400;GENODE61BHL;31
+Commerzbank;Bruchsal;66340018;COBADEFFXXX;23
+Sparkasse Kraichgau Bruchsal-Bretten-Sinsheim;Bruchsal;66350036;BRUSDE66XXX;8
+Volksbank Bruchsal-Bretten;Bretten;66391200;GENODE61BTT;31
+Bankhaus J. Faißt;Wolfach;66432700;FAITDE66XXX;47
+Commerzbank;Offenburg;66440084;COBADEFFXXX;23
+Sparkasse Offenburg/Ortenau;Offenburg;66450050;SOLADES1OFG;8
+Sparkasse Kinzigtal;Haslach im Kinzigtal;66451548;SOLADES1HAL;8
+Sparkasse Hanauerland;Kehl;66451862;SOLADES1KEL;8
+Sparkasse Wolfach;Wolfach;66452776;SOLADES1WOF;8
+Deutsche Bank;Offenburg;66470024;DEUTDEDB968;19
+Deutsche Bank;Offenburg;66470035;DEUTDE6F664;19
+Volksbank eG;Offenburg;66490000;GENODE61OG1;31
+Volksbank Bühl Fil Kehl;Kehl;66491800;GENODE61BHL;0
+Volksbank Mittlerer Schwarzwald;Wolfach;66492700;GENODE61KZT;31
+Sparkasse Rastatt-Gernsbach;Rastatt;66550070;SOLADES1RAS;8
+Raiffeisenbank Südhardt Durmersheim;Durmersheim;66562053;GENODE61DUR;31
+VR-Bank in Mittelbaden;Iffezheim;66562300;GENODE61IFF;31
+SEB;Pforzheim;66610111;ESSEDE5F666;0
+Commerzbank;Pforzheim;66640035;COBADEFFXXX;23
+Sparkasse Pforzheim Calw;Pforzheim;66650085;PZHSDE66XXX;8
+Raiffeisenbank Kieselbronn;Kieselbronn;66661329;GENODE61KBR;31
+Raiffeisenbank Ersingen;Kämpfelbach;66662155;GENODE61ERS;31
+Deutsche Bank;Pforzheim;66670006;DEUTDESM666;19
+Deutsche Bank;Pforzheim;66670024;DEUTDEDB666;19
+Commerzbank vormals Dresdner Bank;Pforzheim;66680013;DRESDEFF666;23
+SEB;Mannheim;67010111;ESSEDE5F670;0
+UniCredit Bank - HypoVereinsbank;Mannheim;67020190;HYVEDEMM489;0
+Commerzbank;Mannheim;67040031;COBADEFFXXX;23
+Commerzbank CC;Mannheim;67040060;COBADEFFXXX;23
+Commerzbank CC;Mannheim;67040061;COBADEFFXXX;23
+Commerzbank, Gf Web-K;Mannheim;67040085;COBADEFFXXX;23
+Sparkasse Rhein Neckar Nord;Mannheim;67050505;MANSDE66XXX;8
+Sparkasse Hockenheim;Hockenheim;67051203;SOLADES1HOC;0
+Volksbank Sandhofen;Mannheim;67060031;GENODE61MA3;31
+Deutsche Bank;Mannheim;67070010;DEUTDESMXXX;19
+Deutsche Bank;Mannheim;67070024;DEUTDEDBMAN;19
+Commerzbank vormals Dresdner Bank;Mannheim;67080050;DRESDEFF670;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2;Mannheim;67080085;DRESDEFFI60;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 3;Mannheim;67080086;DRESDEFFI61;23
+Commerzbank vormals Dresdner Bank ITGK;Stuttgart;67089440;DRESDEFFI22;23
+VR Bank Rhein-Neckar;Mannheim;67090000;GENODE61MA2;31
+Volksbank Kurpfalz;Heidelberg;67092300;GENODE61WNM;31
+SEB;Heidelberg;67210111;ESSEDE5F672;0
+UniCredit Bank - HypoVereinsbank;Heidelberg;67220286;HYVEDEMM479;0
+MLP Banking;Wiesloch;67230000;MLPBDE61XXX;31
+MLP Banking Zw CS;Wiesloch;67230001;MLPBDE61001;31
+Commerzbank;Heidelberg;67240039;COBADEFFXXX;23
+Sparkasse Heidelberg;Heidelberg;67250020;SOLADES1HDB;8
+Raiffeisenbank Baiertal;Wiesloch;67262243;GENODE61WIB;31
+Volksbank Rot;St. Leon-Rot;67262550;GENODE61LRO;31
+Deutsche Bank;Heidelberg;67270003;DEUTDESM672;19
+Deutsche Bank;Heidelberg;67270024;DEUTDEDB672;19
+Commerzbank vormals Dresdner Bank;Heidelberg;67280051;DRESDEFF672;23
+Heidelberger Volksbank;Heidelberg;67290000;GENODE61HD1;31
+Volksbank Neckartal;Eberbach;67291700;GENODE61NGD;31
+Volksbank Kraichgau;Wiesloch;67292200;GENODE61WIE;31
+Sparkasse Tauberfranken;Tauberbischofsheim;67352565;SOLADES1TBB;8
+Volksbank Main-Tauber;Wertheim;67390000;GENODE61WTH;31
+Sparkasse Neckartal-Odenwald;Mosbach;67450048;SOLADES1MOS;8
+Volksbank Mosbach;Mosbach;67460041;GENODE61MOS;31
+Volksbank Franken;Buchen (Odenwald);67461424;GENODE61BUC;31
+Volksbank Kirnau;Rosenberg;67461733;GENODE61RNG;31
+Volksbank Limbach;Limbach;67462368;GENODE61LMB;31
+Bundesbank;Freiburg im Breisgau;68000000;MARKDEF1680;0
+SEB;Freiburg, Breisgau;68010111;ESSEDE5F680;0
+UniCredit Bank - HypoVereinsbank;Freiburg im Breisgau;68020186;HYVEDEMM357;0
+Bankhaus E. Mayer;Freiburg im Breisgau;68030000;BKMADE61XXX;56
+Commerzbank;Freiburg im Breisgau;68040007;COBADEFFXXX;23
+Sparkasse Freiburg-Nördlicher Breisgau;Freiburg im Breisgau;68050101;FRSPDE66XXX;8
+Sparkasse Hochschwarzwald;Titisee-Neustadt;68051004;SOLADES1HSW;8
+Sparkasse Bonndorf-Stühlingen;Bonndorf im Schwarzwald;68051207;SOLADES1BND;8
+Sparkasse St. Blasien;St. Blasien;68052230;SOLADES1STB;8
+Sparkasse Staufen-Breisach;Staufen im Breisgau;68052328;SOLADES1STF;8
+Volksbank Breisgau-Markgräflerland;Eschbach;68061505;GENODE61IHR;31
+Raiffeisenbank Denzlingen-Sexau;Denzlingen;68062105;GENODE61DEN;31
+Raiffeisenbank Wyhl;Wyhl am Kaiserstuhl;68062730;GENODE61WYH;31
+Raiffeisenbank Kaiserstuhl;Vogtsburg im Kaiserstuhl;68063479;GENODE61VOK;31
+Raiffeisenbank im Breisgau;Gundelfingen;68064222;GENODE61GUN;31
+Deutsche Bank;Freiburg im Breisgau;68070024;DEUTDEDBFRE;19
+Deutsche Bank;Freiburg im Breisgau;68070030;DEUTDE6FXXX;19
+Postbank/DSL Ndl der Deutsche Bank;Freiburg im Breisgau;68070212;DEUTDE6FP11;1
+Postbank/DSL Ndl der Deutsche Bank;Freiburg im Breisgau;68070224;DEUTDEDBP11;1
+Commerzbank vormals Dresdner Bank;Freiburg im Breisgau;68080030;DRESDEFF680;23
+Commerzbank vormals Dresdner Bank Zw Münsterstraße;Freiburg im Breisgau;68080031;DRESDEFFI44;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Freiburg im Breisgau;68080085;DRESDEFFI62;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2;Freiburg im Breisgau;68080086;DRESDEFFJ22;23
+Volksbank Freiburg;Freiburg im Breisgau;68090000;GENODE61FR1;31
+PSD Bank RheinNeckarSaar;Freiburg im Breisgau;68090900;GENODEF1P07;0
+Volksbank Breisgau Nord;Emmendingen;68092000;GENODE61EMM;31
+Volksbank Staufen;Staufen im Breisgau;68092300;GENODE61STF;31
+Deutsche Bank;Lahr;68270024;DEUTDEDB682;19
+Deutsche Bank;Lahr;68270033;DEUTDE6F682;19
+Volksbank Lahr;Lahr;68290000;GENODE61LAH;31
+SEB;Lörrach;68310111;ESSEDE5F683;0
+Commerzbank;Lörrach;68340058;COBADEFFXXX;23
+Sparkasse Lörrach-Rheinfelden;Lörrach;68350048;SKLODE66XXX;8
+Sparkasse Wiesental;Schopfheim;68351557;SOLADES1SFH;8
+Sparkasse Markgräflerland;Weil am Rhein;68351865;SOLADES1MGL;8
+Deutsche Bank;Lörrach;68370024;DEUTDEDB683;19
+Deutsche Bank;Lörrach;68370034;DEUTDE6F683;19
+Volksbank Dreiländereck;Lörrach;68390000;VOLODE66XXX;31
+Sparkasse Hochrhein;Waldshut-Tiengen;68452290;SKHRDE6WXXX;8
+Volksbank Klettgau-Wutöschingen;Wutöschingen;68462427;GENODE61WUT;31
+Volksbank Rhein-Wehra;Bad Säckingen;68490000;GENODE61BSK;31
+Volksbank Hochrhein;Waldshut-Tiengen;68492200;GENODE61WT1;31
+SEB;Konstanz;69010111;ESSEDE5F690;0
+UniCredit Bank - HypoVereinsbank;Konstanz;69020190;HYVEDEMM591;0
+Commerzbank;Konstanz;69040045;COBADEFFXXX;23
+Sparkasse Bodensee;Konstanz;69050001;SOLADES1KNZ;8
+Bezirkssparkasse Reichenau;Reichenau;69051410;SOLADES1REN;8
+Sparkasse Pfullendorf-Meßkirch;Pfullendorf;69051620;SOLADES1PFD;8
+Sparkasse Salem-Heiligenberg;Salem;69051725;SOLADES1SAL;8
+Volksbank Überlingen;Überlingen;69061800;GENODE61UBE;31
+Deutsche Bank;Konstanz;69070024;DEUTDEDB690;19
+Deutsche Bank;Konstanz;69070032;DEUTDE6F690;19
+Hagnauer Volksbank;Hagnau am Bodensee;69091200;GENODE61HAG;31
+Volksbank Pfullendorf;Pfullendorf;69091600;GENODE61PFD;31
+UniCredit Bank - HypoVereinsbank;Singen (Hohentwiel);69220186;HYVEDEMM590;0
+Commerzbank;Singen (Hohentwiel);69240075;COBADEFFXXX;23
+Sparkasse Hegau-Bodensee;Singen (Hohentwiel);69250035;SOLADES1SNG;8
+Sparkasse Engen-Gottmadingen;Engen;69251445;SOLADES1ENG;8
+Deutsche Bank;Singen (Hohentwiel);69270024;DEUTDEDB692;19
+Deutsche Bank;Singen (Hohentwiel);69270038;DEUTDE6F692;19
+Commerzbank vormals Dresdner Bank;Singen (Hohentwiel);69280035;DRESDEFF692;23
+Volksbank;Konstanz;69291000;GENODE61RAD;31
+Volksbank Gf GA;Konstanz;69291099;GENODE61RAD;0
+Volksbank Meßkirch Raiffeisenbank;Meßkirch;69362032;GENODE61MES;31
+Bundesbank;Villingen-Schwenningen;69400000;MARKDEF1694;0
+Commerzbank Villingen u Schwenningen;Villingen-Schwenningen;69440007;COBADEFFXXX;23
+Commerzbank CC;Villingen-Schwenningen;69440060;COBADEFFXXX;23
+Sparkasse Schwarzwald-Baar;Villingen-Schwenningen;69450065;SOLADES1VSS;8
+Deutsche Bank;Villingen-Schwenningen;69470024;DEUTDEDB694;19
+Deutsche Bank;Villingen-Schwenningen;69470039;DEUTDE6F694;19
+Bundesbank;München;70000000;MARKDEF1700;0
+Postbank Ndl der Deutsche Bank;München;70010080;PBNKDEFFXXX;1
+Aareal Bank ehem. Filiale München;Wiesbaden;70010424;AARBDE5W700;0
+Deutsche Pfandbriefbank;Garching b. München;70010500;REBMDEMMXXX;0
+Deutsche Pfandbriefbank;Garching b. München;70010555;REBMDEMM555;0
+Deutsche Pfandbriefbank;Garching b. München;70010570;REBMDE7CXXX;0
+Middle East Bank, Munich Branch;München;70010800;KHMIDEMMXXX;0
+Bank Vontobel Europe;München;70011200;VONTDEM1XXX;0
+BfW - Bank für Wohnungswirtschaft;Mannheim;70011400;BFWODE71XXX;0
+SIEMENS BANK;München;70011500;SIBADEMMXXX;0
+TEN31 Bank;Ottobrunn;70011600;WEGBDE77XXX;31
+Bankhaus von der Heydt;München;70011700;BVDHDEMMXXX;0
+InterCard;Taufkirchen;70011900;ICRDDE71XXX;0
+UniCredit Family Financing Bank, Ndl der UniCredit;München;70012000;CLABDEM1XXX;0
+V-Bank;München;70012300;VBANDEMMXXX;0
+Bankhaus Obotritia;München;70012400;FLGMDE77XXX;0
+Südtiroler Sparkasse Niederlassung München;München;70012600;SUSKDEM1XXX;31
+VZ Depotbank Deutschland;München;70012700;DEPDDEMMXXX;0
+IBAN FIRST, Zweigniederlassung München;München;70012900;FXBBDEM2XXX;0
+ebase -European Bank for Financial Services GmbH;Aschheim;70013000;EBSGDEMXXXX;0
+European Bank for Financial Services;Aschheim;70013010;EFSGDEM1XXX;0
+IC Cash Services;Taufkirchen;70013400;CSHHDE71XXX;0
+Bankhaus Herzogpark;München;70013500;HERZDEM1XXX;31
+transact Elektronische Zahlungssysteme;Planegg;70015000;TEZGDEB1XXX;0
+transact Elektronische Zahlungssysteme;Planegg;70015015;TEZGDEB1001;0
+transact Elektronische Zahlungssysteme;Planegg;70015025;TEZGDEB1002;0
+transact Elektronische Zahlungssysteme;Planegg;70015035;TEZGDEB1003;0
+PayCenter;Freising;70017000;PAGMDEM1XXX;174
+UniCredit Bank - HypoVereinsbank;München;70020270;HYVEDEMMXXX;21
+BNP Paribas NL Deutschland;München;70020300;WKVBDEM1XXX;0
+Bank für Sozialwirtschaft;München;70020500;BFSWDE33MUE;0
+Bank für Sozialwirtschaft AG (nur intern);München;70020570;BFSWDE33MUE;0
+INTESA SANPAOLO;München;70020800;BCITDEFFMUC;0
+UniCredit Bank - HypoVereinsbank;Freising;70021180;HYVEDEMM418;0
+Fidor Bank;München;70022200;FDDODEMMXXX;0
+UniCredit Bank - HypoVereinsbank;Bad Tölz;70025175;HYVEDEMM643;0
+Fürst Fugger Privatbank;Augsburg;70030014;FUBKDE71MUC;0
+Merck Finck A Quintet Private Bank;München;70030400;MEFIDEMMXXX;47
+Bankhaus Ludwig Sperrer;Freising;70031000;BHLSDEM1XXX;172
+St.Galler Kantonalbank Deutschland;München;70032500;GAKDDEM1XXX;31
+Baader Bank;Unterschleißheim;70033100;BDWBDEMMXXX;181
+Oldenburgische Landesbank;Oldenburg;70035000;OLBODEH2700;95
+Commerzbank;München;70040041;COBADEFFXXX;23
+Commerzbank, Filiale München 2;München;70040045;COBADEFFXXX;23
+Commerzbank GF-M48;München;70040048;COBADEFFXXX;23
+Commerzbank Gf 860;München;70040060;COBADEFFXXX;23
+Commerzbank Gf 861;München;70040061;COBADEFFXXX;23
+Commerzbank CC;München;70040062;COBADEFFXXX;23
+Commerzbank CC;München;70040063;COBADEFFXXX;23
+Commerzbank, CC SP;München;70040070;COBADEFFXXX;23
+Commerzbank Service-BZ;München;70045050;COBADEFFXXX;23
+Bayerische Landesbank;München;70050000;BYLADEMMXXX;0
+Sparkasse Freising Moosburg;Freising;70051003;BYLADEM1FSI;8
+Sparkasse Dachau;Dachau;70051540;BYLADEM1DAH;8
+Kreis- und Stadtsparkasse Erding-Dorfen;Erding;70051995;BYLADEM1ERD;8
+Sparkasse Landsberg-Dießen;Landsberg am Lech;70052060;BYLADEM1LLD;8
+Sparkasse Fürstenfeldbruck;Fürstenfeldbruck;70053070;BYLADEM1FFB;8
+Sparkasse Bad Tölz-Wolfratshausen;Bad Tölz;70054306;BYLADEM1WOR;8
+Deutsche Bank;München;70070010;DEUTDEMMXXX;19
+Deutsche Bank;München;70070024;DEUTDEDBMUC;19
+Postbank/DSL Ndl der Deutsche Bank;München;70070324;DEUTDEDBP16;1
+Postbank/DSL Ndl der Deutsche Bank;München;70070362;DEUTDEMMP16;1
+Commerzbank vormals Dresdner Bank;München;70080000;DRESDEFF700;23
+Commerzbank vormals Dresdner Bank Zw 56;München;70080056;DRESDEFF714;23
+Commerzbank vormals Dresdner Bank Gf ZW 57;München;70080057;DRESDEFF724;23
+Commerzbank vormals Dresdner Bank Gf PCC DCC-ITGK 3;München;70080085;DRESDEFFI55;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4;München;70080086;DRESDEFFJ23;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 5;München;70080087;DRESDEFFJ24;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 6;München;70080088;DRESDEFFJ25;23
+Commerzbank vormals Dresdner Bank ITGK;München;70089470;DRESDEFFI23;23
+Commerzbank vormals Dresdner Bank ITGK;München;70089472;DRESDEFFI45;23
+Hausbank München;München;70090100;GENODEF1M04;31
+Hausbank München;München;70090124;GENODEF1MU4;0
+Sparda-Bank München;München;70090500;GENODEF1S04;30
+Volksbank Raiffeisenbank Dachau;Dachau;70091500;GENODEF1DCA;31
+Volksbank Raiffeisenbank Dachau (Gf GAA);Dachau;70091510;GENODEF1DCA;0
+VR-Bank Landsberg-Ammersee;Landsberg am Lech;70091600;GENODEF1DSS;31
+Volksbank Raiffeisenbank Starnberg-Herrsching-Landsberg;Starnberg;70093200;GENODEF1STH;31
+VR-Bank Ismaning Hallbergmoos Neufahrn;Ismaning;70093400;GENODEF1ISV;31
+Postbank Ndl der Deutsche Bank;München;70110088;PBNKDEFFXXX;1
+Münchener Hypothekenbank;München;70110500;MHYPDEMMXXX;0
+State Street Bank International;München;70120100;SBOSDEMXXXX;0
+BNP Paribas Niederlassung Deutschland;Nürnberg;70120400;DABBDEMMXXX;69
+CACEIS Bank Deutschland;München;70120500;FMBKDEMMXXX;0
+Airbus Bank;München;70120600;AGBMDEMMXXX;56
+Oberbank Ndl Deutschland;München;70120700;OBKLDEMXXXX;47
+MERKUR PRIVATBANK;München;70130800;GENODEF1M06;31
+Santander Consumer Bank;München;70133300;SCFBDE33XXX;0
+Stadtsparkasse München;München;70150000;SSKMDEMMXXX;8
+DZ BANK;München;70160000;GENODEFF701;0
+Volksbank Raiffeisenbank Fürstenfeldbruck;Fürstenfeldbruck;70163370;GENODEF1FFB;31
+VR Bank München Land;Deisenhofen;70166486;GENODEF1OHC;31
+Raiffeisenbank Griesstätt-Halfing;Halfing;70169132;GENODEF1HFG;31
+Raiffeisenbank Chiemgau-Nord - Obing;Obing;70169165;GENODEF1SBC;31
+Raiffeisenbank Pfaffenhofen a.d.Glonn eG;Odelzhausen;70169186;GENODEF1ODZ;31
+Raiffeisenbank Tattenhausen-Großkarolinenfeld eG;Großkarolinenfeld;70169190;GENODEF1GKT;31
+Raiffeisenbank Rupertiwinkel;Teisendorf;70169191;GENODEF1TEI;31
+Alxing-Brucker Genossenschaftsbank;Bruck;70169310;GENODEF1ALX;31
+Raiffeisenbank Beuerberg-Eurasburg;Eurasburg;70169333;GENODEF1EUR;31
+Raiffeisenbank Lechrain;Fuchstal;70169351;GENODEF1ELB;31
+Raiffeisenbank Erding;Erding;70169356;GENODEF1EDR;31
+Raiffeisenbank;Gilching;70169382;GENODEF1GIL;31
+Raiffeisenbank Gmund am Tegernsee;Gmund a. Tegernsee;70169383;GENODEF1GMU;31
+Raiffeisenbank Haag-Gars-Maitenbeth;Haag i.OB;70169388;GENODEF1HMA;31
+Raiffeisenbank Holzkirchen-Otterfing;Holzkirchen;70169410;GENODEF1HZO;31
+Raiffeisenbank Singoldtal;Hurlach;70169413;GENODEF1HUA;31
+Raiffeisen-Volksbank Ebersberg;Grafing b. München;70169450;GENODEF1ASG;31
+Raiffeisenbank;Mittenwald;70169459;GENODEF1MTW;31
+Raiffeisenbank Westkreis FFB eG;Moorenweis;70169460;GENODEF1MOO;31
+Genossenschaftsbank München;München;70169464;GENODEF1M07;31
+Raiffeisenbank München-Nord;Unterschleißheim;70169465;GENODEF1M08;31
+Raiffeisenbank München-Süd;München;70169466;GENODEF1M03;31
+Raiffeisenbank München-Süd Gf GA;München;70169470;GENODEF1GAA;0
+Raiffeisenbank Pfaffenwinkel;Peiting;70169509;GENODEF1PEI;31
+Raiffeisenbank Raisting;Raisting;70169521;GENODEF1RIG;31
+Bankhaus RSA;Rechtmehring;70169524;GENODEF1RME;31
+Raiffeisenbank Neumarkt-St. Veit - Reischach;Reischach;70169530;GENODEF1RWZ;31
+Raiffeisenbank Isar-Loisachtal;Wolfratshausen;70169543;GENODEF1HHS;31
+Raiffeisenbank Steingaden;Steingaden;70169558;GENODEF1SGA;31
+VR-Bank Taufkirchen-Dorfen;Taufkirchen (Vils);70169566;GENODEF1TAV;31
+Raiffeisenbank Taufkirchen-Oberneukirchen;Oberneukirchen;70169568;GENODEF1TAE;31
+Raiffeisenbank;Türkheim;70169575;GENODEF1TRH;31
+Raiffeisen-Volksbank Tüßling-Unterneukirchen;Tüßling;70169576;GENODEF1TUS;31
+Raiffeisenbank im Oberland;Bad Tölz;70169598;GENODEF1MIB;31
+VR-Bank Erding;Erding;70169605;GENODEF1ISE;31
+Freisinger Bank Volksbank-Raiffeisenbank;Freising;70169614;GENODEF1FSR;31
+Raiffeisenbank Hallertau;Rudelzhausen;70169693;GENODEF1RHT;31
+Münchner Bank;München;70190000;GENODEF1M01;31
+Münchner Bank;München;70190010;GENODEF1M1Y;0
+LfA Förderbank Bayern;München;70220000;LFFBDEMMXXX;0
+BHF-BANK;München;70220200;BHFBDEFF700;47
+BMW Bank;München;70220300;BMWBDEMUXXX;0
+Wüstenrot Bausparkasse;München;70220900;DRESDEFFBFC;0
+Isbank Fil München;München;70230600;ISBKDEFXMUN;47
+Kreissparkasse München Starnberg Ebersberg;München;70250150;BYLADEM1KMS;8
+UniCredit Bank - HypoVereinsbank;Garmisch-Partenkirchen;70320090;HYVEDEMM654;0
+UniCredit Bank - HypoVereinsbank;Weilheim i. OB;70321194;HYVEDEMM466;0
+UniCredit Bank - HypoVereinsbank;Murnau a. Staffelsee;70322192;HYVEDEMM664;0
+Sparkasse Oberland;Weilheim i. OB;70351030;BYLADEM1WHM;8
+Raiffeisenbank Wallgau-Krün;Wallgau;70362595;GENODEF1WAK;31
+Commerzbank vormals Dresdner Bank;Garmisch-Partenkirchen;70380006;DRESDEFF703;23
+VR-Bank Werdenfels;Garmisch-Partenkirchen;70390000;GENODEF1GAP;31
+VR-Bank Werdenfels;Garmisch-Partenkirchen;70390010;GENODEF1GAP;0
+UniCredit Bank - HypoVereinsbank;Bad Reichenhall;71020072;HYVEDEMM410;0
+UniCredit Bank - HypoVereinsbank;Neuötting;71021270;HYVEDEMM629;0
+UniCredit Bank - HypoVereinsbank;Traunstein;71022182;HYVEDEMM453;0
+UniCredit Bank - HypoVereinsbank;Burghausen;71023173;HYVEDEMM632;0
+Sparkasse Berchtesgadener Land;Bad Reichenhall;71050000;BYLADEM1BGL;8
+Kreissparkasse Traunstein-Trostberg;Traunstein;71052050;BYLADEM1TST;8
+Raiffeisenbank;Anger;71062802;GENODEF1AGE;31
+Volksbank Raiffeisenbank Oberbayern Südost;Bad Reichenhall;71090000;GENODEF1BGL;31
+UniCredit Bank - HypoVereinsbank;Rosenheim;71120077;HYVEDEMM448;0
+UniCredit Bank - HypoVereinsbank;Rottach-Egern;71120078;HYVEDEMM644;0
+UniCredit Bank - HypoVereinsbank;Mühldorf a. Inn;71121176;HYVEDEMM438;0
+UniCredit Bank - HypoVereinsbank;Waldkraiburg;71122183;HYVEDEMM457;0
+Commerzbank Rosenheim;Rosenheim;71140041;COBADEFFXXX;23
+Commerzbank;Mühldorf a. Inn;71141041;COBADEFFXXX;23
+Commerzbank;Waldkraiburg;71142041;COBADEFFXXX;23
+Sparkasse Rosenheim-Bad Aibling;Rosenheim;71150000;BYLADEM1ROS;8
+Sparkasse Altötting-Mühldorf;Mühldorf a. Inn;71151020;BYLADEM1MDF;8
+Kreissparkasse Miesbach-Tegernsee;Miesbach;71152570;BYLADEM1MIB;8
+Kreis- und Stadtsparkasse Wasserburg;Wasserburg a. Inn;71152680;BYLADEM1WSB;8
+meine Volksbank Raiffeisenbank;Rosenheim;71160000;GENODEF1VRR;31
+Raiffeisenbank Oberaudorf;Oberaudorf;71162355;GENODEF1OBD;31
+Raiffeisenbank Aschau-Samerberg;Aschau i. Chiemgau;71162804;GENODEF1ASU;31
+Commerzbank vormals Dresdner Bank;Rosenheim;71180005;DRESDEFF711;23
+Bundesbank;Augsburg;72000000;MARKDEF1720;0
+SEB;Augsburg;72010111;ESSEDE5F720;0
+Bank für Tirol und Vorarlberg Deutschland;München;72012300;BTVADE61XXX;56
+UniCredit Bank - HypoVereinsbank;Augsburg;72020070;HYVEDEMM408;0
+UniCredit Bank - HypoVereinsbank;Aichach;72021271;HYVEDEMM236;0
+UniCredit Bank - HypoVereinsbank;Günzburg;72021876;HYVEDEMM259;0
+Fürst Fugger Privatbank;Augsburg;72030014;FUBKDE71XXX;31
+Bankhaus Anton Hafner;Augsburg;72030227;ANHODE77XXX;31
+Bankhaus Anton Hafner (Gf PayCenter);Augsburg;72030260;ANHODE7AXXX;0
+Commerzbank;Augsburg;72040046;COBADEFFXXX;23
+Stadtsparkasse Augsburg;Augsburg;72050000;AUGSDE77XXX;8
+Sparkasse Aichach-Schrobenhausen;Aichach;72051210;BYLADEM1AIC;8
+Sparkasse Günzburg-Krumbach;Günzburg;72051840;BYLADEM1GZK;8
+VR-Bank Handels- und Gewerbebank;Gersthofen;72062152;GENODEF1MTG;31
+Raiffeisenbank;Aindling;72069005;GENODEF1AIL;31
+Raiffeisenbank Bissingen;Bissingen;72069034;GENODEF1BSI;31
+Raiffeisenbank Bobingen;Bobingen;72069036;GENODEF1BOI;31
+VR-Bank Donau-Mindel;Dillingen a.d.Donau;72069043;GENODEF1GZ2;31
+Raiffeisenbank;Hiltenfingen;72069105;GENODEF1HTF;31
+Raiffeisenbank Aschberg;Holzheim;72069113;GENODEF1HZH;31
+Raiffeisenbank Ichenhausen;Ichenhausen;72069119;GENODEF1ICH;31
+Raiffeisenbank Mittelschwaben;Roggenburg;72069126;GENODEF1BBT;31
+Raiffeisenbank Wittelsbacher Land;Mering;72069155;GENODEF1MRI;31
+Raiffeisenbank Unteres Zusamtal;Buttenwiesen;72069179;GENODEF1BWI;31
+Raiffeisenbank;Rehling;72069193;GENODEF1RLI;31
+Raiffeisenbank Schwabmünchen-Stauden;Schwabmünchen;72069220;GENODEF1SMU;31
+Raiffeisenbank;Thannhausen;72069235;GENODEF1THS;31
+Raiffeisenbank Augsburger Land West;Zusmarshausen;72069274;GENODEF1ZUS;31
+Raiffeisen-Volksbank Wemding;Wemding;72069308;GENODEF1WDN;31
+Raiffeisen-Volksbank Ries;Nördlingen;72069329;GENODEF1NOE;31
+Raiffeisenbank Schwaben Mitte;Krumbach (Schwaben);72069736;GENODEF1BLT;31
+Raiffeisenbank Pfaffenhausen;Pfaffenhausen;72069789;GENODEF1PFA;31
+Deutsche Bank;Augsburg;72070001;DEUTDEMM720;19
+Deutsche Bank;Augsburg;72070024;DEUTDEDB720;19
+Postbank/DSL Ndl der Deutsche Bank;Augsburg;72070324;DEUTDEDBP19;1
+Postbank/DSL Ndl der Deutsche Bank;Augsburg;72070365;DEUTDEMMP19;1
+Commerzbank vormals Dresdner Bank;Augsburg;72080001;DRESDEFF720;23
+VR Bank Augsburg-Ostallgäu;Augsburg;72090000;GENODEF1AUB;31
+Sparda-Bank Augsburg;Augsburg;72090500;GENODEF1S03;30
+PSD Bank München;Augsburg;72090900;GENODEF1P14;31
+UniCredit Bank - HypoVereinsbank;Ingolstadt;72120078;HYVEDEMM426;0
+UniCredit Bank - HypoVereinsbank;Neuburg a.d.Donau;72122181;HYVEDEMM665;0
+Commerzbank;Ingolstadt;72140052;COBADEFFXXX;23
+Sparkasse Ingolstadt Eichstätt;Ingolstadt;72150000;BYLADEM1ING;8
+Sparkasse Pfaffenhofen;Pfaffenhofen a.d.Ilm;72151650;BYLADEM1PAF;8
+Sparkasse Neuburg-Rain;Neuburg a.d.Donau;72152070;BYLADEM1NEB;8
+Volksbank Raiffeisenbank Bayern Mitte;Ingolstadt;72160818;GENODEF1INP;31
+Raiffeisenbank Aresing-Gerolsbach;Gerolsbach;72169080;GENODEF1GSB;31
+Schrobenhausener Bank;Schrobenhausen;72169218;GENODEF1SBN;31
+Raiffeisenbank Schrobenhausener Land;Langenmosen;72169246;GENODEF1WFN;31
+Raiffeisenbank Ehekirchen-Oberhausen;Ehekirchen;72169745;GENODEF1WDF;31
+VR Bank Neuburg-Rain;Neuburg a.d.Donau;72169756;GENODEF1ND2;31
+Raiffeisenbank im Donautal;Gaimersheim;72169812;GENODEF1GAH;31
+Deutsche Bank;Ingolstadt;72170007;DEUTDEMM721;19
+Deutsche Bank;Ingolstadt;72170024;DEUTDEDB721;19
+Postbank/DSL Ndl der Deutsche Bank;Ingolstadt;72170324;DEUTDEDBP17;1
+Postbank/DSL Ndl der Deutsche Bank;Ingolstadt;72170363;DEUTDEMMP17;1
+Commerzbank vormals Dresdner Bank;Ingolstadt;72180002;DRESDEFF721;23
+UniCredit Bank - HypoVereinsbank;Donauwörth;72220074;HYVEDEMM255;0
+UniCredit Bank - HypoVereinsbank;Nördlingen;72223182;HYVEDEMM263;0
+Sparkasse Donauwörth;Donauwörth;72250160;BYLADEM1DON;8
+Sparkasse Dillingen-Nördlingen;Dillingen a.d.Donau;72251520;BYLADEM1DLG;8
+Raiffeisen-Volksbank Donauwörth;Donauwörth;72290100;GENODEF1DON;31
+Sparkasse Neu-Ulm-Illertissen;Neu-Ulm;73050000;BYLADEM1NUL;8
+VR-Bank Neu-Ulm;Neu-Ulm;73061191;GENODEF1NU1;31
+UniCredit Bank - HypoVereinsbank;Memmingen;73120075;HYVEDEMM436;0
+Commerzbank Memmingen;Memmingen;73140046;COBADEFFXXX;23
+Sparkasse Schwaben-Bodensee;Memmingen;73150000;BYLADEM1MLM;8
+Genossenschaftsbank Unterallgäu;Mindelheim;73160000;GENODEF1MIR;31
+Commerzbank vormals Dresdner Bank;Memmingen;73180011;DRESDEFF731;23
+VR-Bank Memmingen;Memmingen;73190000;GENODEF1MM1;31
+Hypo Vorarlberg Bank;Riezlern;73311600;;0
+UniCredit Bank - HypoVereinsbank;Kempten (Allgäu);73320073;HYVEDEMM428;0
+UniCredit Bank - HypoVereinsbank;Oberstdorf;73321177;HYVEDEMM567;0
+UniCredit Bank - HypoVereinsbank;Sonthofen;73322380;HYVEDEMM570;0
+Gabler-Saliter Bankgeschäft;Obergünzburg;73331700;GABLDE71XXX;31
+Commerzbank Kempten Allgäu;Kempten (Allgäu);73340046;COBADEFFXXX;23
+Sparkasse Allgäu;Kempten (Allgäu);73350000;BYLADEM1ALG;8
+Raiffeisenbank im Allgäuer Land;Dietmannsried;73369264;GENODEF1DTA;31
+BodenseeBank;Lindau (Bodensee);73369821;GENODEF1LBB;31
+Raiffeisenbank Westallgäu;Gestratz;73369823;GENODEF1WWA;31
+Volksbank;Lindenberg i. Allgäu;73369826;GENODEF1LIA;31
+Raiffeisenbank Aitrang-Ruderatshofen;Aitrang;73369851;GENODEF1AIT;31
+Raiffeisenbank Bidingen;Bidingen;73369859;GENODEF1BIN;31
+Raiffeisenbank Baisweil-Eggenthal-Friesenried;Eggenthal;73369871;GENODEF1EGB;31
+Raiffeisenbank Kirchweihtal;Pforzen;73369918;GENODEF1OKI;31
+Raiffeisenbank Kempten-Oberallgäu eG;Sonthofen;73369920;GENODEF1SFO;31
+Raiffeisenbank Südliches Ostallgäu;Seeg;73369933;GENODEF1RHP;31
+Raiffeisenbank Wald-Görisried;Wald;73369954;GENODEF1WGO;31
+Deutsche Bank;Kempten (Allgäu);73370008;DEUTDEMM733;19
+Deutsche Bank;Kempten (Allgäu);73370024;DEUTDEDB733;19
+Commerzbank vormals Dresdner Bank;Kempten (Allgäu);73380004;DRESDEFF733;23
+Allgäuer Volksbank Kempten-Sonthofen;Kempten (Allgäu);73390000;GENODEF1KEV;31
+Volksbank Immenstadt;Immenstadt i. Allgäu;73392000;GENODEF1IMV;31
+UniCredit Bank - HypoVereinsbank;Kaufbeuren;73420071;HYVEDEMM427;0
+UniCredit Bank - HypoVereinsbank;Schongau;73421478;HYVEDEMM666;0
+Commerzbank;Kaufbeuren;73440048;COBADEFFXXX;23
+Kreis- und Stadtsparkasse Kaufbeuren;Kaufbeuren;73450000;BYLADEM1KFB;8
+VR Bank Augsburg-Ostallgäu;Kaufbeuren;73460046;GENODEF1KFB;31
+Commerzbank vormals Dresdner Bank;Kaufbeuren;73480013;DRESDEFF734;23
+UniCredit Bank - HypoVereinsbank;Passau;74020074;HYVEDEMM445;0
+Raiffeisenlandesbank Oberösterreich;München;74020100;RZOODE77XXX;47
+Raiffeisenlandesbank OÖ Zndl Südde - für interne Zwecke;München;74020150;RZOODE77050;0
+Commerzbank Passau;Passau;74040082;COBADEFFXXX;23
+Sparkasse Passau;Passau;74050000;BYLADEM1PAS;8
+Sparkasse Freyung-Grafenau;Freyung;74051230;BYLADEM1FRG;8
+Raiffeisenbank Am Goldenen Steig;Röhrnbach;74061101;GENODEF1RGS;31
+Raiffeisenbank Unteres Inntal;Neuhaus a.Inn;74061564;GENODEF1NUI;31
+Raiffeisenbank Ortenburg-Kirchberg;Ortenburg;74061670;GENODEF1ORT;31
+VR-Bank Rottal-Inn;Pfarrkirchen;74061813;GENODEF1PFK;31
+VR-Bank Rottal-Inn Gf GAA;Pfarrkirchen;74061814;GENODEF1PFK;0
+Volksbank - Raiffeisenbank Vilshofen;Vilshofen an der Donau;74062490;GENODEF1VIR;31
+Raiffeisenbank i. Lkrs. Passau-Nord eG;Tiefenbach;74062786;GENODEF1TIE;31
+Raiffeisenbank;Wegscheid;74064593;GENODEF1WSD;31
+Raiffeisenbank im südl. Bayerischen Wald eG;Hauzenberg;74066749;GENODEF1HZN;31
+Rottaler Raiffeisenbank;Pocking;74067000;GENODEF1POC;31
+Raiffeisenbank;Grainet;74069744;GENODEF1GRT;31
+Raiffeisenbank Kirchberg v. Wald;Tiefenbach;74069758;GENODEF1TKI;31
+Raiffeisenbank am Dreisessel;Neureichenau;74069768;GENODEF1NHD;31
+VR-Bank Passau;Passau;74090000;GENODEF1PA1;31
+UniCredit Bank - HypoVereinsbank;Deggendorf;74120071;HYVEDEMM415;0
+TEBA Kreditbank;Landau a.d.Isar;74131000;TEKRDE71XXX;0
+Commerzbank;Deggendorf;74140048;COBADEFFXXX;23
+Sparkasse Deggendorf;Deggendorf;74150000;BYLADEM1DEG;8
+Sparkasse Regen-Viechtach;Regen;74151450;BYLADEM1REG;8
+Raiffeisenbank Deggendorf-Plattling-Sonnenwald;Deggendorf;74160025;GENODEF1DEG;31
+Raiffeisenbank Hengersberg-Schöllnach;Hengersberg;74161608;GENODEF1HBW;31
+Commerzbank vormals Dresdner Bank;Deggendorf;74180009;DRESDEFF741;23
+VR GenoBank DonauWald;Viechtach;74190000;GENODEF1DGV;31
+VR-Bank Landau-Mengkofen;Landau a.d.Isar;74191000;GENODEF1LND;31
+UniCredit Bank - HypoVereinsbank;Straubing;74220075;HYVEDEMM452;0
+UniCredit Bank - HypoVereinsbank;Cham;74221170;HYVEDEMM675;0
+Commerzbank Straubing;Straubing;74240062;COBADEFFXXX;23
+Sparkasse Niederbayern-Mitte;Straubing;74250000;BYLADEM1SRG;8
+Sparkasse im Landkreis Cham;Cham;74251020;BYLADEM1CHM;8
+Raiffeisenbank Straubing;Straubing;74260110;GENODEF1SR2;31
+Raiffeisenbank Chamer Land;Cham;74261024;GENODEF1CHA;31
+VR-Bank Ostbayern-Mitte;Straubing;74290000;GENODEF1SR1;31
+CB Bank;Straubing;74290100;CBSRDE71XXX;0
+UniCredit Bank - HypoVereinsbank;Landshut;74320073;HYVEDEMM433;0
+Commerzbank;Landshut;74340077;COBADEFFXXX;23
+Sparkasse Landshut;Landshut;74350000;BYLADEM1LAH;8
+Sparkasse Rottal-Inn;Eggenfelden;74351430;BYLADEM1EGF;8
+Sparkasse Freising Moosburg ehem. SSK/KSK Moosburg;Moosburg a.d.Isar;74351740;BYLADEM1MSB;8
+Raiffeisenbank Arnstorf;Arnstorf;74361211;GENODEF1ARF;31
+Raiffeisenbank Landshuter Land;Ergolding;74362663;GENODEF1ERG;31
+Raiffeisenbank Hofkirchen-Bayerbach;Laberweinting;74369068;GENODEF1LWE;31
+Raiffeisenbank Geiselhöring-Pfaffenberg;Geiselhöring;74369088;GENODEF1GPF;31
+Raiffeisenbank Parkstetten;Parkstetten;74369130;GENODEF1PST;31
+Raiffeisenbank Rattiszell-Konzell;Rattiszell;74369146;GENODEF1RZK;31
+Raiffeisenbank Buch-Eching;Eching;74369662;GENODEF1EBV;31
+Commerzbank vormals Dresdner Bank;Landshut;74380007;DRESDEFF743;23
+VR-Bank Landshut;Landshut;74390000;GENODEF1LH1;31
+VR-Bank Rottal-Inn;Eggenfelden;74391400;GENODEF1EGR;31
+VR-Bank Isar-Vils;Vilsbiburg;74392300;GENODEF1VBV;31
+Bundesbank;Regensburg;75000000;MARKDEF1750;0
+SEB;Regensburg;75010111;ESSEDE5F750;0
+UniCredit Bank - HypoVereinsbank;Regensburg;75020073;HYVEDEMM447;0
+UniCredit Bank - HypoVereinsbank;Schwandorf;75021174;HYVEDEMM804;0
+Commerzbank Regensburg;Regensburg;75040062;COBADEFFXXX;23
+Sparkasse Regensburg;Regensburg;75050000;BYLADEM1RBG;8
+Sparkasse im Landkreis Schwandorf;Schwandorf;75051040;BYLADEM1SAD;8
+Kreissparkasse Kelheim;Kelheim;75051565;BYLADEM1KEH;8
+Raiffeisenbank Regensburg-Wenzenbach;Regensburg;75060150;GENODEF1R02;31
+Raiffeisenbank Regenstauf;Regenstauf;75061851;GENODEF1REF;31
+Raiffeisenbank Oberpfalz Süd;Donaustauf;75062026;GENODEF1DST;31
+Raiffeisenbank Kreis Kelheim;Bad Abbach;75069014;GENODEF1ABS;31
+Raiffeisenbank Falkenstein-Wörth;Falkenstein;75069038;GENODEF1FKS;31
+Raiffeisenbank Alteglofsheim-Hagelstadt;Hagelstadt;75069055;GENODEF1HGA;31
+Raiffeisenbank im Oberpfälzer Jura;Parsberg;75069061;GENODEF1HEM;31
+Raiffeisenbank;Sinzing;75069078;GENODEF1SZV;31
+Raiffeisenbank Bad Kötzting;Bad Kötzting;75069081;GENODEF1KTZ;31
+Raiffeisenbank Eschlkam-Neukirchen b. Hl. Blut eG;Neukirchen b.Hl.Blut;75069110;GENODEF1NKN;31
+VR Bank Mittlere Oberpfalz;Nabburg;75069171;GENODEF1SWD;31
+Deutsche Bank;Regensburg;75070013;DEUTDEMM750;19
+Deutsche Bank;Regensburg;75070024;DEUTDEDB750;19
+Commerzbank vormals Dresdner Bank;Regensburg;75080003;DRESDEFF750;23
+Volksbank Raiffeisenbank Regensburg-Schwandorf;Regensburg;75090000;GENODEF1R01;31
+LIGA Bank;Regensburg;75090300;GENODEF1M05;31
+Sparda-Bank Ostbayern;Regensburg;75090500;GENODEF1S05;30
+VR Bank Niederbayern-Oberpfalz;Regensburg;75090900;GENODEF1P18;31
+UniCredit Bank - HypoVereinsbank;Amberg;75220070;HYVEDEMM405;0
+Commerzbank;Amberg;75240000;COBADEFFXXX;23
+Sparkasse Amberg-Sulzbach;Amberg;75250000;BYLADEM1ABG;8
+VR Bank Amberg-Sulzbach;Sulzbach-Rosenberg;75290000;GENODEF1AMV;31
+UniCredit Bank - HypoVereinsbank;Weiden i.d.OPf.;75320075;HYVEDEMM454;0
+Commerzbank;Weiden i.d.OPf.;75340090;COBADEFFXXX;23
+Sparkasse Oberpfalz Nord;Weiden i.d.OPf.;75350000;BYLADEM1WEN;8
+Vereinigte Sparkassen Eschenbach i d Opf;Neustadt a.d.Waldnaab;75351960;BYLADEM1ESB;8
+Raiffeisenbank Floß;Floß;75362039;GENODEF1FLS;31
+Raiffeisenbank Neustadt-Vohenstrauß;Vohenstrauß;75363189;GENODEF1NEW;31
+Volksbank Raiffeisenbank Nordoberpfalz;Weiden i.d.OPf.;75390000;GENODEF1WEV;31
+Bundesbank;Nürnberg;76000000;MARKDEF1760;0
+Postbank Ndl der Deutsche Bank;Nürnberg;76010085;PBNKDEFFXXX;1
+UniCredit Bank - HypoVereinsbank;Nürnberg;76020070;HYVEDEMM460;0
+UniCredit Bank - HypoVereinsbank Prepaid Card;Nürnberg;76020099;HYVEDEMMCAR;0
+norisbank;Berlin;76026000;NORSDE71XXX;167
+BNP Paribas Niederlassung Deutschland;Nürnberg;76030080;CSDBDE71XXX;69
+Isbank Fil Nürnberg;Nürnberg;76030600;ISBKDEFXNUR;47
+flatexDEGIRO Bank;Frankfurt am Main;76030800;BIWBDE33760;0
+TeamBank Nürnberg;Nürnberg;76032000;TEAMDE71XXX;0
+TeamBank Nürnberg GF Austria;Nürnberg;76032001;TEAMDE71TAT;0
+UmweltBank;Nürnberg;76035000;UMWEDE7NXXX;0
+Commerzbank CC;Nürnberg;76040060;COBADEFFXXX;23
+Commerzbank;Nürnberg;76040061;COBADEFFXXX;23
+Commerzbank CC;Nürnberg;76040062;COBADEFFXXX;23
+Commerzbank, Filiale Nürnberg 2;Nürnberg;76040065;COBADEFFXXX;23
+Bayerische Landesbank;Nürnberg;76050000;BYLADEMMXXX;0
+Sparkasse Nürnberg;Nürnberg;76050101;SSKNDE77XXX;8
+Sparkasse Neumarkt i d OPf-Parsberg;Neumarkt i.d.OPf.;76052080;BYLADEM1NMA;8
+DZ BANK;Nürnberg;76060000;GENODEFF760;0
+Volksbank Raiffeisenbank Nürnberg eG;Nürnberg;76060618;GENODEF1N02;31
+Volksbank Raiffeisenbank Nürnberg (Gf GAA);Nürnberg;76060620;GENODEF1N02;0
+Raiffeisen Spar+Kreditbank eG;Lauf a.d.Pegnitz;76061025;GENODEF1LAU;31
+Raiffeisenbank im Nürnberger Land;Feucht;76061482;GENODEF1HSB;31
+Raiffeisenbank Auerbach-Freihung;Auerbach i.d.OPf.;76069369;GENODEF1AUO;31
+Raiffeisenbank Bad Windsheim;Bad Windsheim;76069372;GENODEF1WDS;31
+Raiffeisenbank;Bechhofen;76069378;GENODEF1BEH;31
+Raiffeisenbank Uehlfeld-Dachsbach;Dachsbach;76069404;GENODEF1DSB;31
+Raiffeisenbank Dietersheim u. Umgebung eG;Dietersheim;76069410;GENODEF1DIM;31
+Raiffeisen - meine Bank;Hilpoltstein;76069449;GENODEF1FYS;31
+Raiffeisenbank Altmühl-Jura;Greding;76069462;GENODEF1GDG;31
+Raiffeisenbank Weißenburg-Gunzenhausen;Weißenburg i.Bay.;76069468;GENODEF1GU1;31
+Raiffeisenbank Hirschau;Hirschau;76069486;GENODEF1HSC;31
+Raiffeisenbank Knoblauchsland Nürnberg-Buch;Nürnberg;76069512;GENODEF1N08;31
+Raiffeisenbank Neumarkt i.d.Opf. eG;Neumarkt i.d.OPf.;76069553;GENODEF1NM1;31
+VR Bank Metropolregion Nürnberg;Neustadt a.d.Aisch;76069559;GENODEF1NEA;31
+Raiffeisenbank Oberferrieden-Burgthann;Burgthann;76069564;GENODEF1BTO;31
+Raiffeisenbank Plankstetten;Berching;76069576;GENODEF1BPL;31
+Raiffeisenbank DreiFranken;Heßdorf;76069602;GENODEF1HSE;31
+Raiffeisenbank Unteres Vilstal;Schmidmühlen;76069611;GENODEF1SDM;31
+Raiffeisenbank Heilsbronn-Windsbach;Windsbach;76069663;GENODEF1WBA;31
+Raiffeisenbank Bibertgrund;Zirndorf;76069669;GENODEF1ZIR;31
+Deutsche Bank;Nürnberg;76070012;DEUTDEMM760;19
+Deutsche Bank;Nürnberg;76070024;DEUTDEDB760;19
+Postbank/DSL Ndl der Deutsche Bank;Erlangen;76070324;DEUTDEDBP15;1
+Postbank/DSL Ndl der Deutsche Bank;Erlangen;76070361;DEUTDEMMP15;1
+Commerzbank vormals Dresdner Bank;Nürnberg;76080040;DRESDEFF760;23
+Commerzbank vormals Dresdner Bank Zw 53;Hof;76080053;DRESDEFFAGI;23
+Commerzbank vormals Dresdner Bank Zw 55;Hof;76080055;DRESDEFFI25;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Nürnberg;76080085;DRESDEFFJ26;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2;Nürnberg;76080086;DRESDEFFJ27;23
+Commerzbank vormals Dresdner Bank ITGK;Nürnberg;76089480;DRESDEFFI24;23
+Commerzbank vormals Dresdner Bank ITGK;Nürnberg;76089482;DRESDEFFI46;23
+Evenord-Bank eG-KG;Nürnberg;76090400;GENODEF1N03;31
+Sparda-Bank Nürnberg;Nürnberg;76090500;GENODEF1S06;30
+PSD Bank Nürnberg eG;Nürnberg;76090900;GENODEF1P17;31
+CVW-Privatbank;Wilhermsdorf;76211900;GENODEF1WHD;31
+UniCredit Bank - HypoVereinsbank;Fürth;76220073;HYVEDEMM419;0
+BSQ Bauspar;Nürnberg;76230000;QUBADE71XXX;0
+Commerzbank Fürth Bayern;Fürth;76240011;COBADEFFXXX;23
+Sparkasse Fürth;Fürth;76250000;BYLADEM1SFU;8
+Sparkasse im Landkreis Neustadt a.d. Aisch - Bad Windsheim;Neustadt a.d.Aisch;76251020;BYLADEM1NEA;8
+UniCredit Bank - HypoVereinsbank;Erlangen;76320072;HYVEDEMM417;0
+Commerzbank Erlangen;Erlangen;76340061;COBADEFFXXX;23
+Stadt- u. Kreissparkasse Erlangen Höchstadt Herzogenaurach;Erlangen;76350000;BYLADEM1ERH;8
+Sparkasse Forchheim;Forchheim;76351040;BYLADEM1FOR;8
+Kreissparkasse Höchstadt;Höchstadt a.d.Aisch;76351560;BYLADEM1HOS;0
+VR Bank Bamberg-Forchheim Volks- Raiffeisenbank;Bamberg;76391000;GENODEF1FOH;31
+UniCredit Bank - HypoVereinsbank;Schwabach;76420080;HYVEDEMM065;0
+Sparkasse Mittelfranken-Süd;Roth;76450000;BYLADEM1SRS;8
+UniCredit Bank - HypoVereinsbank;Ansbach;76520071;HYVEDEMM406;0
+Sparkasse Ansbach;Ansbach;76550000;BYLADEM1ANS;8
+Vereinigte Sparkassen Gunzenhausen;Gunzenhausen;76551540;BYLADEM1GUN;8
+VR-Bank Mittelfranken Mitte eG;Ansbach;76560060;GENODEF1ANS;31
+VR-Bank Feuchtwangen-Dinkelsbühl;Dinkelsbühl;76591000;GENODEF1DKV;31
+UniCredit Bank - HypoVereinsbank;Bamberg;77020070;HYVEDEMM411;0
+Commerzbank Bamberg;Bamberg;77040080;COBADEFFXXX;23
+Sparkasse Bamberg;Bamberg;77050000;BYLADEM1SKB;8
+Raiffeisenbank Obermain Nord;Altenkunstadt;77061004;GENODEF1ALK;31
+Raiffeisenbank Burgebrach-Stegaurach;Burgebrach;77062014;GENODEF1BGB;31
+Raiffeisen-Volksbank Bad Staffelstein;Bad Staffelstein;77062139;GENODEF1SFF;31
+Raiffeisenbank Küps-Mitwitz-Stockheim;Küps;77069044;GENODEF1KC2;31
+Raiffeisenbank;Heroldsbach;77069052;GENODEF1HOB;31
+Ver. RB Gräfenberg-Forchheim-Eschenau-Heroldsberg eG;Gräfenberg;77069461;GENODEF1GBF;31
+Raiffeisenbank Thurnauer Land;Thurnau;77069739;GENODEF1THA;31
+Raiffeisenbank Oberpfalz NordWest;Kemnath;77069764;GENODEF1KEM;31
+Raiffeisenbank am Kulm;Speichersdorf;77069782;GENODEF1SPK;31
+Raiffeisenbank Oberland;Marktleugast;77069868;GENODEF1MGA;31
+Raiffeisenbank Hochfranken West;Stammbach;77069870;GENODEF1SZF;31
+Raiffeisenbank Wüstenselbitz;Helmbrechts;77069906;GENODEF1WSZ;31
+VR-Bank Lichtenfels-Ebern;Lichtenfels;77091800;GENODEF1LIF;31
+UniCredit Bank - HypoVereinsbank;Kulmbach;77120073;HYVEDEMM289;0
+Commerzbank;Kulmbach;77140061;COBADEFFXXX;23
+Sparkasse Kulmbach-Kronach;Kulmbach;77150000;BYLADEM1KUB;8
+VR Bank Oberfranken Mitte;Kulmbach;77190000;GENODEF1KU1;31
+Bundesbank eh Bayreuth;München;77300000;MARKDEF1773;0
+UniCredit Bank - HypoVereinsbank;Bayreuth;77320072;HYVEDEMM412;0
+Fondsdepot Bank;Hof;77322200;FODBDE77XXX;0
+Commerzbank;Bayreuth;77340076;COBADEFFXXX;23
+Sparkasse Bayreuth;Bayreuth;77350110;BYLADEM1SBT;8
+Raiffeisenbank Fränkische Schweiz;Hollfeld;77365792;GENODEF1HWA;31
+UniCredit Bank - HypoVereinsbank;Hof;78020070;HYVEDEMM424;0
+Commerzbank Hof Saale;Hof;78040081;COBADEFFXXX;23
+Sparkasse Hochfranken;Hof;78050000;BYLADEM1HOF;8
+VR Bank Bayreuth-Hof;Bayreuth;78060896;GENODEF1HO1;31
+Commerzbank;Tirschenreuth;78140000;COBADEFFXXX;23
+VR-Bank Fichtelgebirge-Frankenwald;Marktredwitz;78160069;GENODEF1MAK;31
+UniCredit Bank - HypoVereinsbank;Coburg;78320076;HYVEDEMM480;0
+Commerzbank;Coburg;78340091;COBADEFFXXX;23
+Sparkasse Coburg-Lichtenfels;Coburg;78350000;BYLADEM1COB;8
+VR-Bank Coburg;Coburg;78360000;GENODEF1COS;31
+Bundesbank;Würzburg;79000000;MARKDEF1790;0
+SEB;Würzburg;79010111;ESSEDE5F790;0
+UniCredit Bank - HypoVereinsbank;Würzburg;79020076;HYVEDEMM455;0
+Fürstlich Castellsche Bank Credit-Casse;Würzburg;79030001;FUCEDE77XXX;56
+MERKUR PRIVATBANK;Hammelburg;79032038;BSHADE71XXX;31
+Commerzbank Würzburg;Würzburg;79040047;COBADEFFXXX;23
+Sparkasse Mainfranken Würzburg;Würzburg;79050000;BYLADEM1SWU;8
+Raiffeisenbank Höchberg;Höchberg;79063122;GENODEF1HBG;31
+VR-Bank Bad Kissingen;Bad Kissingen;79065028;GENODEF1BRK;31
+Raiffeisenbank Mainschleife - Steigerwald;Volkach;79069001;GENODEF1WED;31
+Raiffeisenbank Bütthard-Gaukönigshofen;Bütthard;79069031;GENODEF1BHD;31
+Raiffeisenbank Main-Spessart;Lohr a. Main;79069150;GENODEF1GEM;31
+VR-Bank Main-Rhön eG;Sennfeld;79069165;GENODEF1MLV;31
+Raiffeisenbank;Nüdlingen;79069181;GENODEF1NDL;31
+Raiffeisenbank im Grabfeld;Sulzdorf a.d.Lederhecke;79069188;GENODEF1SLZ;31
+Raiffeisenbank Maßbach;Rannungen;79069213;GENODEF1RNM;31
+Deutsche Bank;Würzburg;79070016;DEUTDEMM790;19
+Deutsche Bank;Würzburg;79070024;DEUTDEDB790;19
+Commerzbank vormals Dresdner Bank;Würzburg;79080052;DRESDEFF790;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Würzburg;79080085;DRESDEFFJ28;23
+Volksbank Raiffeisenbank Würzburg eG;Würzburg;79090000;GENODEF1WU1;31
+VR Bank Kitzingen;Kitzingen;79190000;GENODEF1KT1;31
+UniCredit Bank - HypoVereinsbank;Schweinfurt;79320075;HYVEDEMM451;0
+Bankhaus Max Flessa;Schweinfurt;79330111;FLESDEMMXXX;31
+Commerzbank Schweinfurt;Schweinfurt;79340054;COBADEFFXXX;23
+Sparkasse Schweinfurt-Haßberge;Schweinfurt;79350101;BYLADEM1KSW;8
+Sparkasse Bad Kissingen;Bad Kissingen;79351010;BYLADEM1KIS;8
+Sparkasse Bad Neustadt a d Saale;Bad Neustadt a.d.Saale;79353090;BYLADEM1NES;8
+VR-MainBank;Gerolzhofen;79362081;GENODEF1GZH;31
+Raiffeisen-Volksbank Haßberge;Haßfurt;79363151;GENODEF1HAS;31
+Commerzbank vormals Dresdner Bank;Schweinfurt;79380051;DRESDEFF793;23
+SEB;Aschaffenburg;79510111;ESSEDE5F795;0
+UniCredit Bank - HypoVereinsbank;Aschaffenburg;79520070;HYVEDEMM407;0
+Commerzbank;Aschaffenburg;79540049;COBADEFFXXX;23
+Sparkasse Aschaffenburg Alzenau;Aschaffenburg;79550000;BYLADEM1ASA;8
+Raiffeisen-Volksbank Aschaffenburg;Aschaffenburg;79562514;GENODEF1AB1;31
+Raiffeisenbank Waldaschaff-Heigenbrücken;Waldaschaff;79565568;GENODEF1WAA;31
+Raiffeisenbank Haibach-Obernau;Haibach;79568518;GENODEF1HAC;0
+Deutsche Bank;Aschaffenburg;79570024;DEUTDEDB795;19
+Deutsche Bank;Aschaffenburg;79570051;DEUTDEFF795;19
+Postbank/DSL Ndl der Deutsche Bank;Aschaffenburg;79570324;DEUTDEDBP18;1
+Postbank/DSL Ndl der Deutsche Bank;Aschaffenburg;79570364;DEUTDEFFS18;1
+Commerzbank vormals Dresdner Bank;Aschaffenburg;79580099;DRESDEFF795;23
+Commerzbank vormals Dresdner Bank ITGK;Aschaffenburg;79589402;DRESDEFFI47;23
+Sparkasse Miltenberg-Obernburg;Miltenberg;79650000;BYLADEM1MIL;8
+Raiffeisenbank Elsavatal;Eschau;79665540;GENODEF1EAU;31
+Raiffeisenbank Eichenbühl und Umgebung;Eichenbühl;79668509;GENODEF1ENB;31
+UniCredit Bank - HypoVereinsbank;Halle (Saale);80020086;HYVEDEMM440;0
+UniCredit Bank - HypoVereinsbank;Dessau-Roßlau;80020087;HYVEDEMM462;0
+Commerzbank;Halle (Saale);80040000;COBADEFFXXX;23
+Sparkasse Burgenlandkreis;Zeitz;80053000;NOLADE21BLK;8
+Stadtsparkasse Dessau;Dessau-Roßlau;80053572;NOLADE21DES;8
+Kreissparkasse Anhalt-Bitterfeld;Bitterfeld-Wolfen;80053722;NOLADE21BTF;8
+Saalesparkasse;Halle (Saale);80053762;NOLADE21HAL;8
+Sparkasse Mansfeld-Südharz;Lutherstadt Eisleben;80055008;NOLADE21EIL;8
+Salzlandsparkasse;Staßfurt;80055500;NOLADE21SES;8
+Harzer Volksbank;Wernigerode;80063508;GENODEF1QLB;56
+Volksbank;Sangerhausen;80063558;GENODEF1SGH;56
+Volksbank Wittenberg;Lutherstadt Wittenberg;80063598;GENODEF1WB1;56
+Volksbank;Köthen (Anhalt);80063628;GENODEF1KOE;56
+Volks- und Raiffeisenbank Saale-Unstrut;Merseburg;80063648;GENODEF1NMB;56
+Commerzbank vormals Dresdner Bank;Halle (Saale);80080000;DRESDEFF800;23
+Volksbank Dessau-Anhalt;Dessau-Roßlau;80093574;GENODEF1DS1;56
+Volksbank Halle, Saale;Halle (Saale);80093784;GENODEF1HAL;56
+Sparkasse Wittenberg;Lutherstadt Wittenberg;80550101;NOLADE21WBL;8
+Bundesbank;Magdeburg;81000000;MARKDEF1810;0
+SEB;Magdeburg;81010111;ESSEDE5F810;0
+Investitionsbank Sachsen-Anhalt;Magdeburg;81010400;NOLADE21LSA;0
+Bank für Sozialwirtschaft;Magdeburg;81020500;BFSWDE33MAG;0
+Commerzbank;Magdeburg;81040000;COBADEFFXXX;23
+Kreissparkasse Stendal;Stendal;81050555;NOLADE21SDL;8
+Harzsparkasse;Wernigerode;81052000;NOLADE21HRZ;8
+Sparkasse MagdeBurg;Magdeburg;81053272;NOLADE21MDG;8
+Sparkasse MagdeBurg;Burg;81054000;NOLADE21JEL;0
+Kreissparkasse Börde;Oschersleben (Bode);81055000;NOLADE21HDL;8
+Sparkasse Altmark West;Salzwedel, Hansestadt;81055555;NOLADE21SAW;8
+Raiffeisenbank Kalbe-Bismark;Kalbe (Milde);81063028;GENODEF1KAB;56
+Volksbank Jerichower Land;Burg;81063238;GENODEF1BRG;56
+Bank für Kirche und Diakonie - KD-Bank Gf Sonder-BLZ;Magdeburg;81068106;GENODED1KDM;0
+Volksbank Börde-Bernburg;Wanzleben-Börde;81069052;GENODEF1WZL;56
+Deutsche Bank;Magdeburg;81070000;DEUTDE8MXXX;19
+Deutsche Bank;Magdeburg;81070024;DEUTDEDBMAG;19
+Commerzbank vormals Dresdner Bank;Magdeburg;81080000;DRESDEFF810;23
+Volksbank;Gardelegen;81093034;GENODEF1GA1;56
+Volksbank Stendal;Stendal;81093054;GENODEF1SDL;56
+Volksbank Magdeburg;Magdeburg;81093274;GENODEF1MD1;56
+Bundesbank;Erfurt;82000000;MARKDEF1820;0
+SEB;Erfurt;82010111;ESSEDE5F820;0
+UniCredit Bank - HypoVereinsbank;Erfurt;82020086;HYVEDEMM498;0
+UniCredit Bank - HypoVereinsbank;Weimar;82020087;HYVEDEMM098;0
+UniCredit Bank - HypoVereinsbank;Eisenach;82020088;HYVEDEMM824;0
+Commerzbank;Erfurt;82040000;COBADEFFXXX;23
+Commerzbank, Gf Web-K;Erfurt;82040085;COBADEFFXXX;23
+Landesbank Hessen-Thür Girozentrale Erfurt;Erfurt;82050000;HELADEFF820;8
+Sparkasse Mittelthüringen;Erfurt;82051000;HELADEF1WEM;8
+Kreissparkasse Gotha;Gotha;82052020;HELADEF1GTH;8
+Kreissparkasse Nordhausen;Nordhausen;82054052;HELADEF1NOR;8
+Kyffhäusersparkasse;Sondershausen;82055000;HELADEF1KYF;8
+Sparkasse Unstrut-Hainich;Mühlhausen/Thüringen;82056060;HELADEF1MUE;8
+Kreissparkasse Eichsfeld;Leinefelde-Worbis;82057070;HELADEF1EIC;8
+Pax-Bank;Erfurt;82060197;GENODED1PA5;56
+VR Bank Westthüringen;Mühlhausen/Thüringen;82064038;GENODEF1MU2;31
+VR Bank Ihre Heimatbank;Eisenach;82064088;GENODEF1ESA;31
+VR Bank Weimar;Weimar;82064188;GENODEF1WE1;31
+Erfurter Bank eG Raiffeisenbank;Erfurt;82064228;ERFBDE8EXXX;31
+Deutsche Bank;Erfurt;82070000;DEUTDE8EXXX;19
+Deutsche Bank;Erfurt;82070024;DEUTDEDBERF;19
+Postbank/DSL Ndl der Deutsche Bank;Weimar;82070324;DEUTDEDBP20;1
+Postbank/DSL Ndl der Deutsche Bank;Weimar;82070366;DEUTDE8EP20;1
+Commerzbank vormals Dresdner Bank;Weimar;82080000;DRESDEFF827;23
+Nordthüringer Volksbank;Nordhausen;82094054;GENODEF1NDS;31
+UniCredit Bank - HypoVereinsbank;Gera;83020086;HYVEDEMM468;0
+UniCredit Bank - HypoVereinsbank;Jena;83020087;HYVEDEMM463;0
+UniCredit Bank - HypoVereinsbank;Saalfeld/Saale;83020088;HYVEDEMM484;0
+Commerzbank;Gera;83040000;COBADEFFXXX;23
+Sparkasse Gera-Greiz;Gera;83050000;HELADEF1GER;8
+Sparkasse Altenburger Land;Altenburg;83050200;HELADEF1ALT;8
+Kreissparkasse Saalfeld-Rudolstadt;Saalfeld/Saale;83050303;HELADEF1SAR;8
+Kreissparkasse Saale-Orla;Schleiz;83050505;HELADEF1SOK;8
+Sparkasse Jena-Saale-Holzland;Jena;83053030;HELADEF1JEN;8
+Raiffeisen-Volksbank Hermsdorfer Kreuz;Hermsdorf;83064488;GENODEF1HMF;31
+VR-Bank Altenburger Land / Deutsche Skatbank;Schmölln;83065408;GENODEF1SLR;31
+Commerzbank vormals Dresdner Bank;Gera;83080000;DRESDEFF830;23
+Volksbank Gera-Jena-Rudolstadt;Jena;83094454;GENODEF1RUJ;31
+Volksbank Eisenberg;Eisenberg;83094494;GENODEF1ESN;56
+EthikBank, Zndl der Volksbank Eisenberg;Eisenberg;83094495;GENODEF1ETK;56
+UniCredit Bank - HypoVereinsbank;Suhl;84020087;HYVEDEMM458;0
+Commerzbank;Meiningen;84040000;COBADEFFXXX;23
+Rhön-Rennsteig-Sparkasse;Meiningen;84050000;HELADEF1RRS;8
+Sparkasse Arnstadt-Ilmenau;Ilmenau;84051010;HELADEF1ILK;8
+Kreissparkasse Hildburghausen;Hildburghausen;84054040;HELADEF1HIL;8
+Sparkasse Sonneberg;Sonneberg;84054722;HELADEF1SON;8
+Wartburg-Sparkasse;Eisenach;84055050;HELADEF1WAK;8
+Genobank Rhön-Grabfeld;Meiningen;84064798;GENODEF1MLF;0
+Commerzbank vormals Dresdner Bank;Meiningen;84080000;DRESDEFF843;23
+VR-Bank Bad Salzungen Schmalkalden;Bad Salzungen;84094754;GENODEF1SAL;31
+VR-Bank Bad Salzungen Schmalkalden GAA;Bad Salzungen;84094755;GENODEF1SAL;0
+Volksbank Thüringen Mitte;Erfurt;84094814;GENODEF1SHL;31
+Bundesbank eh Dresden;Leipzig;85000000;MARKDEF1850;0
+Sächsische Aufbaubank -Förderbank-;Dresden;85010500;SABDDE81XXX;0
+UniCredit Bank - HypoVereinsbank;Dresden;85020086;HYVEDEMM496;0
+Bank für Sozialwirtschaft;Dresden;85020500;BFSWDE33DRE;0
+Commerzbank;Dresden;85040000;COBADEFFXXX;23
+Commerzbank CC;Dresden;85040060;COBADEFFXXX;23
+Commerzbank CC;Dresden;85040061;COBADEFFXXX;23
+Sparkasse Oberlausitz-Niederschlesien;Zittau;85050100;WELADED1GRL;8
+Ostsächsische Sparkasse Dresden;Dresden;85050300;OSDDDE81XXX;8
+Sparkasse Meißen;Riesa;85055000;SOLADES1MEI;8
+Volksbank Pirna;Pirna;85060000;GENODEF1PR2;31
+Commerzbank vormals Dresdner Bank;Dresden;85080000;DRESDEFF850;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Dresden;85080085;DRESDEFFJ29;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2;Dresden;85080086;DRESDEFFJ30;23
+Commerzbank vormals Dresdner Bank;Hoyerswerda;85080200;DRESDEFF857;23
+Commerzbank vormals Dresdner Bank ITGK;Dresden;85089270;DRESDEFFI15;23
+Volksbank Dresden-Bautzen;Dresden;85090000;GENODEF1DRS;31
+Volksbank Riesa;Riesa;85094984;GENODEF1RIE;31
+Volksbank Raiffeisenbank Meißen Großenhain;Meißen;85095004;GENODEF1MEI;31
+Kreissparkasse Bautzen;Bautzen;85550000;SOLADES1BAT;8
+Volksbank Löbau-Zittau;Ebersbach-Neugersdorf;85590100;GENODEF1NGS;31
+Volksbank Raiffeisenbank Niederschlesien;Görlitz;85591000;GENODEF1GR1;31
+Bundesbank;Leipzig;86000000;MARKDEF1860;0
+Postbank Ndl der Deutsche Bank;Leipzig;86010090;PBNKDEFFXXX;1
+Aareal Bank ehem. Filiale Leipzig;Wiesbaden;86010424;AARBDE5W860;0
+UniCredit Bank - HypoVereinsbank;Leipzig;86020086;HYVEDEMM495;0
+Bank für Sozialwirtschaft;Leipzig;86020500;BFSWDE33LPZ;0
+Santander Consumer Bank;Leipzig;86033300;SCFBDE33XXX;0
+Commerzbank;Leipzig;86040000;COBADEFFXXX;23
+Commerzbank CC;Leipzig;86040060;COBADEFFXXX;23
+Commerzbank CC;Leipzig;86040061;COBADEFFXXX;23
+ZV Landesbank Baden-Württemberg;Leipzig;86050000;SOLADEST861;0
+Sparkasse Muldental;Grimma;86050200;SOLADES1GRM;8
+Kreissparkasse Döbeln;Döbeln;86055462;SOLADES1DLN;8
+Stadt- und Kreissparkasse Leipzig;Leipzig;86055592;WELADE8LXXX;8
+VR-Bank Mittelsachsen;Freiberg;86065468;GENODEF1DL1;31
+Raiffeisenbank Grimma;Grimma;86065483;GENODEF1GMR;31
+Deutsche Bank;Leipzig;86070000;DEUTDE8LXXX;19
+Deutsche Bank;Leipzig;86070024;DEUTDEDBLEG;19
+Postbank/DSL Ndl der Deutsche Bank;Leipzig;86070407;DEUTDE8LP37;1
+Postbank/DSL Ndl der Deutsche Bank;Leipzig;86070424;DEUTDEDBP37;1
+Commerzbank vormals Dresdner Bank;Leipzig;86080000;DRESDEFF860;23
+Commerzbank vormals Dresdner Bank Zw 55;Leipzig;86080055;DRESDEFF862;23
+Commerzbank vormals Dresdner Bank Gf ZW 57;Leipzig;86080057;DRESDEFF867;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1;Leipzig;86080085;DRESDEFFJ31;23
+Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2;Leipzig;86080086;DRESDEFFJ32;23
+Commerzbank vormals Dresdner Bank ITGK;Leipzig;86089280;DRESDEFFI16;23
+Volks- und Raiffeisenbank Muldental;Grimma;86095484;GENODEF1GMV;31
+Volksbank Delitzsch;Delitzsch;86095554;GENODEF1DZ1;31
+Leipziger Volksbank;Leipzig;86095604;GENODEF1LVB;31
+Bundesbank;Chemnitz;87000000;MARKDEF1870;0
+UniCredit Bank - HypoVereinsbank;Chemnitz;87020086;HYVEDEMM497;0
+UniCredit Bank - HypoVereinsbank;Plauen;87020087;HYVEDEMM481;0
+UniCredit Bank - HypoVereinsbank;Zwickau;87020088;HYVEDEMM441;0
+Commerzbank;Chemnitz;87040000;COBADEFFXXX;23
+Sparkasse Chemnitz;Chemnitz;87050000;CHEKDE81XXX;8
+Sparkasse Mittelsachsen;Freiberg;87052000;WELADED1FGX;8
+Erzgebirgssparkasse;Annaberg-Buchholz;87054000;WELADED1STB;8
+Sparkasse Zwickau;Zwickau;87055000;WELADED1ZWI;8
+Sparkasse Vogtland;Plauen;87058000;WELADED1PLX;8
+Volksbank Mittleres Erzgebirge;Olbernhau;87069075;GENODEF1MBG;31
+Vereinigte Raiffeisenbank Burgstädt;Burgstädt;87069077;GENODEF1BST;31
+Deutsche Bank;Chemnitz;87070000;DEUTDE8CXXX;19
+Deutsche Bank;Chemnitz;87070024;DEUTDEDBCHE;19
+Postbank/DSL Ndl der Deutsche Bank;Chemnitz;87070406;DEUTDE8CP36;1
+Postbank/DSL Ndl der Deutsche Bank;Chemnitz;87070424;DEUTDEDBP36;1
+Commerzbank vormals Dresdner Bank;Chemnitz;87080000;DRESDEFF870;23
+Volksbank Vogtland-Saale-Orla;Plauen;87095824;GENODEF1PL1;31
+Volksbank Vogtland GAA;Plauen;87095899;GENODEF1EXT;0
+Volksbank Zwickau;Zwickau;87095934;GENODEF1Z01;31
+Volksbank-Raiffeisenbank Glauchau;Glauchau;87095974;GENODEF1GC1;31
+Volksbank Mittweida;Mittweida;87096124;GENODEF1MIW;31
+Volksbank Chemnitz;Chemnitz;87096214;GENODEF1CH1;31

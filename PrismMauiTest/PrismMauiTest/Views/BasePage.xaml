@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:system="clr-namespace:System;assembly=netstandard"
+             xmlns:converters1="clr-namespace:PrismMauiTest.Converters"
+             x:Class="PrismMauiTest.Views.BasePage" NavigationPage.HasNavigationBar="False"
+             x:Name="this"
+             ControlTemplate="{DynamicResource BaseContentTemplate}">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters1:BooleanInverseConverter x:Key="BooleanInverseConverter" />
+
+            <ControlTemplate x:Key="BaseContentTemplate">
+                <Grid BackgroundColor="#F5F5F5"
+                      RowSpacing="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <!-- Header -->
+                    <Grid Grid.Row="0" RowSpacing="0" Padding="16"
+                          IsVisible="{Binding HideHeader, Source={x:Reference this}, Converter={StaticResource BooleanInverseConverter}}">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="32" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="32" />
+
+                        </Grid.ColumnDefinitions>
+                        <ImageButton Grid.Column="0" WidthRequest="32" HeightRequest="32" MinimumWidthRequest="24" MinimumHeightRequest="24"
+                                     Padding="4"
+                                     IsVisible="{Binding ShowBackButton, Source={x:Reference this}}"
+                                     VerticalOptions="CenterAndExpand" HorizontalOptions="Start"
+                                     Source="back" BackgroundColor="Transparent"
+                                     Command="{Binding BindingContext.BackCommand, Source={x:Reference this}}" />
+                        
+
+                        <ContentView Grid.Column="2" Grid.Row="0" HorizontalOptions="CenterAndExpand"
+                                     Margin="{Binding HeaderMargin, Source={x:Reference this}}"
+                                     IsEnabled="{Binding HeadlineTemplate, Source={x:Reference this}}"
+                                     IsVisible="{Binding HeadlineTemplate, Source={x:Reference this}}"
+                                     Content="{Binding HeadlineTemplate, Source={x:Reference this}}" />
+
+
+                        <ContentView Grid.Column="4" Grid.Row="0" WidthRequest="32" HeightRequest="32" MinimumWidthRequest="28" MinimumHeightRequest="28"
+                                     Padding="2"
+                                     HorizontalOptions="End"
+                                     IsEnabled="{Binding ToolbarTemplate, Source={x:Reference this}}"
+                                     IsVisible="{Binding ToolbarTemplate, Source={x:Reference this}}"
+                                     Content="{Binding ToolbarTemplate, Source={x:Reference this}}" />
+                    </Grid>
+
+                    <BoxView Grid.Row="1"
+                             HeightRequest="1"
+                             Color="Black" />
+
+                    <!-- Content -->
+                    <ContentPresenter Grid.Row="2" BackgroundColor="#F5F5F5" />
+                    
+                </Grid>
+            </ControlTemplate>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content />
+</ContentPage>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<views:TabBasePage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+                   xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                   xmlns:views="clr-namespace:PrismMauiTest.Views"
+                   xmlns:controls="clr-namespace:PrismMauiTest.UI.Controls"
+                   x:Class="PrismMauiTest.Views.OverviewPage"
+                   HeadlineTemplate="{DynamicResource HeadlineTemplate}"
+                   x:Name="This">
+    <views:TabBasePage.Resources>
+        <ResourceDictionary>
+            <controls:DefaultHeadlineTemplate x:Key="HeadlineTemplate" BindingContext="{Binding Source={x:Reference This}, Path=BindingContext}" Title="P1" />
+        </ResourceDictionary>
+    </views:TabBasePage.Resources>
+    <views:TabBasePage.Content>
+        <Grid Margin="6,0,6,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Button Text="ShowModal1and3" Command="{Binding ShowModalCommand}" />
+        </Grid>
+    </views:TabBasePage.Content>
+</views:TabBasePage>
